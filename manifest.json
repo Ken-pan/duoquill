@@ -12,15 +12,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u63a8\u8350",
-        "\u54a8\u8be2",
-        "\u8d2d\u7269",
-        "\u51b3\u7b56",
+        "推荐",
+        "咨询",
+        "购物",
+        "决策",
         "advisor",
         "guidance",
         "recommendation",
-        "\u5e2e\u4f60\u505a\u9009\u62e9",
-        "\u987e\u95ee\u5411\u7528\u6237\u63a8\u8350\u5546\u54c1\u5361\u7247\uff0c\u4e24\u4eba\u7ad9\u5728\u8d2d\u7269\u8f66\u65c1\u3002"
+        "帮你做选择",
+        "顾问向用户推荐商品卡片，两人站在购物车旁。"
       ],
       "alt": "An adviser recommends product cards to a user beside a shopping cart.",
       "file": "png/scene-01-guidance.png",
@@ -31,8 +31,8 @@
       "sha256": "593ee6b8e919f8b201b6fa06a44eeb6d780f65db299b2333bdab077174303478",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5e2e\u4f60\u505a\u9009\u62e9",
-      "altZh": "\u987e\u95ee\u5411\u7528\u6237\u63a8\u8350\u5546\u54c1\u5361\u7247\uff0c\u4e24\u4eba\u7ad9\u5728\u8d2d\u7269\u8f66\u65c1\u3002"
+      "titleZh": "帮你做选择",
+      "altZh": "顾问向用户推荐商品卡片，两人站在购物车旁。"
     },
     {
       "id": "scene-02-search",
@@ -40,14 +40,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u641c\u7d22",
-        "\u53d1\u73b0",
-        "\u68c0\u7d22",
-        "\u67e5\u627e",
+        "搜索",
+        "发现",
+        "检索",
+        "查找",
         "search",
         "discovery",
-        "\u627e\u5230\u5173\u952e\u7ebf\u7d22",
-        "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u7528\u653e\u5927\u955c\u67e5\u770b\u5361\u7247\uff0c\u627e\u51fa\u5176\u4e2d\u7684\u5173\u952e\u7ebf\u7d22\u3002"
+        "找到关键线索",
+        "一位设计师用放大镜查看卡片，找出其中的关键线索。"
       ],
       "alt": "A designer uses a magnifying glass to find a key detail in a card.",
       "file": "png/scene-02-search.png",
@@ -58,8 +58,8 @@
       "sha256": "6ece69e77da57faa8ab2d912cce2f55efc0258813fca0d8c76e22f268a3769ff",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u627e\u5230\u5173\u952e\u7ebf\u7d22",
-      "altZh": "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u7528\u653e\u5927\u955c\u67e5\u770b\u5361\u7247\uff0c\u627e\u51fa\u5176\u4e2d\u7684\u5173\u952e\u7ebf\u7d22\u3002"
+      "titleZh": "找到关键线索",
+      "altZh": "一位设计师用放大镜查看卡片，找出其中的关键线索。"
     },
     {
       "id": "scene-03-compare",
@@ -67,14 +67,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u5bf9\u6bd4",
-        "\u9009\u62e9",
-        "\u8bc4\u4f30",
-        "\u6bd4\u8f83",
+        "对比",
+        "选择",
+        "评估",
+        "比较",
         "compare",
         "evaluate",
-        "\u5e76\u6392\u770b\u6e05\u5dee\u522b",
-        "\u4e00\u4f4d\u7528\u6237\u67e5\u770b\u5e76\u6392\u7684\u4e24\u5f20\u65b9\u6848\u5361\u7247\uff0c\u6bd4\u8f83\u5b83\u4eec\u7684\u5dee\u522b\u3002"
+        "并排看清差别",
+        "一位用户查看并排的两张方案卡片，比较它们的差别。"
       ],
       "alt": "A user compares two design cards side by side.",
       "file": "png/scene-03-compare.png",
@@ -85,8 +85,8 @@
       "sha256": "4e0499da5524396dc5b26b905658a6afcca009623b0029f4a1f60ff6feab569b",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5e76\u6392\u770b\u6e05\u5dee\u522b",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u67e5\u770b\u5e76\u6392\u7684\u4e24\u5f20\u65b9\u6848\u5361\u7247\uff0c\u6bd4\u8f83\u5b83\u4eec\u7684\u5dee\u522b\u3002"
+      "titleZh": "并排看清差别",
+      "altZh": "一位用户查看并排的两张方案卡片，比较它们的差别。"
     },
     {
       "id": "scene-04-research",
@@ -94,14 +94,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u7814\u7a76",
-        "\u8bbf\u8c08",
-        "\u7528\u6237",
-        "\u6d1e\u5bdf",
+        "研究",
+        "访谈",
+        "用户",
+        "洞察",
         "research",
         "interview",
-        "\u542c\u89c1\u771f\u5b9e\u9700\u6c42",
-        "\u4e24\u4f4d\u7528\u6237\u9762\u5bf9\u9762\u4ea4\u6d41\uff0c\u4e00\u4eba\u503e\u542c\u5e76\u5728\u7b14\u8bb0\u672c\u4e0a\u8bb0\u5f55\u3002"
+        "听见真实需求",
+        "两位用户面对面交流，一人倾听并在笔记本上记录。"
       ],
       "alt": "Two people speak face to face while one listens and takes notes.",
       "file": "png/scene-04-research.png",
@@ -112,8 +112,8 @@
       "sha256": "f56dd5b5765b953673ab2e68134bc1260e501b02f9c747f7beada890fa641735",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u542c\u89c1\u771f\u5b9e\u9700\u6c42",
-      "altZh": "\u4e24\u4f4d\u7528\u6237\u9762\u5bf9\u9762\u4ea4\u6d41\uff0c\u4e00\u4eba\u503e\u542c\u5e76\u5728\u7b14\u8bb0\u672c\u4e0a\u8bb0\u5f55\u3002"
+      "titleZh": "听见真实需求",
+      "altZh": "两位用户面对面交流，一人倾听并在笔记本上记录。"
     },
     {
       "id": "scene-05-collaborate",
@@ -121,26 +121,33 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u534f\u4f5c",
-        "\u56e2\u961f",
-        "\u5171\u521b",
-        "\u5de5\u4f5c\u574a",
+        "协作",
+        "团队",
+        "共创",
+        "工作坊",
         "collaboration",
         "workshop",
-        "\u4e00\u8d77\u63a8\u8fdb\u65b9\u6848",
-        "\u4e24\u4f4d\u8bbe\u8ba1\u5e08\u5728\u767d\u677f\u524d\u4e00\u8d77\u6574\u7406\u65b9\u6848\u5361\u7247\u3002"
+        "一起推进方案",
+        "两位设计师在白板前一起整理方案卡片。"
       ],
       "alt": "Two designers organize design cards on a whiteboard.",
       "file": "png/scene-05-collaborate.png",
-      "preview": "png/scene-05-collaborate.png",
+      "preview": "webp/scene-05-collaborate.webp",
       "width": 1536,
       "height": 1024,
       "bytes": 1200115,
       "sha256": "27306b0e5842a8e85ef231242123409a31848d428d1ef39b9f35a9d21b9442e3",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4e00\u8d77\u63a8\u8fdb\u65b9\u6848",
-      "altZh": "\u4e24\u4f4d\u8bbe\u8ba1\u5e08\u5728\u767d\u677f\u524d\u4e00\u8d77\u6574\u7406\u65b9\u6848\u5361\u7247\u3002"
+      "titleZh": "一起推进方案",
+      "altZh": "两位设计师在白板前一起整理方案卡片。",
+      "webp": {
+        "file": "webp/scene-05-collaborate.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 39098,
+        "sha256": "9ad34e1eb6116ca942e73cc1ee5345020b97cbcebd4ff387caa47ca6548d4e67"
+      }
     },
     {
       "id": "scene-06-organize",
@@ -148,14 +155,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u6574\u7406",
-        "\u5206\u7c7b",
-        "\u4fe1\u606f\u67b6\u6784",
-        "\u76ee\u5f55",
+        "整理",
+        "分类",
+        "信息架构",
+        "目录",
         "organize",
         "catalog",
-        "\u628a\u590d\u6742\u53d8\u6709\u5e8f",
-        "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u628a\u96f6\u6563\u5361\u7247\u6574\u7406\u8fdb\u4e09\u4e2a\u5206\u7c7b\u6587\u4ef6\u5939\u3002"
+        "把复杂变有序",
+        "一位设计师把零散卡片整理进三个分类文件夹。"
       ],
       "alt": "A designer sorts loose cards into three folders.",
       "file": "png/scene-06-organize.png",
@@ -166,8 +173,8 @@
       "sha256": "4bb587169eea0b38f2a32d80587a06910cdecec003b334dc82b2f69552593b2b",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u590d\u6742\u53d8\u6709\u5e8f",
-      "altZh": "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u628a\u96f6\u6563\u5361\u7247\u6574\u7406\u8fdb\u4e09\u4e2a\u5206\u7c7b\u6587\u4ef6\u5939\u3002"
+      "titleZh": "把复杂变有序",
+      "altZh": "一位设计师把零散卡片整理进三个分类文件夹。"
     },
     {
       "id": "scene-07-insight",
@@ -175,16 +182,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u6570\u636e",
-        "\u5206\u6790",
-        "\u6d1e\u5bdf",
-        "\u8bc1\u636e",
-        "\u6307\u6807",
+        "数据",
+        "分析",
+        "洞察",
+        "证据",
+        "指标",
         "analysis",
         "insight",
         "data",
-        "\u8ba9\u8bc1\u636e\u8bf4\u8bdd",
-        "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u6307\u51fa\u5206\u6790\u770b\u677f\u4e0a\u7684\u5173\u952e\u6570\u636e\u67f1\u3002"
+        "让证据说话",
+        "一位设计师指出分析看板上的关键数据柱。"
       ],
       "alt": "A designer points to key data on an analytics board.",
       "file": "png/scene-07-insight.png",
@@ -195,8 +202,8 @@
       "sha256": "c70641d0638b0a8251ebd8b9aaf511b886704e3ad2b43437d8d7b6b33264ccf2",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8ba9\u8bc1\u636e\u8bf4\u8bdd",
-      "altZh": "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u6307\u51fa\u5206\u6790\u770b\u677f\u4e0a\u7684\u5173\u952e\u6570\u636e\u67f1\u3002"
+      "titleZh": "让证据说话",
+      "altZh": "一位设计师指出分析看板上的关键数据柱。"
     },
     {
       "id": "scene-08-launch",
@@ -204,16 +211,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u4ea4\u4ed8",
-        "\u4e0a\u7ebf",
-        "\u53d1\u5e03",
-        "\u539f\u578b",
-        "\u4ea7\u54c1",
+        "交付",
+        "上线",
+        "发布",
+        "原型",
+        "产品",
         "launch",
         "delivery",
         "prototype",
-        "\u628a\u60f3\u6cd5\u5e26\u5230\u73b0\u573a",
-        "\u4e24\u4f4d\u8bbe\u8ba1\u5e08\u4e00\u8d77\u5c55\u793a\u4e00\u4e2a\u5b8c\u6210\u7684\u4ea7\u54c1\u754c\u9762\u3002"
+        "把想法带到现场",
+        "两位设计师一起展示一个完成的产品界面。"
       ],
       "alt": "Two designers present a completed product interface.",
       "file": "png/scene-08-launch.png",
@@ -224,8 +231,8 @@
       "sha256": "d5ce10a121917c39e56243e5863be24c6d1ecc59281fc1d93c4f7763eff793b3",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u60f3\u6cd5\u5e26\u5230\u73b0\u573a",
-      "altZh": "\u4e24\u4f4d\u8bbe\u8ba1\u5e08\u4e00\u8d77\u5c55\u793a\u4e00\u4e2a\u5b8c\u6210\u7684\u4ea7\u54c1\u754c\u9762\u3002"
+      "titleZh": "把想法带到现场",
+      "altZh": "两位设计师一起展示一个完成的产品界面。"
     },
     {
       "id": "spot-01-search",
@@ -233,23 +240,30 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u641c\u7d22",
-        "\u653e\u5927\u955c",
+        "搜索",
+        "放大镜",
         "search",
-        "\u641c\u7d22",
-        "\u4e00\u53ea\u653e\u5927\u955c\u67e5\u770b\u4e00\u5f20\u5361\u7247\u4e0a\u7684\u84dd\u8272\u7ebf\u7d22\u3002"
+        "搜索",
+        "一只放大镜查看一张卡片上的蓝色线索。"
       ],
       "alt": "A magnifying glass highlights a blue detail on a card.",
       "file": "png/spot-01-search.png",
-      "preview": "png/spot-01-search.png",
+      "preview": "webp/spot-01-search.webp",
       "width": 1254,
       "height": 1254,
       "bytes": 510979,
       "sha256": "e26a571e3430cfb2edc86a6f1b6ea3022fc2fbf4db0029d32abc9d126127c0ab",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u641c\u7d22",
-      "altZh": "\u4e00\u53ea\u653e\u5927\u955c\u67e5\u770b\u4e00\u5f20\u5361\u7247\u4e0a\u7684\u84dd\u8272\u7ebf\u7d22\u3002"
+      "titleZh": "搜索",
+      "altZh": "一只放大镜查看一张卡片上的蓝色线索。",
+      "webp": {
+        "file": "webp/spot-01-search.webp",
+        "width": 768,
+        "height": 768,
+        "bytes": 24394,
+        "sha256": "fa681050adbecfbee1b0f6efe414f4ffe03d8205877664e9b842d9d7f1754e2c"
+      }
     },
     {
       "id": "spot-02-catalog",
@@ -257,13 +271,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u76ee\u5f55",
-        "\u5206\u7c7b",
-        "\u8d44\u6599",
+        "目录",
+        "分类",
+        "资料",
         "catalog",
         "collection",
-        "\u76ee\u5f55",
-        "\u4e09\u4e2a\u5206\u7c7b\u6587\u4ef6\u5939\u4e2d\uff0c\u4e00\u5f20\u5361\u7247\u88ab\u653e\u5165\u84dd\u8272\u6587\u4ef6\u5939\u3002"
+        "目录",
+        "三个分类文件夹中，一张卡片被放入蓝色文件夹。"
       ],
       "alt": "A card is placed into a blue folder among three categories.",
       "file": "png/spot-02-catalog.png",
@@ -274,8 +288,8 @@
       "sha256": "dd9f56f0c36e48e211298ad819bda5a61695fc490d794be61f6e38ac0e4cceb4",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u76ee\u5f55",
-      "altZh": "\u4e09\u4e2a\u5206\u7c7b\u6587\u4ef6\u5939\u4e2d\uff0c\u4e00\u5f20\u5361\u7247\u88ab\u653e\u5165\u84dd\u8272\u6587\u4ef6\u5939\u3002"
+      "titleZh": "目录",
+      "altZh": "三个分类文件夹中，一张卡片被放入蓝色文件夹。"
     },
     {
       "id": "spot-03-workflow",
@@ -283,14 +297,14 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u6d41\u7a0b",
-        "\u8fde\u63a5",
-        "\u81ea\u52a8\u5316",
-        "\u7cfb\u7edf",
+        "流程",
+        "连接",
+        "自动化",
+        "系统",
         "workflow",
         "automation",
-        "\u6d41\u7a0b",
-        "\u4e09\u4e2a\u5361\u7247\u8282\u70b9\u901a\u8fc7\u7b80\u6d01\u7684\u7bad\u5934\u4e32\u8054\u3002"
+        "流程",
+        "三个卡片节点通过简洁的箭头串联。"
       ],
       "alt": "Three card nodes are connected by arrows.",
       "file": "png/spot-03-workflow.png",
@@ -301,8 +315,8 @@
       "sha256": "5e140c27ed76431a58c1561fcb9584cdb252ee217f5836fa85a291b4e5d35e65",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6d41\u7a0b",
-      "altZh": "\u4e09\u4e2a\u5361\u7247\u8282\u70b9\u901a\u8fc7\u7b80\u6d01\u7684\u7bad\u5934\u4e32\u8054\u3002"
+      "titleZh": "流程",
+      "altZh": "三个卡片节点通过简洁的箭头串联。"
     },
     {
       "id": "spot-04-complete",
@@ -310,15 +324,15 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u5b8c\u6210",
-        "\u9a8c\u8bc1",
-        "\u901a\u8fc7",
-        "\u6210\u529f",
+        "完成",
+        "验证",
+        "通过",
+        "成功",
         "complete",
         "success",
         "validate",
-        "\u5b8c\u6210",
-        "\u4e00\u5f20\u6e05\u5355\u5361\u7247\u4e0a\u6709\u4e00\u4e2a\u9192\u76ee\u7684\u84dd\u8272\u52fe\u3002"
+        "完成",
+        "一张清单卡片上有一个醒目的蓝色勾。"
       ],
       "alt": "A checklist card has a prominent blue check mark.",
       "file": "png/spot-04-complete.png",
@@ -329,8 +343,8 @@
       "sha256": "47877d6d26c79025c9bf6c4664d98c3ee151b6816fc94e344247773cf493b890",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5b8c\u6210",
-      "altZh": "\u4e00\u5f20\u6e05\u5355\u5361\u7247\u4e0a\u6709\u4e00\u4e2a\u9192\u76ee\u7684\u84dd\u8272\u52fe\u3002"
+      "titleZh": "完成",
+      "altZh": "一张清单卡片上有一个醒目的蓝色勾。"
     },
     {
       "id": "pain-01-overload",
@@ -338,15 +352,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u4fe1\u606f\u8fc7\u8f7d",
-        "\u5bc6\u5ea6",
-        "\u8ba4\u77e5\u8d1f\u8377",
+        "困扰",
+        "信息过载",
+        "密度",
+        "认知负荷",
         "overload",
         "cognitive load",
         "too much",
-        "\u4fe1\u606f\u592a\u591a\uff0c\u65e0\u4ece\u4e0b\u624b",
-        "\u4e00\u4f4d\u7528\u6237\u9762\u5bf9\u591a\u5f20\u5185\u5bb9\u5361\u7247\uff0c\u72b9\u8c6b\u7740\u4e0d\u77e5\u9053\u5148\u770b\u54ea\u4e00\u5f20\u3002"
+        "信息太多，无从下手",
+        "一位用户面对多张内容卡片，犹豫着不知道先看哪一张。"
       ],
       "alt": "A user faces many content cards and hesitates over where to start.",
       "file": "png/pain-01-overload.png",
@@ -357,8 +371,8 @@
       "sha256": "233f5f6960542a16f482674d6f6d240db562024a7f5d1d32616eb081984cff52",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4fe1\u606f\u592a\u591a\uff0c\u65e0\u4ece\u4e0b\u624b",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u9762\u5bf9\u591a\u5f20\u5185\u5bb9\u5361\u7247\uff0c\u72b9\u8c6b\u7740\u4e0d\u77e5\u9053\u5148\u770b\u54ea\u4e00\u5f20\u3002"
+      "titleZh": "信息太多，无从下手",
+      "altZh": "一位用户面对多张内容卡片，犹豫着不知道先看哪一张。"
     },
     {
       "id": "pain-02-no-results",
@@ -366,16 +380,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u641c\u7d22",
-        "\u65e0\u7ed3\u679c",
-        "\u7a7a\u72b6\u6001",
-        "\u67e5\u627e",
+        "困扰",
+        "搜索",
+        "无结果",
+        "空状态",
+        "查找",
         "no results",
         "search",
         "empty state",
-        "\u641c\u7d22\u4e86\uff0c\u8fd8\u662f\u627e\u4e0d\u5230",
-        "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u653e\u5927\u955c\u67e5\u770b\u7a7a\u767d\u641c\u7d22\u7ed3\u679c\uff0c\u4ecd\u672a\u627e\u5230\u76ee\u6807\u3002"
+        "搜索了，还是找不到",
+        "一位用户拿着放大镜查看空白搜索结果，仍未找到目标。"
       ],
       "alt": "A user examines empty search results with a magnifying glass.",
       "file": "png/pain-02-no-results.png",
@@ -386,8 +400,8 @@
       "sha256": "8b7bec132420b0bb8b86a06b06ede4debbb1b4e8a9a0698fa89f06437954300a",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u641c\u7d22\u4e86\uff0c\u8fd8\u662f\u627e\u4e0d\u5230",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u653e\u5927\u955c\u67e5\u770b\u7a7a\u767d\u641c\u7d22\u7ed3\u679c\uff0c\u4ecd\u672a\u627e\u5230\u76ee\u6807\u3002"
+      "titleZh": "搜索了，还是找不到",
+      "altZh": "一位用户拿着放大镜查看空白搜索结果，仍未找到目标。"
     },
     {
       "id": "pain-03-uncertain-choice",
@@ -395,16 +409,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u5bf9\u6bd4",
-        "\u96be\u9009",
-        "\u72b9\u8c6b",
-        "\u8bc4\u4f30",
+        "困扰",
+        "对比",
+        "难选",
+        "犹豫",
+        "评估",
         "comparison",
         "uncertainty",
         "choice",
-        "\u770b\u4e86\u5bf9\u6bd4\uff0c\u4ecd\u96be\u51b3\u5b9a",
-        "\u4e00\u4f4d\u7528\u6237\u5728\u4e09\u5f20\u76f8\u4f3c\u7684\u65b9\u6848\u5361\u7247\u4e4b\u95f4\u72b9\u8c6b\u3002"
+        "看了对比，仍难决定",
+        "一位用户在三张相似的方案卡片之间犹豫。"
       ],
       "alt": "A user hesitates between three similar options.",
       "file": "png/pain-03-uncertain-choice.png",
@@ -415,8 +429,8 @@
       "sha256": "0b2fcbcf3dfd441e74d4148f793c61aa991cfe49082bb0db0139e063b738fd16",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u770b\u4e86\u5bf9\u6bd4\uff0c\u4ecd\u96be\u51b3\u5b9a",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u5728\u4e09\u5f20\u76f8\u4f3c\u7684\u65b9\u6848\u5361\u7247\u4e4b\u95f4\u72b9\u8c6b\u3002"
+      "titleZh": "看了对比，仍难决定",
+      "altZh": "一位用户在三张相似的方案卡片之间犹豫。"
     },
     {
       "id": "pain-04-navigation",
@@ -424,16 +438,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u5bfc\u822a",
-        "\u8ff7\u8def",
-        "\u5165\u53e3",
-        "\u5c42\u7ea7",
+        "困扰",
+        "导航",
+        "迷路",
+        "入口",
+        "层级",
         "next step",
         "navigation",
         "wayfinding",
-        "\u4e0d\u77e5\u9053\u4e0b\u4e00\u6b65\u5f80\u54ea\u8d70",
-        "\u4e00\u4f4d\u7528\u6237\u7ad9\u5728\u4e09\u4e2a\u65b9\u5411\u6307\u793a\u724c\u65c1\uff0c\u4e0d\u786e\u5b9a\u8be5\u8d70\u54ea\u6761\u8def\u5f84\u3002"
+        "不知道下一步往哪走",
+        "一位用户站在三个方向指示牌旁，不确定该走哪条路径。"
       ],
       "alt": "A user stands beside signs pointing in three directions.",
       "file": "png/pain-04-navigation.png",
@@ -444,8 +458,8 @@
       "sha256": "1dcb801a663ddcc51bd1b52a79cbff42dcb8566af9e5544c9823a29b5a2d2e8d",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4e0d\u77e5\u9053\u4e0b\u4e00\u6b65\u5f80\u54ea\u8d70",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u7ad9\u5728\u4e09\u4e2a\u65b9\u5411\u6307\u793a\u724c\u65c1\uff0c\u4e0d\u786e\u5b9a\u8be5\u8d70\u54ea\u6761\u8def\u5f84\u3002"
+      "titleZh": "不知道下一步往哪走",
+      "altZh": "一位用户站在三个方向指示牌旁，不确定该走哪条路径。"
     },
     {
       "id": "pain-05-fragmented-tools",
@@ -453,17 +467,17 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u5de5\u5177",
-        "\u5207\u6362",
-        "\u5272\u88c2",
-        "\u591a\u7aef",
-        "\u788e\u7247",
+        "困扰",
+        "工具",
+        "切换",
+        "割裂",
+        "多端",
+        "碎片",
         "fragmented",
         "context switching",
         "tools",
-        "\u5728\u591a\u4e2a\u5de5\u5177\u4e4b\u95f4\u6765\u56de\u5207\u6362",
-        "\u4e00\u4f4d\u7528\u6237\u5728\u7535\u8111\u3001\u624b\u673a\u548c\u5206\u6563\u7684\u6587\u4ef6\u4e4b\u95f4\u6765\u56de\u5904\u7406\u540c\u4e00\u4efb\u52a1\u3002"
+        "在多个工具之间来回切换",
+        "一位用户在电脑、手机和分散的文件之间来回处理同一任务。"
       ],
       "alt": "A user handles one task across a computer, phone, and scattered files.",
       "file": "png/pain-05-fragmented-tools.png",
@@ -474,8 +488,8 @@
       "sha256": "447bc79cc46a1d04ff95cbae024b83f5a6fb8c498cfd409544e69e494b0171c8",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5728\u591a\u4e2a\u5de5\u5177\u4e4b\u95f4\u6765\u56de\u5207\u6362",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u5728\u7535\u8111\u3001\u624b\u673a\u548c\u5206\u6563\u7684\u6587\u4ef6\u4e4b\u95f4\u6765\u56de\u5904\u7406\u540c\u4e00\u4efb\u52a1\u3002"
+      "titleZh": "在多个工具之间来回切换",
+      "altZh": "一位用户在电脑、手机和分散的文件之间来回处理同一任务。"
     },
     {
       "id": "pain-06-error-recovery",
@@ -483,16 +497,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u9519\u8bef",
-        "\u5931\u8d25",
-        "\u6062\u590d",
-        "\u62a5\u9519",
+        "困扰",
+        "错误",
+        "失败",
+        "恢复",
+        "报错",
         "retry",
         "error",
         "recovery",
-        "\u64cd\u4f5c\u4e2d\u65ad\uff0c\u4e0d\u77e5\u600e\u4e48\u6062\u590d",
-        "\u4e00\u4f4d\u7528\u6237\u9762\u5bf9\u5e26\u6709\u9519\u8bef\u6807\u8bb0\u7684\u64cd\u4f5c\u7a97\u53e3\uff0c\u4e0d\u77e5\u9053\u5982\u4f55\u6062\u590d\u3002"
+        "操作中断，不知怎么恢复",
+        "一位用户面对带有错误标记的操作窗口，不知道如何恢复。"
       ],
       "alt": "A user faces an error window without a clear recovery path.",
       "file": "png/pain-06-error-recovery.png",
@@ -503,8 +517,8 @@
       "sha256": "1990f6bd7d1ad939802859fd11bb91af1115425663a72541b5e112fca4de1fa0",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u64cd\u4f5c\u4e2d\u65ad\uff0c\u4e0d\u77e5\u600e\u4e48\u6062\u590d",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u9762\u5bf9\u5e26\u6709\u9519\u8bef\u6807\u8bb0\u7684\u64cd\u4f5c\u7a97\u53e3\uff0c\u4e0d\u77e5\u9053\u5982\u4f55\u6062\u590d\u3002"
+      "titleZh": "操作中断，不知怎么恢复",
+      "altZh": "一位用户面对带有错误标记的操作窗口，不知道如何恢复。"
     },
     {
       "id": "pain-07-long-form",
@@ -512,16 +526,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u8868\u5355",
-        "\u91cd\u590d\u8f93\u5165",
-        "\u7e41\u7410",
-        "\u586b\u5199",
+        "困扰",
+        "表单",
+        "重复输入",
+        "繁琐",
+        "填写",
         "form",
         "repetition",
         "friction",
-        "\u586b\u4e86\u5f88\u591a\uff0c\u4efb\u52a1\u8fd8\u6ca1\u7ed3\u675f",
-        "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u7b14\uff0c\u9762\u5bf9\u4ecd\u6709\u591a\u9879\u7a7a\u767d\u5b57\u6bb5\u7684\u957f\u8868\u5355\u3002"
+        "填了很多，任务还没结束",
+        "一位用户拿着笔，面对仍有多项空白字段的长表单。"
       ],
       "alt": "A user holds a pen beside a long form with empty fields.",
       "file": "png/pain-07-long-form.png",
@@ -532,8 +546,8 @@
       "sha256": "c515d79c7d3edb08123ef9effb7826ff5ea581829f4df5c43fa977c8440e9540",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u586b\u4e86\u5f88\u591a\uff0c\u4efb\u52a1\u8fd8\u6ca1\u7ed3\u675f",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u7b14\uff0c\u9762\u5bf9\u4ecd\u6709\u591a\u9879\u7a7a\u767d\u5b57\u6bb5\u7684\u957f\u8868\u5355\u3002"
+      "titleZh": "填了很多，任务还没结束",
+      "altZh": "一位用户拿着笔，面对仍有多项空白字段的长表单。"
     },
     {
       "id": "pain-08-waiting",
@@ -541,16 +555,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u7b49\u5f85",
-        "\u52a0\u8f7d",
-        "\u8fdb\u5ea6",
-        "\u72b6\u6001",
+        "困扰",
+        "等待",
+        "加载",
+        "进度",
+        "状态",
         "loading",
         "waiting",
         "progress",
-        "\u7b49\u5f85\u65f6\uff0c\u4e0d\u77e5\u9053\u8fdb\u5ea6",
-        "\u4e00\u4f4d\u7528\u6237\u7b49\u5f85\u4e00\u4e2a\u53ea\u6709\u5c11\u91cf\u8fdb\u5ea6\u7684\u4efb\u52a1\uff0c\u65c1\u8fb9\u653e\u7740\u6c99\u6f0f\u3002"
+        "等待时，不知道进度",
+        "一位用户等待一个只有少量进度的任务，旁边放着沙漏。"
       ],
       "alt": "A user waits beside a task indicator and an hourglass.",
       "file": "png/pain-08-waiting.png",
@@ -561,8 +575,8 @@
       "sha256": "617046315e3b9ac92a70fe8b1d22a30738d9a1d32a3425b8ef9ebe3433f4a97d",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7b49\u5f85\u65f6\uff0c\u4e0d\u77e5\u9053\u8fdb\u5ea6",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u7b49\u5f85\u4e00\u4e2a\u53ea\u6709\u5c11\u91cf\u8fdb\u5ea6\u7684\u4efb\u52a1\uff0c\u65c1\u8fb9\u653e\u7740\u6c99\u6f0f\u3002"
+      "titleZh": "等待时，不知道进度",
+      "altZh": "一位用户等待一个只有少量进度的任务，旁边放着沙漏。"
     },
     {
       "id": "pain-09-conflicting-feedback",
@@ -570,16 +584,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u53cd\u9988",
-        "\u51b2\u7a81",
-        "\u610f\u89c1",
-        "\u534f\u4f5c",
+        "困扰",
+        "反馈",
+        "冲突",
+        "意见",
+        "协作",
         "conflict",
         "feedback",
         "stakeholders",
-        "\u6536\u5230\u53cd\u9988\uff0c\u5374\u4e92\u76f8\u77db\u76fe",
-        "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u540c\u65f6\u6536\u5230\u4e24\u4e2a\u4e0d\u540c\u65b9\u5411\u7684\u65b9\u6848\u5efa\u8bae\uff0c\u72b9\u8c6b\u7740\u5982\u4f55\u5904\u7406\u3002"
+        "收到反馈，却互相矛盾",
+        "一位设计师同时收到两个不同方向的方案建议，犹豫着如何处理。"
       ],
       "alt": "A designer receives two suggestions pointing in different directions.",
       "file": "png/pain-09-conflicting-feedback.png",
@@ -590,8 +604,8 @@
       "sha256": "8a40323a5d9b290dd0ddac8e6cf1e327c6bc44790d45c4aae230ad76441fe201",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6536\u5230\u53cd\u9988\uff0c\u5374\u4e92\u76f8\u77db\u76fe",
-      "altZh": "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u540c\u65f6\u6536\u5230\u4e24\u4e2a\u4e0d\u540c\u65b9\u5411\u7684\u65b9\u6848\u5efa\u8bae\uff0c\u72b9\u8c6b\u7740\u5982\u4f55\u5904\u7406\u3002"
+      "titleZh": "收到反馈，却互相矛盾",
+      "altZh": "一位设计师同时收到两个不同方向的方案建议，犹豫着如何处理。"
     },
     {
       "id": "pain-10-handoff-gap",
@@ -599,16 +613,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u4ea4\u63a5",
-        "\u65ad\u70b9",
-        "\u534f\u4f5c",
-        "\u4fe1\u606f\u7f3a\u5931",
+        "困扰",
+        "交接",
+        "断点",
+        "协作",
+        "信息缺失",
         "handoff",
         "missing context",
         "collaboration",
-        "\u4ea4\u63a5\u4e4b\u540e\uff0c\u4fe1\u606f\u6389\u4e86\u4e00\u6bb5",
-        "\u4e24\u4f4d\u540c\u4e8b\u5404\u62ff\u7740\u4e00\u4efd\u4e0d\u5b8c\u6574\u7684\u8d44\u6599\uff0c\u4e2d\u95f4\u7684\u8fde\u63a5\u6709\u660e\u663e\u7f3a\u53e3\u3002"
+        "交接之后，信息掉了一段",
+        "两位同事各拿着一份不完整的资料，中间的连接有明显缺口。"
       ],
       "alt": "Two colleagues hold incomplete materials with a gap between them.",
       "file": "png/pain-10-handoff-gap.png",
@@ -619,8 +633,8 @@
       "sha256": "6b1eef67d7d095e9b1b0d31c00ae5a9602e1bdbc694f012aa49f59f7468aec3c",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4ea4\u63a5\u4e4b\u540e\uff0c\u4fe1\u606f\u6389\u4e86\u4e00\u6bb5",
-      "altZh": "\u4e24\u4f4d\u540c\u4e8b\u5404\u62ff\u7740\u4e00\u4efd\u4e0d\u5b8c\u6574\u7684\u8d44\u6599\uff0c\u4e2d\u95f4\u7684\u8fde\u63a5\u6709\u660e\u663e\u7f3a\u53e3\u3002"
+      "titleZh": "交接之后，信息掉了一段",
+      "altZh": "两位同事各拿着一份不完整的资料，中间的连接有明显缺口。"
     },
     {
       "id": "pain-11-readability",
@@ -628,16 +642,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u53ef\u8bfb\u6027",
-        "\u9605\u8bfb",
-        "\u5bc6\u96c6",
-        "\u5b57\u53f7",
+        "困扰",
+        "可读性",
+        "阅读",
+        "密集",
+        "字号",
         "readability",
         "accessibility",
         "density",
-        "\u5185\u5bb9\u592a\u6324\uff0c\u8bfb\u8d77\u6765\u8d39\u529b",
-        "\u4e00\u4f4d\u6234\u773c\u955c\u7684\u7528\u6237\u51d1\u8fd1\u9605\u8bfb\u4e00\u5f20\u6392\u7248\u8fc7\u4e8e\u5bc6\u96c6\u7684\u5185\u5bb9\u5361\u7247\u3002"
+        "内容太挤，读起来费力",
+        "一位戴眼镜的用户凑近阅读一张排版过于密集的内容卡片。"
       ],
       "alt": "A user with glasses leans toward a densely arranged card.",
       "file": "png/pain-11-readability.png",
@@ -648,8 +662,8 @@
       "sha256": "1a78dd379b0cf6df9dfc6af4affd2fab1f91917098d06192d41bb13ea5900b70",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5185\u5bb9\u592a\u6324\uff0c\u8bfb\u8d77\u6765\u8d39\u529b",
-      "altZh": "\u4e00\u4f4d\u6234\u773c\u955c\u7684\u7528\u6237\u51d1\u8fd1\u9605\u8bfb\u4e00\u5f20\u6392\u7248\u8fc7\u4e8e\u5bc6\u96c6\u7684\u5185\u5bb9\u5361\u7247\u3002"
+      "titleZh": "内容太挤，读起来费力",
+      "altZh": "一位戴眼镜的用户凑近阅读一张排版过于密集的内容卡片。"
     },
     {
       "id": "pain-12-trust",
@@ -657,17 +671,17 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u4fe1\u4efb",
-        "\u89e3\u91ca",
+        "困扰",
+        "信任",
+        "解释",
         "AI",
-        "\u63a8\u8350",
-        "\u9ed1\u7bb1",
+        "推荐",
+        "黑箱",
         "trust",
         "explainability",
         "recommendation",
-        "\u6709\u4e86\u63a8\u8350\uff0c\u5374\u4e0d\u7406\u89e3\u539f\u56e0",
-        "\u4e00\u4f4d\u7528\u6237\u67e5\u770b\u63a8\u8350\u5361\u7247\uff0c\u4ecd\u5728\u5bfb\u627e\u652f\u6491\u63a8\u8350\u7684\u4f9d\u636e\u3002"
+        "有了推荐，却不理解原因",
+        "一位用户查看推荐卡片，仍在寻找支撑推荐的依据。"
       ],
       "alt": "A user examines a recommendation card for supporting evidence.",
       "file": "png/pain-12-trust.png",
@@ -678,8 +692,8 @@
       "sha256": "52fe1164b2d2e92d2716f9970d0f8cc29e512172122f5b237dae8409c9632ad2",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6709\u4e86\u63a8\u8350\uff0c\u5374\u4e0d\u7406\u89e3\u539f\u56e0",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u67e5\u770b\u63a8\u8350\u5361\u7247\uff0c\u4ecd\u5728\u5bfb\u627e\u652f\u6491\u63a8\u8350\u7684\u4f9d\u636e\u3002"
+      "titleZh": "有了推荐，却不理解原因",
+      "altZh": "一位用户查看推荐卡片，仍在寻找支撑推荐的依据。"
     },
     {
       "id": "person-01-thinking",
@@ -687,15 +701,15 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4eba\u7269",
-        "\u7528\u6237",
-        "\u601d\u8003",
-        "\u72b9\u8c6b",
+        "人物",
+        "用户",
+        "思考",
+        "犹豫",
         "curly hair",
         "thinking",
         "user",
-        "\u601d\u8003\u4e2d\u7684\u7528\u6237",
-        "\u4e00\u4f4d\u77ed\u5377\u53d1\u7528\u6237\u4e00\u624b\u6258\u7740\u4e0b\u5df4\uff0c\u4e00\u624b\u62ff\u7740\u5361\u7247\u601d\u8003\u3002"
+        "思考中的用户",
+        "一位短卷发用户一手托着下巴，一手拿着卡片思考。"
       ],
       "alt": "A user with short curls holds a card and rests a hand on their chin.",
       "file": "png/person-01-thinking.png",
@@ -706,8 +720,8 @@
       "sha256": "38f224ee30b5e41bf90e1737375651176087a7882630e210070f85c74f816f16",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u601d\u8003\u4e2d\u7684\u7528\u6237",
-      "altZh": "\u4e00\u4f4d\u77ed\u5377\u53d1\u7528\u6237\u4e00\u624b\u6258\u7740\u4e0b\u5df4\uff0c\u4e00\u624b\u62ff\u7740\u5361\u7247\u601d\u8003\u3002"
+      "titleZh": "思考中的用户",
+      "altZh": "一位短卷发用户一手托着下巴，一手拿着卡片思考。"
     },
     {
       "id": "person-02-explaining",
@@ -715,15 +729,15 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4eba\u7269",
-        "\u89e3\u91ca",
-        "\u987e\u95ee",
-        "\u8bb2\u89e3",
+        "人物",
+        "解释",
+        "顾问",
+        "讲解",
         "glasses",
         "explaining",
         "advisor",
-        "\u89e3\u91ca\u65b9\u6848\u7684\u540c\u4e8b",
-        "\u4e00\u4f4d\u6234\u773c\u955c\u7684\u540c\u4e8b\u62ff\u7740\u7b14\u8bb0\u672c\uff0c\u7528\u624b\u52bf\u89e3\u91ca\u65b9\u6848\u3002"
+        "解释方案的同事",
+        "一位戴眼镜的同事拿着笔记本，用手势解释方案。"
       ],
       "alt": "A colleague with glasses holds a notebook and gestures while explaining.",
       "file": "png/person-02-explaining.png",
@@ -734,8 +748,8 @@
       "sha256": "593744f7233ee785ed7d677f239253e911e58e6374989856a386fbb4047f6050",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u89e3\u91ca\u65b9\u6848\u7684\u540c\u4e8b",
-      "altZh": "\u4e00\u4f4d\u6234\u773c\u955c\u7684\u540c\u4e8b\u62ff\u7740\u7b14\u8bb0\u672c\uff0c\u7528\u624b\u52bf\u89e3\u91ca\u65b9\u6848\u3002"
+      "titleZh": "解释方案的同事",
+      "altZh": "一位戴眼镜的同事拿着笔记本，用手势解释方案。"
     },
     {
       "id": "person-03-listening",
@@ -743,15 +757,15 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4eba\u7269",
-        "\u8bbf\u8c08",
-        "\u8bb0\u5f55",
-        "\u503e\u542c",
+        "人物",
+        "访谈",
+        "记录",
+        "倾听",
         "bob",
         "listening",
         "researcher",
-        "\u8ba4\u771f\u503e\u542c\u7684\u7814\u7a76\u8005",
-        "\u4e00\u4f4d\u9f50\u80a9\u77ed\u53d1\u7814\u7a76\u8005\u5750\u7740\u503e\u542c\uff0c\u5728\u7b14\u8bb0\u672c\u4e0a\u8bb0\u5f55\u3002"
+        "认真倾听的研究者",
+        "一位齐肩短发研究者坐着倾听，在笔记本上记录。"
       ],
       "alt": "A researcher with shoulder-length hair listens and takes notes.",
       "file": "png/person-03-listening.png",
@@ -762,8 +776,8 @@
       "sha256": "b0791936f12093b08043a234ab20ec2914dcc459ff43d76a78fc16a3f8af15e5",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8ba4\u771f\u503e\u542c\u7684\u7814\u7a76\u8005",
-      "altZh": "\u4e00\u4f4d\u9f50\u80a9\u77ed\u53d1\u7814\u7a76\u8005\u5750\u7740\u503e\u542c\uff0c\u5728\u7b14\u8bb0\u672c\u4e0a\u8bb0\u5f55\u3002"
+      "titleZh": "认真倾听的研究者",
+      "altZh": "一位齐肩短发研究者坐着倾听，在笔记本上记录。"
     },
     {
       "id": "person-04-participating",
@@ -771,16 +785,16 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4eba\u7269",
-        "\u53c2\u4e0e",
-        "\u5305\u5bb9",
-        "\u534f\u4f5c",
-        "\u8f6e\u6905",
+        "人物",
+        "参与",
+        "包容",
+        "协作",
+        "轮椅",
         "participation",
         "inclusive",
         "colleague",
-        "\u53c2\u4e0e\u8ba8\u8bba\u7684\u540c\u4e8b",
-        "\u4e00\u4f4d\u4f7f\u7528\u8f6e\u6905\u7684\u540c\u4e8b\u62ff\u7740\u7b14\u8bb0\u672c\uff0c\u7528\u624b\u52bf\u53c2\u4e0e\u8ba8\u8bba\u3002"
+        "参与讨论的同事",
+        "一位使用轮椅的同事拿着笔记本，用手势参与讨论。"
       ],
       "alt": "A colleague using a wheelchair holds a notebook and joins a discussion.",
       "file": "png/person-04-participating.png",
@@ -791,8 +805,8 @@
       "sha256": "ba7004ef93063e769fb2add7045e2c6b73122adf55986529a38087d4121f5243",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u53c2\u4e0e\u8ba8\u8bba\u7684\u540c\u4e8b",
-      "altZh": "\u4e00\u4f4d\u4f7f\u7528\u8f6e\u6905\u7684\u540c\u4e8b\u62ff\u7740\u7b14\u8bb0\u672c\uff0c\u7528\u624b\u52bf\u53c2\u4e0e\u8ba8\u8bba\u3002"
+      "titleZh": "参与讨论的同事",
+      "altZh": "一位使用轮椅的同事拿着笔记本，用手势参与讨论。"
     },
     {
       "id": "work-01-plan",
@@ -800,16 +814,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u89c4\u5212",
-        "\u8ba1\u5212",
-        "\u4f18\u5148\u7ea7",
-        "\u770b\u677f",
-        "\u4efb\u52a1",
+        "规划",
+        "计划",
+        "优先级",
+        "看板",
+        "任务",
         "planning",
         "priorities",
         "roadmap",
-        "\u628a\u5de5\u4f5c\u6392\u51fa\u4f18\u5148\u7ea7",
-        "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u628a\u4e00\u5f20\u4efb\u52a1\u5361\u7247\u653e\u5165\u4e09\u5217\u8ba1\u5212\u770b\u677f\u3002"
+        "把工作排出优先级",
+        "一位设计师把一张任务卡片放入三列计划看板。"
       ],
       "alt": "A designer places a task card on a three-column planning board.",
       "file": "png/work-01-plan.png",
@@ -820,8 +834,8 @@
       "sha256": "d7a1bd6a5a94ef903750530b3732dce17580305d4f9b06fee48dafe9ec947584",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u5de5\u4f5c\u6392\u51fa\u4f18\u5148\u7ea7",
-      "altZh": "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u628a\u4e00\u5f20\u4efb\u52a1\u5361\u7247\u653e\u5165\u4e09\u5217\u8ba1\u5212\u770b\u677f\u3002"
+      "titleZh": "把工作排出优先级",
+      "altZh": "一位设计师把一张任务卡片放入三列计划看板。"
     },
     {
       "id": "work-02-prototype",
@@ -829,15 +843,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u539f\u578b",
-        "\u8bbe\u8ba1",
-        "\u642d\u5efa",
-        "\u5236\u4f5c",
+        "原型",
+        "设计",
+        "搭建",
+        "制作",
         "prototype",
         "build",
         "design",
-        "\u628a\u60f3\u6cd5\u53d8\u6210\u53ef\u8bd5\u7684\u539f\u578b",
-        "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u628a\u754c\u9762\u6a21\u5757\u7ec4\u5408\u6210\u624b\u673a\u4e0e\u684c\u9762\u539f\u578b\u3002"
+        "把想法变成可试的原型",
+        "一位设计师把界面模块组合成手机与桌面原型。"
       ],
       "alt": "A designer assembles interface modules into phone and desktop prototypes.",
       "file": "png/work-02-prototype.png",
@@ -848,8 +862,8 @@
       "sha256": "f5178e2e4bd01b7432600b98dd4195ca24de31a37a15587f26b00f355658b5cc",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u60f3\u6cd5\u53d8\u6210\u53ef\u8bd5\u7684\u539f\u578b",
-      "altZh": "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u628a\u754c\u9762\u6a21\u5757\u7ec4\u5408\u6210\u624b\u673a\u4e0e\u684c\u9762\u539f\u578b\u3002"
+      "titleZh": "把想法变成可试的原型",
+      "altZh": "一位设计师把界面模块组合成手机与桌面原型。"
     },
     {
       "id": "work-03-usability-test",
@@ -857,15 +871,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u6d4b\u8bd5",
-        "\u53ef\u7528\u6027",
-        "\u89c2\u5bdf",
-        "\u4efb\u52a1",
+        "测试",
+        "可用性",
+        "观察",
+        "任务",
         "usability",
         "test",
         "observe",
-        "\u89c2\u5bdf\u7528\u6237\u600e\u6837\u5b8c\u6210\u4efb\u52a1",
-        "\u4e00\u4f4d\u7528\u6237\u64cd\u4f5c\u7535\u8111\uff0c\u65c1\u8fb9\u7684\u7814\u7a76\u8005\u89c2\u5bdf\u5e76\u8bb0\u5f55\u3002"
+        "观察用户怎样完成任务",
+        "一位用户操作电脑，旁边的研究者观察并记录。"
       ],
       "alt": "A user works on a computer while a researcher observes and records.",
       "file": "png/work-03-usability-test.png",
@@ -876,8 +890,8 @@
       "sha256": "bce1eb0f05d3862e789f8385e12d062a4e1fabec81e39a73f07b5b4a042ba9d2",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u89c2\u5bdf\u7528\u6237\u600e\u6837\u5b8c\u6210\u4efb\u52a1",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u64cd\u4f5c\u7535\u8111\uff0c\u65c1\u8fb9\u7684\u7814\u7a76\u8005\u89c2\u5bdf\u5e76\u8bb0\u5f55\u3002"
+      "titleZh": "观察用户怎样完成任务",
+      "altZh": "一位用户操作电脑，旁边的研究者观察并记录。"
     },
     {
       "id": "work-04-iterate",
@@ -885,15 +899,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u8fed\u4ee3",
-        "\u6539\u8fdb",
-        "\u7248\u672c",
-        "\u4f18\u5316",
+        "迭代",
+        "改进",
+        "版本",
+        "优化",
         "iteration",
         "refine",
         "feedback",
-        "\u6839\u636e\u53cd\u9988\u7ee7\u7eed\u6253\u78e8",
-        "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u7528\u6539\u8fdb\u540e\u7684\u65b9\u6848\u5361\u7247\u66ff\u6362\u65e7\u65b9\u6848\u3002"
+        "根据反馈继续打磨",
+        "一位设计师用改进后的方案卡片替换旧方案。"
       ],
       "alt": "A designer replaces an old design card with an improved one.",
       "file": "png/work-04-iterate.png",
@@ -904,8 +918,8 @@
       "sha256": "660fc3ff67d56581acbc1f5e0c76988ba142568c03448bddf17cd356e9bfe1bd",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6839\u636e\u53cd\u9988\u7ee7\u7eed\u6253\u78e8",
-      "altZh": "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u7528\u6539\u8fdb\u540e\u7684\u65b9\u6848\u5361\u7247\u66ff\u6362\u65e7\u65b9\u6848\u3002"
+      "titleZh": "根据反馈继续打磨",
+      "altZh": "一位设计师用改进后的方案卡片替换旧方案。"
     },
     {
       "id": "work-05-review",
@@ -913,15 +927,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u8bc4\u5ba1",
-        "\u53cd\u9988",
-        "\u8bc4\u4f30",
-        "\u8ba8\u8bba",
+        "评审",
+        "反馈",
+        "评估",
+        "讨论",
         "review",
         "critique",
         "team",
-        "\u4e00\u8d77\u770b\u6e05\u65b9\u6848\u4e0e\u8bc1\u636e",
-        "\u4e24\u4f4d\u540c\u4e8b\u4e00\u8d77\u67e5\u770b\u754c\u9762\u65b9\u6848\uff0c\u4e00\u4eba\u6307\u51fa\u7ec6\u8282\uff0c\u4e00\u4eba\u8bb0\u5f55\u53cd\u9988\u3002"
+        "一起看清方案与证据",
+        "两位同事一起查看界面方案，一人指出细节，一人记录反馈。"
       ],
       "alt": "Two colleagues examine a design while one records feedback.",
       "file": "png/work-05-review.png",
@@ -932,8 +946,8 @@
       "sha256": "3ac3f01dfa236c24d108328360bbdff9c3293a747007801db722a4c7b9664119",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4e00\u8d77\u770b\u6e05\u65b9\u6848\u4e0e\u8bc1\u636e",
-      "altZh": "\u4e24\u4f4d\u540c\u4e8b\u4e00\u8d77\u67e5\u770b\u754c\u9762\u65b9\u6848\uff0c\u4e00\u4eba\u6307\u51fa\u7ec6\u8282\uff0c\u4e00\u4eba\u8bb0\u5f55\u53cd\u9988\u3002"
+      "titleZh": "一起看清方案与证据",
+      "altZh": "两位同事一起查看界面方案，一人指出细节，一人记录反馈。"
     },
     {
       "id": "work-06-handoff",
@@ -941,15 +955,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u4ea4\u63a5",
-        "\u6587\u6863",
-        "\u4ea4\u4ed8",
-        "\u4e0a\u4e0b\u6587",
+        "交接",
+        "文档",
+        "交付",
+        "上下文",
         "handoff",
         "documentation",
         "delivery",
-        "\u628a\u5b8c\u6574\u4e0a\u4e0b\u6587\u4ea4\u7ed9\u4e0b\u4e00\u4f4d",
-        "\u4e24\u4f4d\u540c\u4e8b\u5171\u540c\u9012\u63a5\u4e00\u4efd\u6574\u7406\u5b8c\u6574\u7684\u9879\u76ee\u6587\u4ef6\u5939\u3002"
+        "把完整上下文交给下一位",
+        "两位同事共同递接一份整理完整的项目文件夹。"
       ],
       "alt": "Two colleagues exchange an organized project folder.",
       "file": "png/work-06-handoff.png",
@@ -960,8 +974,8 @@
       "sha256": "c1fcf1746b1763e8f22b62eef4b9553568d48cd8924dafbfa99fd55a307b0631",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u5b8c\u6574\u4e0a\u4e0b\u6587\u4ea4\u7ed9\u4e0b\u4e00\u4f4d",
-      "altZh": "\u4e24\u4f4d\u540c\u4e8b\u5171\u540c\u9012\u63a5\u4e00\u4efd\u6574\u7406\u5b8c\u6574\u7684\u9879\u76ee\u6587\u4ef6\u5939\u3002"
+      "titleZh": "把完整上下文交给下一位",
+      "altZh": "两位同事共同递接一份整理完整的项目文件夹。"
     },
     {
       "id": "state-01-onboarding",
@@ -969,16 +983,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u65b0\u624b",
-        "\u6b22\u8fce",
-        "\u5f15\u5bfc",
-        "\u5165\u95e8",
-        "\u9996\u6b21",
+        "新手",
+        "欢迎",
+        "引导",
+        "入门",
+        "首次",
         "onboarding",
         "welcome",
         "getting started",
-        "\u7b2c\u4e00\u6b21\u6765\uff0c\u77e5\u9053\u4ece\u54ea\u5f00\u59cb",
-        "\u4e00\u4f4d\u65b0\u7528\u6237\u6cbf\u7740\u4e09\u4e2a\u6e05\u6670\u6b65\u9aa4\u5361\u7247\u5f00\u59cb\u4f7f\u7528\u4ea7\u54c1\u3002"
+        "第一次来，知道从哪开始",
+        "一位新用户沿着三个清晰步骤卡片开始使用产品。"
       ],
       "alt": "A new user follows three clear step cards.",
       "file": "png/state-01-onboarding.png",
@@ -989,8 +1003,8 @@
       "sha256": "3c7570885b3918dd8c1ecdc6ca23317d51ea8b3c89f09221fd3a151f7191db30",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7b2c\u4e00\u6b21\u6765\uff0c\u77e5\u9053\u4ece\u54ea\u5f00\u59cb",
-      "altZh": "\u4e00\u4f4d\u65b0\u7528\u6237\u6cbf\u7740\u4e09\u4e2a\u6e05\u6670\u6b65\u9aa4\u5361\u7247\u5f00\u59cb\u4f7f\u7528\u4ea7\u54c1\u3002"
+      "titleZh": "第一次来，知道从哪开始",
+      "altZh": "一位新用户沿着三个清晰步骤卡片开始使用产品。"
     },
     {
       "id": "state-02-access",
@@ -998,16 +1012,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u6743\u9650",
-        "\u767b\u5f55",
-        "\u8bbf\u95ee",
-        "\u62d2\u7edd",
+        "困扰",
+        "权限",
+        "登录",
+        "访问",
+        "拒绝",
         "access denied",
         "permission",
         "login",
-        "\u60f3\u7ee7\u7eed\uff0c\u4f46\u6ca1\u6709\u8bbf\u95ee\u6743\u9650",
-        "\u4e00\u4f4d\u7528\u6237\u9762\u5bf9\u5e26\u9501\u7684\u5185\u5bb9\u9762\u677f\uff0c\u65e0\u6cd5\u7ee7\u7eed\u8bbf\u95ee\u3002"
+        "想继续，但没有访问权限",
+        "一位用户面对带锁的内容面板，无法继续访问。"
       ],
       "alt": "A user faces a locked content panel.",
       "file": "png/state-02-access.png",
@@ -1018,8 +1032,8 @@
       "sha256": "6d09cd94e32cf8794ed3fcb0bc35a597bc4a13bc309518daecfdff26a5b8350e",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u60f3\u7ee7\u7eed\uff0c\u4f46\u6ca1\u6709\u8bbf\u95ee\u6743\u9650",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u9762\u5bf9\u5e26\u9501\u7684\u5185\u5bb9\u9762\u677f\uff0c\u65e0\u6cd5\u7ee7\u7eed\u8bbf\u95ee\u3002"
+      "titleZh": "想继续，但没有访问权限",
+      "altZh": "一位用户面对带锁的内容面板，无法继续访问。"
     },
     {
       "id": "state-03-import",
@@ -1027,15 +1041,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u5bfc\u5165",
-        "\u4e0a\u4f20",
-        "\u6587\u4ef6",
-        "\u8d44\u6599",
+        "导入",
+        "上传",
+        "文件",
+        "资料",
         "import",
         "upload",
         "files",
-        "\u628a\u8d44\u6599\u5e26\u8fdb\u5de5\u4f5c\u7a7a\u95f4",
-        "\u4e00\u4f4d\u7528\u6237\u628a\u6587\u4ef6\u5361\u7247\u653e\u8fdb\u4e00\u4e2a\u6253\u5f00\u7684\u5de5\u4f5c\u7a7a\u95f4\u3002"
+        "把资料带进工作空间",
+        "一位用户把文件卡片放进一个打开的工作空间。"
       ],
       "alt": "A user adds file cards to an open workspace.",
       "file": "png/state-03-import.png",
@@ -1046,8 +1060,8 @@
       "sha256": "b852b99c87a7991c629a657f76e9448957f0e3eab8cf05301df3f957c6e6bba7",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u8d44\u6599\u5e26\u8fdb\u5de5\u4f5c\u7a7a\u95f4",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u628a\u6587\u4ef6\u5361\u7247\u653e\u8fdb\u4e00\u4e2a\u6253\u5f00\u7684\u5de5\u4f5c\u7a7a\u95f4\u3002"
+      "titleZh": "把资料带进工作空间",
+      "altZh": "一位用户把文件卡片放进一个打开的工作空间。"
     },
     {
       "id": "state-04-sync",
@@ -1055,15 +1069,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u540c\u6b65",
-        "\u591a\u7aef",
-        "\u8de8\u7aef",
-        "\u8fde\u7eed",
+        "同步",
+        "多端",
+        "跨端",
+        "连续",
         "sync",
         "devices",
         "continuity",
-        "\u5728\u4e0d\u540c\u8bbe\u5907\u4e0a\u63a5\u7740\u505a",
-        "\u4e00\u4f4d\u7528\u6237\u5728\u7535\u8111\u548c\u624b\u673a\u95f4\u540c\u6b65\u540c\u4e00\u5f20\u4efb\u52a1\u5361\u7247\u3002"
+        "在不同设备上接着做",
+        "一位用户在电脑和手机间同步同一张任务卡片。"
       ],
       "alt": "A user syncs a task card between a computer and phone.",
       "file": "png/state-04-sync.png",
@@ -1074,8 +1088,8 @@
       "sha256": "86b364df2ce672825a569bf98d0ef07d72ebb9d32f6c4f9e5cb92c4820ba3650",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5728\u4e0d\u540c\u8bbe\u5907\u4e0a\u63a5\u7740\u505a",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u5728\u7535\u8111\u548c\u624b\u673a\u95f4\u540c\u6b65\u540c\u4e00\u5f20\u4efb\u52a1\u5361\u7247\u3002"
+      "titleZh": "在不同设备上接着做",
+      "altZh": "一位用户在电脑和手机间同步同一张任务卡片。"
     },
     {
       "id": "state-05-offline",
@@ -1083,16 +1097,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u65ad\u7f51",
-        "\u79bb\u7ebf",
-        "\u8fde\u63a5",
-        "\u5931\u8d25",
+        "困扰",
+        "断网",
+        "离线",
+        "连接",
+        "失败",
         "offline",
         "network",
         "connection",
-        "\u7f51\u7edc\u65ad\u4e86\uff0c\u4efb\u52a1\u505c\u5728\u8fd9\u91cc",
-        "\u4e00\u4f4d\u7528\u6237\u67e5\u770b\u8bbe\u5907\u65c1\u65ad\u5f00\u7684\u8fde\u63a5\u6807\u8bb0\uff0c\u4efb\u52a1\u6682\u65f6\u505c\u4f4f\u3002"
+        "网络断了，任务停在这里",
+        "一位用户查看设备旁断开的连接标记，任务暂时停住。"
       ],
       "alt": "A user sees a broken connection symbol beside a device.",
       "file": "png/state-05-offline.png",
@@ -1103,8 +1117,8 @@
       "sha256": "d0d131c4f3019d3c37527ce584fc5fca0030802ddd23b8a629a379d2b03976b8",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7f51\u7edc\u65ad\u4e86\uff0c\u4efb\u52a1\u505c\u5728\u8fd9\u91cc",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u67e5\u770b\u8bbe\u5907\u65c1\u65ad\u5f00\u7684\u8fde\u63a5\u6807\u8bb0\uff0c\u4efb\u52a1\u6682\u65f6\u505c\u4f4f\u3002"
+      "titleZh": "网络断了，任务停在这里",
+      "altZh": "一位用户查看设备旁断开的连接标记，任务暂时停住。"
     },
     {
       "id": "state-06-notifications",
@@ -1112,16 +1126,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u901a\u77e5",
-        "\u63d0\u9192",
-        "\u6253\u65ad",
-        "\u4e13\u6ce8",
+        "困扰",
+        "通知",
+        "提醒",
+        "打断",
+        "专注",
         "notifications",
         "interruption",
         "focus",
-        "\u63d0\u9192\u592a\u591a\uff0c\u96be\u4ee5\u4e13\u6ce8",
-        "\u4e00\u4f4d\u7528\u6237\u9762\u5bf9\u624b\u673a\u5468\u56f4\u591a\u4e2a\u63d0\u9192\u5361\u7247\uff0c\u6ce8\u610f\u529b\u88ab\u6253\u65ad\u3002"
+        "提醒太多，难以专注",
+        "一位用户面对手机周围多个提醒卡片，注意力被打断。"
       ],
       "alt": "A user is distracted by many notification cards around a phone.",
       "file": "png/state-06-notifications.png",
@@ -1132,8 +1146,8 @@
       "sha256": "77cb96186a7d94e6ea63a832b3e2fb234d7924304f09de19ef5bc57729c4cb28",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u63d0\u9192\u592a\u591a\uff0c\u96be\u4ee5\u4e13\u6ce8",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u9762\u5bf9\u624b\u673a\u5468\u56f4\u591a\u4e2a\u63d0\u9192\u5361\u7247\uff0c\u6ce8\u610f\u529b\u88ab\u6253\u65ad\u3002"
+      "titleZh": "提醒太多，难以专注",
+      "altZh": "一位用户面对手机周围多个提醒卡片，注意力被打断。"
     },
     {
       "id": "state-07-privacy",
@@ -1141,16 +1155,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u9690\u79c1",
-        "\u5206\u4eab",
-        "\u6388\u6743",
-        "\u4fdd\u62a4",
-        "\u4fe1\u4efb",
+        "隐私",
+        "分享",
+        "授权",
+        "保护",
+        "信任",
         "privacy",
         "consent",
         "sharing",
-        "\u6e05\u695a\u5730\u51b3\u5b9a\u5206\u4eab\u4ec0\u4e48",
-        "\u4e00\u4f4d\u7528\u6237\u628a\u9009\u5b9a\u8d44\u6599\u653e\u5728\u4fdd\u62a4\u76fe\u65c1\uff0c\u51b3\u5b9a\u5206\u4eab\u7684\u8303\u56f4\u3002"
+        "清楚地决定分享什么",
+        "一位用户把选定资料放在保护盾旁，决定分享的范围。"
       ],
       "alt": "A user places selected materials beside a protective shield.",
       "file": "png/state-07-privacy.png",
@@ -1161,8 +1175,8 @@
       "sha256": "45ca8576fc48c37d258417119d06ac3b81e5062c3a65d83f79dd0f2d537683fd",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6e05\u695a\u5730\u51b3\u5b9a\u5206\u4eab\u4ec0\u4e48",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u628a\u9009\u5b9a\u8d44\u6599\u653e\u5728\u4fdd\u62a4\u76fe\u65c1\uff0c\u51b3\u5b9a\u5206\u4eab\u7684\u8303\u56f4\u3002"
+      "titleZh": "清楚地决定分享什么",
+      "altZh": "一位用户把选定资料放在保护盾旁，决定分享的范围。"
     },
     {
       "id": "state-08-recovery",
@@ -1170,15 +1184,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u6062\u590d",
-        "\u91cd\u8bd5",
-        "\u7ea0\u6b63",
-        "\u7ee7\u7eed",
+        "恢复",
+        "重试",
+        "纠正",
+        "继续",
         "retry",
         "recovery",
         "resume",
-        "\u51fa\u9519\u540e\uff0c\u6709\u8def\u53ef\u4ee5\u7ee7\u7eed",
-        "\u4e00\u4f4d\u7528\u6237\u6309\u7167\u6e05\u6670\u7684\u6062\u590d\u7bad\u5934\u91cd\u65b0\u653e\u5165\u6587\u4ef6\uff0c\u7ee7\u7eed\u4efb\u52a1\u3002"
+        "出错后，有路可以继续",
+        "一位用户按照清晰的恢复箭头重新放入文件，继续任务。"
       ],
       "alt": "A user follows an arrow to restore a file and continue.",
       "file": "png/state-08-recovery.png",
@@ -1189,8 +1203,8 @@
       "sha256": "0b3229210a64ce31de9734f6505175497ae95c85365913a4a500829ca01b0eaf",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u51fa\u9519\u540e\uff0c\u6709\u8def\u53ef\u4ee5\u7ee7\u7eed",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u6309\u7167\u6e05\u6670\u7684\u6062\u590d\u7bad\u5934\u91cd\u65b0\u653e\u5165\u6587\u4ef6\uff0c\u7ee7\u7eed\u4efb\u52a1\u3002"
+      "titleZh": "出错后，有路可以继续",
+      "altZh": "一位用户按照清晰的恢复箭头重新放入文件，继续任务。"
     },
     {
       "id": "state-09-empty-workspace",
@@ -1198,16 +1212,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u7a7a\u767d",
-        "\u7a7a\u72b6\u6001",
-        "\u65b0\u5efa",
-        "\u5f00\u59cb",
-        "\u8d44\u6599",
+        "空白",
+        "空状态",
+        "新建",
+        "开始",
+        "资料",
         "empty state",
         "workspace",
         "create",
-        "\u7a7a\u767d\u7a7a\u95f4\uff0c\u51c6\u5907\u5f00\u59cb",
-        "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u7b2c\u4e00\u5f20\u8d44\u6599\u5361\u7247\uff0c\u51c6\u5907\u653e\u5165\u7a7a\u767d\u5de5\u4f5c\u7a7a\u95f4\u3002"
+        "空白空间，准备开始",
+        "一位用户拿着第一张资料卡片，准备放入空白工作空间。"
       ],
       "alt": "A user holds the first card beside an empty workspace.",
       "file": "png/state-09-empty-workspace.png",
@@ -1218,8 +1232,8 @@
       "sha256": "e59fba58c14481df4b0d2ab9467371bd8fbfed8cf25a2609442733d48db98c6e",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7a7a\u767d\u7a7a\u95f4\uff0c\u51c6\u5907\u5f00\u59cb",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u7b2c\u4e00\u5f20\u8d44\u6599\u5361\u7247\uff0c\u51c6\u5907\u653e\u5165\u7a7a\u767d\u5de5\u4f5c\u7a7a\u95f4\u3002"
+      "titleZh": "空白空间，准备开始",
+      "altZh": "一位用户拿着第一张资料卡片，准备放入空白工作空间。"
     },
     {
       "id": "state-10-delete",
@@ -1227,16 +1241,16 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u56f0\u6270",
-        "\u5220\u9664",
-        "\u8bef\u64cd\u4f5c",
-        "\u786e\u8ba4",
-        "\u539f\u4ef6",
+        "困扰",
+        "删除",
+        "误操作",
+        "确认",
+        "原件",
         "delete",
         "destructive",
         "confirmation",
-        "\u5220\u9664\u4e4b\u524d\uff0c\u786e\u8ba4\u8fd9\u662f\u4e0d\u662f\u539f\u4ef6",
-        "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u8d44\u6599\u5361\u7247\uff0c\u5728\u5e9f\u7eb8\u7bd3\u524d\u505c\u4e0b\u6765\u786e\u8ba4\u3002"
+        "删除之前，确认这是不是原件",
+        "一位用户拿着资料卡片，在废纸篓前停下来确认。"
       ],
       "alt": "A user pauses with a card beside a wastebasket.",
       "file": "png/state-10-delete.png",
@@ -1247,8 +1261,8 @@
       "sha256": "a223370b3e1e4eeafc41bc7d694f35153646c769369c4411e922a2051ab17f06",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5220\u9664\u4e4b\u524d\uff0c\u786e\u8ba4\u8fd9\u662f\u4e0d\u662f\u539f\u4ef6",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u8d44\u6599\u5361\u7247\uff0c\u5728\u5e9f\u7eb8\u7bd3\u524d\u505c\u4e0b\u6765\u786e\u8ba4\u3002"
+      "titleZh": "删除之前，确认这是不是原件",
+      "altZh": "一位用户拿着资料卡片，在废纸篓前停下来确认。"
     },
     {
       "id": "person-05-working",
@@ -1256,15 +1270,15 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4eba\u7269",
-        "\u5de5\u4f5c",
-        "\u7535\u8111",
-        "\u5236\u4f5c",
+        "人物",
+        "工作",
+        "电脑",
+        "制作",
         "working",
         "laptop",
         "designer",
-        "\u4e13\u6ce8\u5de5\u4f5c\u7684\u8bbe\u8ba1\u5e08",
-        "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u5750\u7740\u64cd\u4f5c\u7535\u8111\uff0c\u4e13\u6ce8\u4e8e\u624b\u5934\u7684\u4efb\u52a1\u3002"
+        "专注工作的设计师",
+        "一位设计师坐着操作电脑，专注于手头的任务。"
       ],
       "alt": "A designer works attentively at a computer.",
       "file": "png/person-05-working.png",
@@ -1275,8 +1289,8 @@
       "sha256": "41923d6baadc95232baec7a7e82dce694f399ebe3ff8eac789221bc2c0fc7a8c",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4e13\u6ce8\u5de5\u4f5c\u7684\u8bbe\u8ba1\u5e08",
-      "altZh": "\u4e00\u4f4d\u8bbe\u8ba1\u5e08\u5750\u7740\u64cd\u4f5c\u7535\u8111\uff0c\u4e13\u6ce8\u4e8e\u624b\u5934\u7684\u4efb\u52a1\u3002"
+      "titleZh": "专注工作的设计师",
+      "altZh": "一位设计师坐着操作电脑，专注于手头的任务。"
     },
     {
       "id": "person-06-recording",
@@ -1284,15 +1298,15 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4eba\u7269",
-        "\u8bb0\u5f55",
-        "\u7b14\u8bb0",
-        "\u89c2\u5bdf",
+        "人物",
+        "记录",
+        "笔记",
+        "观察",
         "recording",
         "notes",
         "observer",
-        "\u8fb9\u770b\u8fb9\u8bb0\u5f55\u7684\u540c\u4e8b",
-        "\u4e00\u4f4d\u6234\u773c\u955c\u7684\u540c\u4e8b\u7ad9\u7740\u5728\u7b14\u8bb0\u672c\u4e0a\u8bb0\u5f55\u3002"
+        "边看边记录的同事",
+        "一位戴眼镜的同事站着在笔记本上记录。"
       ],
       "alt": "A colleague with glasses writes in a notebook.",
       "file": "png/person-06-recording.png",
@@ -1303,8 +1317,8 @@
       "sha256": "89525d3548bbdbd1bdcf81bc5e64bc186276399e3c95fe081d3eaa0d1d1659a3",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8fb9\u770b\u8fb9\u8bb0\u5f55\u7684\u540c\u4e8b",
-      "altZh": "\u4e00\u4f4d\u6234\u773c\u955c\u7684\u540c\u4e8b\u7ad9\u7740\u5728\u7b14\u8bb0\u672c\u4e0a\u8bb0\u5f55\u3002"
+      "titleZh": "边看边记录的同事",
+      "altZh": "一位戴眼镜的同事站着在笔记本上记录。"
     },
     {
       "id": "person-07-questioning",
@@ -1312,16 +1326,16 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4eba\u7269",
-        "\u56f0\u6270",
-        "\u7591\u95ee",
-        "\u8be2\u95ee",
-        "\u4e0d\u7406\u89e3",
+        "人物",
+        "困扰",
+        "疑问",
+        "询问",
+        "不理解",
         "questioning",
         "uncertain",
         "user",
-        "\u63d0\u51fa\u7591\u95ee\u7684\u7528\u6237",
-        "\u4e00\u4f4d\u7528\u6237\u644a\u5f00\u624b\u638c\uff0c\u8868\u8fbe\u5c1a\u672a\u7406\u89e3\u7684\u95ee\u9898\u3002"
+        "提出疑问的用户",
+        "一位用户摊开手掌，表达尚未理解的问题。"
       ],
       "alt": "A user opens their hands to express an unresolved question.",
       "file": "png/person-07-questioning.png",
@@ -1332,8 +1346,8 @@
       "sha256": "7ddd041b5c7b46f5751d0f04d6af02152fa87e1c51424dbb5b5214917acf3d5c",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u63d0\u51fa\u7591\u95ee\u7684\u7528\u6237",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u644a\u5f00\u624b\u638c\uff0c\u8868\u8fbe\u5c1a\u672a\u7406\u89e3\u7684\u95ee\u9898\u3002"
+      "titleZh": "提出疑问的用户",
+      "altZh": "一位用户摊开手掌，表达尚未理解的问题。"
     },
     {
       "id": "person-08-approving",
@@ -1341,16 +1355,16 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4eba\u7269",
-        "\u8ba4\u53ef",
-        "\u901a\u8fc7",
-        "\u6ee1\u610f",
-        "\u53cd\u9988",
+        "人物",
+        "认可",
+        "通过",
+        "满意",
+        "反馈",
         "approving",
         "satisfied",
         "positive",
-        "\u8ba4\u53ef\u65b9\u6848\u7684\u7528\u6237",
-        "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u65b9\u6848\u5361\u7247\uff0c\u7528\u7ad6\u8d77\u62c7\u6307\u7684\u624b\u52bf\u8868\u8fbe\u8ba4\u53ef\u3002"
+        "认可方案的用户",
+        "一位用户拿着方案卡片，用竖起拇指的手势表达认可。"
       ],
       "alt": "A user holds a design card and gives a thumbs-up.",
       "file": "png/person-08-approving.png",
@@ -1361,8 +1375,8 @@
       "sha256": "c1e16fb5b8f1c4f5c8230c5e722486dc41ae846afda36b4eacc7ab02ccaf81ff",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8ba4\u53ef\u65b9\u6848\u7684\u7528\u6237",
-      "altZh": "\u4e00\u4f4d\u7528\u6237\u62ff\u7740\u65b9\u6848\u5361\u7247\uff0c\u7528\u7ad6\u8d77\u62c7\u6307\u7684\u624b\u52bf\u8868\u8fbe\u8ba4\u53ef\u3002"
+      "titleZh": "认可方案的用户",
+      "altZh": "一位用户拿着方案卡片，用竖起拇指的手势表达认可。"
     },
     {
       "id": "spot-05-overload",
@@ -1370,13 +1384,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u4fe1\u606f",
-        "\u8fc7\u8f7d",
-        "\u8d1f\u62c5",
+        "信息",
+        "过载",
+        "负担",
         "overload",
         "cognitive load",
-        "\u4fe1\u606f\u8fc7\u8f7d",
-        "\u4e94\u5f20\u91cd\u53e0\u7684\u5185\u5bb9\u5361\u7247\u4e2d\uff0c\u53ea\u6709\u4e00\u5f20\u5e26\u84dd\u8272\u91cd\u70b9\u3002"
+        "信息过载",
+        "五张重叠的内容卡片中，只有一张带蓝色重点。"
       ],
       "alt": "Five overlapping cards include one blue highlight.",
       "file": "png/spot-05-overload.png",
@@ -1387,8 +1401,8 @@
       "sha256": "ced5e5892dc098f20137a3901a3baf31d9164fe5fa3e269eb1c5f3688ee33839",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4fe1\u606f\u8fc7\u8f7d",
-      "altZh": "\u4e94\u5f20\u91cd\u53e0\u7684\u5185\u5bb9\u5361\u7247\u4e2d\uff0c\u53ea\u6709\u4e00\u5f20\u5e26\u84dd\u8272\u91cd\u70b9\u3002"
+      "titleZh": "信息过载",
+      "altZh": "五张重叠的内容卡片中，只有一张带蓝色重点。"
     },
     {
       "id": "spot-06-no-results",
@@ -1396,13 +1410,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u641c\u7d22",
-        "\u65e0\u7ed3\u679c",
-        "\u7a7a\u72b6\u6001",
+        "搜索",
+        "无结果",
+        "空状态",
         "no results",
         "empty",
-        "\u6ca1\u6709\u641c\u7d22\u7ed3\u679c",
-        "\u4e00\u53ea\u653e\u5927\u955c\u67e5\u770b\u7a7a\u7684\u7ed3\u679c\u6258\u76d8\u3002"
+        "没有搜索结果",
+        "一只放大镜查看空的结果托盘。"
       ],
       "alt": "A magnifying glass examines an empty results tray.",
       "file": "png/spot-06-no-results.png",
@@ -1413,8 +1427,8 @@
       "sha256": "d6a21305bbb58f76cfe928fa58c065c16a8bb1f1a8f990f11e1cab2264c9e65f",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6ca1\u6709\u641c\u7d22\u7ed3\u679c",
-      "altZh": "\u4e00\u53ea\u653e\u5927\u955c\u67e5\u770b\u7a7a\u7684\u7ed3\u679c\u6258\u76d8\u3002"
+      "titleZh": "没有搜索结果",
+      "altZh": "一只放大镜查看空的结果托盘。"
     },
     {
       "id": "spot-07-compare",
@@ -1422,13 +1436,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u6bd4\u8f83",
-        "\u9009\u62e9",
-        "\u51b3\u7b56",
+        "比较",
+        "选择",
+        "决策",
         "compare",
         "choice",
-        "\u5bf9\u6bd4\u4e0e\u9009\u62e9",
-        "\u4e24\u5f20\u540c\u5c3a\u5bf8\u65b9\u6848\u5361\u7247\u5e76\u6392\u653e\u7f6e\uff0c\u84dd\u8272\u5706\u4e0e\u9ed1\u8272\u65b9\u5757\u663e\u793a\u533a\u522b\u3002"
+        "对比与选择",
+        "两张同尺寸方案卡片并排放置，蓝色圆与黑色方块显示区别。"
       ],
       "alt": "Two equal-sized cards show a blue circle and a black square.",
       "file": "png/spot-07-compare.png",
@@ -1439,8 +1453,8 @@
       "sha256": "9f8ac0db38ec027d134906e8ff389f49f3b66c357ad35da829af777e02855594",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5bf9\u6bd4\u4e0e\u9009\u62e9",
-      "altZh": "\u4e24\u5f20\u540c\u5c3a\u5bf8\u65b9\u6848\u5361\u7247\u5e76\u6392\u653e\u7f6e\uff0c\u84dd\u8272\u5706\u4e0e\u9ed1\u8272\u65b9\u5757\u663e\u793a\u533a\u522b\u3002"
+      "titleZh": "对比与选择",
+      "altZh": "两张同尺寸方案卡片并排放置，蓝色圆与黑色方块显示区别。"
     },
     {
       "id": "spot-08-navigation",
@@ -1448,13 +1462,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u5bfc\u822a",
-        "\u8ff7\u8def",
-        "\u5165\u53e3",
+        "导航",
+        "迷路",
+        "入口",
         "navigation",
         "wayfinding",
-        "\u8def\u5f84\u4e0d\u6e05\u6670",
-        "\u4e00\u4e2a\u6307\u793a\u724c\u671d\u7740\u4e09\u4e2a\u4e0d\u540c\u65b9\u5411\uff0c\u5176\u4e2d\u4e00\u6761\u8def\u5f84\u88ab\u84dd\u8272\u5f3a\u8c03\u3002"
+        "路径不清晰",
+        "一个指示牌朝着三个不同方向，其中一条路径被蓝色强调。"
       ],
       "alt": "A sign points in three directions with one blue path.",
       "file": "png/spot-08-navigation.png",
@@ -1465,8 +1479,8 @@
       "sha256": "5463accc0e9e6d1eb16b673d2be455fbb23804c7b5b0fe3eb0e26a3b89664127",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8def\u5f84\u4e0d\u6e05\u6670",
-      "altZh": "\u4e00\u4e2a\u6307\u793a\u724c\u671d\u7740\u4e09\u4e2a\u4e0d\u540c\u65b9\u5411\uff0c\u5176\u4e2d\u4e00\u6761\u8def\u5f84\u88ab\u84dd\u8272\u5f3a\u8c03\u3002"
+      "titleZh": "路径不清晰",
+      "altZh": "一个指示牌朝着三个不同方向，其中一条路径被蓝色强调。"
     },
     {
       "id": "spot-09-long-form",
@@ -1474,14 +1488,14 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u8868\u5355",
-        "\u8f93\u5165",
-        "\u91cd\u590d",
+        "表单",
+        "输入",
+        "重复",
         "form",
         "input",
         "friction",
-        "\u957f\u8868\u5355",
-        "\u4e00\u5f20\u957f\u8868\u5355\u4ecd\u6709\u591a\u4e2a\u7a7a\u767d\u5b57\u6bb5\uff0c\u53ea\u6709\u7b2c\u4e00\u9879\u5df2\u586b\u5199\u3002"
+        "长表单",
+        "一张长表单仍有多个空白字段，只有第一项已填写。"
       ],
       "alt": "A long form has many empty fields and one completed entry.",
       "file": "png/spot-09-long-form.png",
@@ -1492,8 +1506,8 @@
       "sha256": "aacc8b02da75be1208d6ec2959b8e45cb3e2935bdc6cf938b20c70e371f130cd",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u957f\u8868\u5355",
-      "altZh": "\u4e00\u5f20\u957f\u8868\u5355\u4ecd\u6709\u591a\u4e2a\u7a7a\u767d\u5b57\u6bb5\uff0c\u53ea\u6709\u7b2c\u4e00\u9879\u5df2\u586b\u5199\u3002"
+      "titleZh": "长表单",
+      "altZh": "一张长表单仍有多个空白字段，只有第一项已填写。"
     },
     {
       "id": "spot-10-waiting",
@@ -1501,14 +1515,14 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u7b49\u5f85",
-        "\u52a0\u8f7d",
-        "\u8fdb\u5ea6",
+        "等待",
+        "加载",
+        "进度",
         "waiting",
         "loading",
         "progress",
-        "\u7b49\u5f85\u4e0e\u8fdb\u5ea6",
-        "\u84dd\u8272\u6c99\u6f0f\u4e0b\u65b9\u7684\u8fdb\u5ea6\u6761\u53ea\u5b8c\u6210\u4e00\u5c0f\u6bb5\u3002"
+        "等待与进度",
+        "蓝色沙漏下方的进度条只完成一小段。"
       ],
       "alt": "A blue hourglass sits above a partially filled progress bar.",
       "file": "png/spot-10-waiting.png",
@@ -1519,8 +1533,8 @@
       "sha256": "7b49ccc7da7d06b5f7fdfed8ea250657f9a766f9e1ac4cd816120b524c754fac",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7b49\u5f85\u4e0e\u8fdb\u5ea6",
-      "altZh": "\u84dd\u8272\u6c99\u6f0f\u4e0b\u65b9\u7684\u8fdb\u5ea6\u6761\u53ea\u5b8c\u6210\u4e00\u5c0f\u6bb5\u3002"
+      "titleZh": "等待与进度",
+      "altZh": "蓝色沙漏下方的进度条只完成一小段。"
     },
     {
       "id": "spot-11-error",
@@ -1528,13 +1542,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u9519\u8bef",
-        "\u4e2d\u65ad",
-        "\u5931\u8d25",
+        "错误",
+        "中断",
+        "失败",
         "error",
         "failure",
-        "\u64cd\u4f5c\u5931\u8d25",
-        "\u64cd\u4f5c\u7a97\u53e3\u4e2d\u7684\u84dd\u8272\u5706\u5f62\u6807\u8bb0\u663e\u793a\u9519\u8bef\u3002"
+        "操作失败",
+        "操作窗口中的蓝色圆形标记显示错误。"
       ],
       "alt": "A blue circular error mark appears in an action window.",
       "file": "png/spot-11-error.png",
@@ -1545,8 +1559,8 @@
       "sha256": "1b6997d3744fa0a266a37d97cee2532d5b0f4cf9b97f98a417230ae3aec6c9b3",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u64cd\u4f5c\u5931\u8d25",
-      "altZh": "\u64cd\u4f5c\u7a97\u53e3\u4e2d\u7684\u84dd\u8272\u5706\u5f62\u6807\u8bb0\u663e\u793a\u9519\u8bef\u3002"
+      "titleZh": "操作失败",
+      "altZh": "操作窗口中的蓝色圆形标记显示错误。"
     },
     {
       "id": "spot-12-retry",
@@ -1554,13 +1568,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u6062\u590d",
-        "\u91cd\u8bd5",
-        "\u7ee7\u7eed",
+        "恢复",
+        "重试",
+        "继续",
         "retry",
         "recovery",
-        "\u91cd\u8bd5\u4e0e\u6062\u590d",
-        "\u4e00\u4e2a\u8fd4\u56de\u7bad\u5934\u73af\u7ed5\u8d44\u6599\u5361\u7247\uff0c\u8868\u793a\u53ef\u4ee5\u91cd\u65b0\u7ee7\u7eed\u3002"
+        "重试与恢复",
+        "一个返回箭头环绕资料卡片，表示可以重新继续。"
       ],
       "alt": "A return arrow circles a card.",
       "file": "png/spot-12-retry.png",
@@ -1571,8 +1585,8 @@
       "sha256": "94ec4e6741a4bd4f9aeaa36e821f21082e4d700e9e0bc89a4d6c6dec9a9cd9d2",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u91cd\u8bd5\u4e0e\u6062\u590d",
-      "altZh": "\u4e00\u4e2a\u8fd4\u56de\u7bad\u5934\u73af\u7ed5\u8d44\u6599\u5361\u7247\uff0c\u8868\u793a\u53ef\u4ee5\u91cd\u65b0\u7ee7\u7eed\u3002"
+      "titleZh": "重试与恢复",
+      "altZh": "一个返回箭头环绕资料卡片，表示可以重新继续。"
     },
     {
       "id": "spot-13-handoff",
@@ -1580,13 +1594,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u4ea4\u63a5",
-        "\u6587\u6863",
-        "\u534f\u4f5c",
+        "交接",
+        "文档",
+        "协作",
         "handoff",
         "documents",
-        "\u8d44\u6599\u4ea4\u63a5",
-        "\u6253\u5f00\u7684\u84dd\u8272\u6587\u4ef6\u5939\u4e2d\u6709\u4e09\u5f20\u6574\u9f50\u8d44\u6599\u3002"
+        "资料交接",
+        "打开的蓝色文件夹中有三张整齐资料。"
       ],
       "alt": "An open blue folder contains three neatly arranged cards.",
       "file": "png/spot-13-handoff.png",
@@ -1597,8 +1611,8 @@
       "sha256": "7e5519e62cc539b5ad80233ba9d10f0d34e21f50714e8557de40b21bde90b01e",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8d44\u6599\u4ea4\u63a5",
-      "altZh": "\u6253\u5f00\u7684\u84dd\u8272\u6587\u4ef6\u5939\u4e2d\u6709\u4e09\u5f20\u6574\u9f50\u8d44\u6599\u3002"
+      "titleZh": "资料交接",
+      "altZh": "打开的蓝色文件夹中有三张整齐资料。"
     },
     {
       "id": "spot-14-sync",
@@ -1606,13 +1620,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u540c\u6b65",
-        "\u591a\u7aef",
-        "\u8bbe\u5907",
+        "同步",
+        "多端",
+        "设备",
         "sync",
         "devices",
-        "\u8de8\u7aef\u540c\u6b65",
-        "\u7535\u8111\u548c\u624b\u673a\u663e\u793a\u540c\u4e00\u4e2a\u84dd\u8272\u6a21\u5757\uff0c\u5e76\u4ee5\u53cc\u5411\u7bad\u5934\u8fde\u63a5\u3002"
+        "跨端同步",
+        "电脑和手机显示同一个蓝色模块，并以双向箭头连接。"
       ],
       "alt": "A computer and phone share a blue module with two-way arrows.",
       "file": "png/spot-14-sync.png",
@@ -1623,8 +1637,8 @@
       "sha256": "5f8851c40d5f05374b57a5a006f8bf7316d5e71d1126031c569c442134df4d8b",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8de8\u7aef\u540c\u6b65",
-      "altZh": "\u7535\u8111\u548c\u624b\u673a\u663e\u793a\u540c\u4e00\u4e2a\u84dd\u8272\u6a21\u5757\uff0c\u5e76\u4ee5\u53cc\u5411\u7bad\u5934\u8fde\u63a5\u3002"
+      "titleZh": "跨端同步",
+      "altZh": "电脑和手机显示同一个蓝色模块，并以双向箭头连接。"
     },
     {
       "id": "spot-15-upload",
@@ -1632,13 +1646,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u4e0a\u4f20",
-        "\u5bfc\u5165",
-        "\u6587\u4ef6",
+        "上传",
+        "导入",
+        "文件",
         "upload",
         "import",
-        "\u6587\u4ef6\u4e0a\u4f20\u4e0e\u5bfc\u5165",
-        "\u4e00\u5f20\u8d44\u6599\u5361\u7247\u60ac\u5728\u84dd\u8272\u6258\u76d8\u4e0a\u65b9\uff0c\u65c1\u8fb9\u7684\u5411\u4e0a\u7bad\u5934\u8868\u793a\u4e0a\u4f20\u3002"
+        "文件上传与导入",
+        "一张资料卡片悬在蓝色托盘上方，旁边的向上箭头表示上传。"
       ],
       "alt": "A card floats above a blue tray beside an upward arrow.",
       "file": "png/spot-15-upload.png",
@@ -1649,8 +1663,8 @@
       "sha256": "7e02dc561a0e827d3e3db8e22ab93b9e37ba026a627e0f1eb50c2c0035f326fb",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6587\u4ef6\u4e0a\u4f20\u4e0e\u5bfc\u5165",
-      "altZh": "\u4e00\u5f20\u8d44\u6599\u5361\u7247\u60ac\u5728\u84dd\u8272\u6258\u76d8\u4e0a\u65b9\uff0c\u65c1\u8fb9\u7684\u5411\u4e0a\u7bad\u5934\u8868\u793a\u4e0a\u4f20\u3002"
+      "titleZh": "文件上传与导入",
+      "altZh": "一张资料卡片悬在蓝色托盘上方，旁边的向上箭头表示上传。"
     },
     {
       "id": "spot-16-offline",
@@ -1658,13 +1672,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u65ad\u7f51",
-        "\u79bb\u7ebf",
-        "\u7f51\u7edc",
+        "断网",
+        "离线",
+        "网络",
         "offline",
         "network",
-        "\u8fde\u63a5\u4e2d\u65ad",
-        "\u4e00\u4e2a\u65e0\u7ebf\u8fde\u63a5\u6807\u8bb0\u88ab\u84dd\u8272\u659c\u7ebf\u5212\u8fc7\u3002"
+        "连接中断",
+        "一个无线连接标记被蓝色斜线划过。"
       ],
       "alt": "A wireless symbol is crossed by a blue line.",
       "file": "png/spot-16-offline.png",
@@ -1675,8 +1689,8 @@
       "sha256": "d4205f69b1aca2e6f5f5fb839ba8fd930cd711a46a48a0eb237020b92d2f0671",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8fde\u63a5\u4e2d\u65ad",
-      "altZh": "\u4e00\u4e2a\u65e0\u7ebf\u8fde\u63a5\u6807\u8bb0\u88ab\u84dd\u8272\u659c\u7ebf\u5212\u8fc7\u3002"
+      "titleZh": "连接中断",
+      "altZh": "一个无线连接标记被蓝色斜线划过。"
     },
     {
       "id": "spot-17-access",
@@ -1684,14 +1698,14 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u6743\u9650",
-        "\u8bbf\u95ee",
-        "\u767b\u5f55",
+        "权限",
+        "访问",
+        "登录",
         "permission",
         "access",
         "login",
-        "\u8bbf\u95ee\u6743\u9650",
-        "\u4e00\u628a\u9501\u6321\u5728\u8d44\u6599\u5361\u7247\u524d\uff0c\u63d0\u793a\u5185\u5bb9\u53d7\u5230\u8bbf\u95ee\u9650\u5236\u3002"
+        "访问权限",
+        "一把锁挡在资料卡片前，提示内容受到访问限制。"
       ],
       "alt": "A lock blocks a content card.",
       "file": "png/spot-17-access.png",
@@ -1702,8 +1716,8 @@
       "sha256": "d6b12607a92e8682c84a04da873a46a40a92ccc7dcb1c89a75fbed499bd9827b",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8bbf\u95ee\u6743\u9650",
-      "altZh": "\u4e00\u628a\u9501\u6321\u5728\u8d44\u6599\u5361\u7247\u524d\uff0c\u63d0\u793a\u5185\u5bb9\u53d7\u5230\u8bbf\u95ee\u9650\u5236\u3002"
+      "titleZh": "访问权限",
+      "altZh": "一把锁挡在资料卡片前，提示内容受到访问限制。"
     },
     {
       "id": "spot-18-privacy",
@@ -1711,14 +1725,14 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u9690\u79c1",
-        "\u5b89\u5168",
-        "\u6388\u6743",
+        "隐私",
+        "安全",
+        "授权",
         "privacy",
         "security",
         "consent",
-        "\u9690\u79c1\u4e0e\u4fdd\u62a4",
-        "\u4e00\u5f20\u9009\u5b9a\u8d44\u6599\u53d7\u5230\u84dd\u8272\u76fe\u724c\u4fdd\u62a4\u3002"
+        "隐私与保护",
+        "一张选定资料受到蓝色盾牌保护。"
       ],
       "alt": "A blue shield protects a selected card.",
       "file": "png/spot-18-privacy.png",
@@ -1729,8 +1743,8 @@
       "sha256": "9a54c06ce909b01c9bf8ddf44f832f2b8c9b0610bc6cabcc7099f787b372e8ad",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u9690\u79c1\u4e0e\u4fdd\u62a4",
-      "altZh": "\u4e00\u5f20\u9009\u5b9a\u8d44\u6599\u53d7\u5230\u84dd\u8272\u76fe\u724c\u4fdd\u62a4\u3002"
+      "titleZh": "隐私与保护",
+      "altZh": "一张选定资料受到蓝色盾牌保护。"
     },
     {
       "id": "spot-19-notifications",
@@ -1738,13 +1752,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u901a\u77e5",
-        "\u63d0\u9192",
-        "\u6253\u65ad",
+        "通知",
+        "提醒",
+        "打断",
         "notifications",
         "interruption",
-        "\u63d0\u9192\u592a\u591a",
-        "\u94c3\u94db\u5468\u56f4\u53e0\u7740\u4e09\u5f20\u63d0\u9192\u5361\u7247\u3002"
+        "提醒太多",
+        "铃铛周围叠着三张提醒卡片。"
       ],
       "alt": "Three notification cards surround a bell.",
       "file": "png/spot-19-notifications.png",
@@ -1755,8 +1769,8 @@
       "sha256": "b10ca4e73c285266180a79701154197c8d0e18304e2d97393622aab36568d6eb",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u63d0\u9192\u592a\u591a",
-      "altZh": "\u94c3\u94db\u5468\u56f4\u53e0\u7740\u4e09\u5f20\u63d0\u9192\u5361\u7247\u3002"
+      "titleZh": "提醒太多",
+      "altZh": "铃铛周围叠着三张提醒卡片。"
     },
     {
       "id": "spot-20-priority",
@@ -1764,13 +1778,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u8ba1\u5212",
-        "\u4efb\u52a1",
-        "\u4f18\u5148",
+        "计划",
+        "任务",
+        "优先",
         "priority",
         "planning",
-        "\u4f18\u5148\u7ea7",
-        "\u4e09\u5f20\u4efb\u52a1\u5361\u7247\u4e2d\uff0c\u6700\u91cd\u8981\u7684\u4e00\u5f20\u88ab\u84dd\u8272\u5f3a\u8c03\u3002"
+        "优先级",
+        "三张任务卡片中，最重要的一张被蓝色强调。"
       ],
       "alt": "One of three task cards has a blue highlight.",
       "file": "png/spot-20-priority.png",
@@ -1781,8 +1795,8 @@
       "sha256": "9111c074262a0f5044d09619e5fc630c8a335e1959a0c57809398f385b4d0995",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4f18\u5148\u7ea7",
-      "altZh": "\u4e09\u5f20\u4efb\u52a1\u5361\u7247\u4e2d\uff0c\u6700\u91cd\u8981\u7684\u4e00\u5f20\u88ab\u84dd\u8272\u5f3a\u8c03\u3002"
+      "titleZh": "优先级",
+      "altZh": "三张任务卡片中，最重要的一张被蓝色强调。"
     },
     {
       "id": "spot-22-test",
@@ -1790,13 +1804,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u6d4b\u8bd5",
-        "\u9a8c\u8bc1",
-        "\u53ef\u7528\u6027",
+        "测试",
+        "验证",
+        "可用性",
         "test",
         "validation",
-        "\u9a8c\u8bc1\u4e0e\u6d4b\u8bd5",
-        "\u653e\u5927\u955c\u67e5\u770b\u4e00\u5f20\u5e26\u84dd\u8272\u52fe\u7684\u9a8c\u8bc1\u5361\u7247\u3002"
+        "验证与测试",
+        "放大镜查看一张带蓝色勾的验证卡片。"
       ],
       "alt": "A magnifying glass examines a card with a blue check.",
       "file": "png/spot-22-test.png",
@@ -1807,8 +1821,8 @@
       "sha256": "ac01b2c1a7c7a563bda7feff98de95b2f2edbe6bb1aa10a45ac69ec0c1245405",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u9a8c\u8bc1\u4e0e\u6d4b\u8bd5",
-      "altZh": "\u653e\u5927\u955c\u67e5\u770b\u4e00\u5f20\u5e26\u84dd\u8272\u52fe\u7684\u9a8c\u8bc1\u5361\u7247\u3002"
+      "titleZh": "验证与测试",
+      "altZh": "放大镜查看一张带蓝色勾的验证卡片。"
     },
     {
       "id": "spot-21-prototype",
@@ -1816,13 +1830,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u539f\u578b",
-        "\u754c\u9762",
-        "\u8bbe\u8ba1",
+        "原型",
+        "界面",
+        "设计",
         "prototype",
         "interface",
-        "\u754c\u9762\u539f\u578b",
-        "\u624b\u673a\u4e0e\u684c\u9762\u539f\u578b\u5171\u4eab\u4e00\u4e2a\u84dd\u8272\u754c\u9762\u6a21\u5757\u3002"
+        "界面原型",
+        "手机与桌面原型共享一个蓝色界面模块。"
       ],
       "alt": "Phone and desktop prototypes share a blue interface module.",
       "file": "png/spot-21-prototype.png",
@@ -1833,8 +1847,8 @@
       "sha256": "d9215fdfe3f504dccba8b187aa9c0ea3fde9750ed5cc252143f691f2751d8df3",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u754c\u9762\u539f\u578b",
-      "altZh": "\u624b\u673a\u4e0e\u684c\u9762\u539f\u578b\u5171\u4eab\u4e00\u4e2a\u84dd\u8272\u754c\u9762\u6a21\u5757\u3002"
+      "titleZh": "界面原型",
+      "altZh": "手机与桌面原型共享一个蓝色界面模块。"
     },
     {
       "id": "spot-23-feedback",
@@ -1842,13 +1856,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u53cd\u9988",
-        "\u8bc4\u8bba",
-        "\u8ba8\u8bba",
+        "反馈",
+        "评论",
+        "讨论",
         "feedback",
         "comments",
-        "\u610f\u89c1\u4e0e\u53cd\u9988",
-        "\u4e24\u53ea\u5bf9\u8bdd\u6846\u56f4\u7ed5\u540c\u4e00\u4efd\u65b9\u6848\u8d44\u6599\u3002"
+        "意见与反馈",
+        "两只对话框围绕同一份方案资料。"
       ],
       "alt": "Two speech bubbles surround the same design card.",
       "file": "png/spot-23-feedback.png",
@@ -1859,8 +1873,8 @@
       "sha256": "7c2a02112f4d8adac6c6c201be02b0dfb2d343df9e12c7ad4a27b35e14276b9a",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u610f\u89c1\u4e0e\u53cd\u9988",
-      "altZh": "\u4e24\u53ea\u5bf9\u8bdd\u6846\u56f4\u7ed5\u540c\u4e00\u4efd\u65b9\u6848\u8d44\u6599\u3002"
+      "titleZh": "意见与反馈",
+      "altZh": "两只对话框围绕同一份方案资料。"
     },
     {
       "id": "spot-24-delete",
@@ -1868,13 +1882,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u5220\u9664",
-        "\u786e\u8ba4",
-        "\u8bef\u64cd\u4f5c",
+        "删除",
+        "确认",
+        "误操作",
         "delete",
         "confirmation",
-        "\u5220\u9664\u524d\u786e\u8ba4",
-        "\u8d44\u6599\u5361\u7247\u505c\u5728\u5e9f\u7eb8\u7bd3\u65c1\uff0c\u63d0\u793a\u5220\u9664\u524d\u786e\u8ba4\u3002"
+        "删除前确认",
+        "资料卡片停在废纸篓旁，提示删除前确认。"
       ],
       "alt": "A card pauses beside a wastebasket.",
       "file": "png/spot-24-delete.png",
@@ -1885,8 +1899,8 @@
       "sha256": "af176e4b8bb11c3bd84ea55d9b2440a760e3dda9a21bacde54181c71abd2d584",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5220\u9664\u524d\u786e\u8ba4",
-      "altZh": "\u8d44\u6599\u5361\u7247\u505c\u5728\u5e9f\u7eb8\u7bd3\u65c1\uff0c\u63d0\u793a\u5220\u9664\u524d\u786e\u8ba4\u3002"
+      "titleZh": "删除前确认",
+      "altZh": "资料卡片停在废纸篓旁，提示删除前确认。"
     },
     {
       "id": "pain-13-repeat-entry",
@@ -1894,12 +1908,12 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u91cd\u590d\u586b\u5199",
+        "重复填写",
         "duplicate",
         "entry",
-        "\u8868\u5355",
-        "\u540c\u6837\u7684\u4fe1\u606f\uff0c\u8fd8\u8981\u518d\u586b\u4e00\u6b21",
-        "\u7528\u6237\u5bf9\u7167\u7eb8\u8d28\u8868\u5355\uff0c\u5728\u7535\u8111\u4e0a\u91cd\u590d\u5f55\u5165\u76f8\u540c\u7684\u4fe1\u606f\u3002"
+        "表单",
+        "同样的信息，还要再填一次",
+        "用户对照纸质表单，在电脑上重复录入相同的信息。"
       ],
       "alt": "A user repeats information from a paper form on a computer.",
       "file": "png/pain-13-repeat-entry.png",
@@ -1910,8 +1924,8 @@
       "sha256": "36a1ec7453c52aa39f023bdfa17b5a2c21e3b362bc46b1212221cc939649e9d7",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u540c\u6837\u7684\u4fe1\u606f\uff0c\u8fd8\u8981\u518d\u586b\u4e00\u6b21",
-      "altZh": "\u7528\u6237\u5bf9\u7167\u7eb8\u8d28\u8868\u5355\uff0c\u5728\u7535\u8111\u4e0a\u91cd\u590d\u5f55\u5165\u76f8\u540c\u7684\u4fe1\u606f\u3002"
+      "titleZh": "同样的信息，还要再填一次",
+      "altZh": "用户对照纸质表单，在电脑上重复录入相同的信息。"
     },
     {
       "id": "pain-14-unsaved",
@@ -1919,13 +1933,13 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u672a\u4fdd\u5b58",
-        "\u6570\u636e\u4e22\u5931",
+        "未保存",
+        "数据丢失",
         "unsaved",
         "lost",
         "work",
-        "\u505a\u4e86\u5f88\u4e45\uff0c\u5185\u5bb9\u5374\u6ca1\u4fdd\u5b58",
-        "\u7528\u6237\u6276\u7740\u989d\u5934\uff0c\u9762\u5bf9\u672a\u4fdd\u5b58\u7684\u6587\u6863\u548c\u7535\u8111\u3002"
+        "做了很久，内容却没保存",
+        "用户扶着额头，面对未保存的文档和电脑。"
       ],
       "alt": "A user rests a hand on their forehead beside an unsaved document.",
       "file": "png/pain-14-unsaved.png",
@@ -1936,8 +1950,8 @@
       "sha256": "8d347ba8598d222243dce308ad58eeaf9e05808fdff0fc2916241b92e2360b59",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u505a\u4e86\u5f88\u4e45\uff0c\u5185\u5bb9\u5374\u6ca1\u4fdd\u5b58",
-      "altZh": "\u7528\u6237\u6276\u7740\u989d\u5934\uff0c\u9762\u5bf9\u672a\u4fdd\u5b58\u7684\u6587\u6863\u548c\u7535\u8111\u3002"
+      "titleZh": "做了很久，内容却没保存",
+      "altZh": "用户扶着额头，面对未保存的文档和电脑。"
     },
     {
       "id": "pain-15-version-conflict",
@@ -1945,12 +1959,12 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u7248\u672c\u51b2\u7a81",
+        "版本冲突",
         "version",
         "conflict",
-        "\u6587\u4ef6",
-        "\u4e24\u4e2a\u7248\u672c\uff0c\u4e0d\u77e5\u9053\u54ea\u4e2a\u624d\u662f\u6700\u65b0",
-        "\u7528\u6237\u62ff\u7740\u4e24\u4efd\u5185\u5bb9\u4e0d\u540c\u7684\u6587\u6863\uff0c\u4e0d\u786e\u5b9a\u8be5\u91c7\u7528\u54ea\u4e2a\u7248\u672c\u3002"
+        "文件",
+        "两个版本，不知道哪个才是最新",
+        "用户拿着两份内容不同的文档，不确定该采用哪个版本。"
       ],
       "alt": "A user holds two different documents and hesitates over the version.",
       "file": "png/pain-15-version-conflict.png",
@@ -1961,8 +1975,8 @@
       "sha256": "6c2c1ae577958ba8caf37008f15393ba706752db6b905de9480128ff42481e99",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4e24\u4e2a\u7248\u672c\uff0c\u4e0d\u77e5\u9053\u54ea\u4e2a\u624d\u662f\u6700\u65b0",
-      "altZh": "\u7528\u6237\u62ff\u7740\u4e24\u4efd\u5185\u5bb9\u4e0d\u540c\u7684\u6587\u6863\uff0c\u4e0d\u786e\u5b9a\u8be5\u91c7\u7528\u54ea\u4e2a\u7248\u672c\u3002"
+      "titleZh": "两个版本，不知道哪个才是最新",
+      "altZh": "用户拿着两份内容不同的文档，不确定该采用哪个版本。"
     },
     {
       "id": "pain-16-verification",
@@ -1970,12 +1984,12 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u9a8c\u8bc1\u7801",
-        "\u767b\u5f55",
+        "验证码",
+        "登录",
         "verification",
         "login",
-        "\u9a8c\u8bc1\u7801\u53cd\u590d\u5931\u6548\uff0c\u8fdb\u4e0d\u53bb",
-        "\u7528\u6237\u62ff\u7740\u9a8c\u8bc1\u7801\u8f93\u5165\u6846\u4e3a\u7a7a\u7684\u624b\u673a\uff0c\u9762\u5bf9\u5e26\u9501\u548c\u6c99\u6f0f\u7684\u767b\u5f55\u754c\u9762\u3002"
+        "验证码反复失效，进不去",
+        "用户拿着验证码输入框为空的手机，面对带锁和沙漏的登录界面。"
       ],
       "alt": "A user holds a phone with an empty code field beside a locked sign-in screen.",
       "file": "png/pain-16-verification.png",
@@ -1986,8 +2000,8 @@
       "sha256": "41ad6bb9dadd4b507ccde4525e3317dfd8f947122cd02ef6ec17c30d31b7f2d5",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u9a8c\u8bc1\u7801\u53cd\u590d\u5931\u6548\uff0c\u8fdb\u4e0d\u53bb",
-      "altZh": "\u7528\u6237\u62ff\u7740\u9a8c\u8bc1\u7801\u8f93\u5165\u6846\u4e3a\u7a7a\u7684\u624b\u673a\uff0c\u9762\u5bf9\u5e26\u9501\u548c\u6c99\u6f0f\u7684\u767b\u5f55\u754c\u9762\u3002"
+      "titleZh": "验证码反复失效，进不去",
+      "altZh": "用户拿着验证码输入框为空的手机，面对带锁和沙漏的登录界面。"
     },
     {
       "id": "pain-17-support-loop",
@@ -1995,13 +2009,13 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u5ba2\u670d",
-        "\u8f6c\u63a5",
+        "客服",
+        "转接",
         "support",
         "help",
         "loop",
-        "\u9700\u8981\u5e2e\u52a9\uff0c\u5374\u4e00\u76f4\u88ab\u8f6c\u63a5",
-        "\u7528\u6237\u6253\u7535\u8bdd\u6c42\u52a9\uff0c\u673a\u5668\u4eba\u4e0e\u4eba\u5de5\u5ba2\u670d\u4e4b\u95f4\u7684\u5faa\u73af\u7bad\u5934\u8868\u793a\u53cd\u590d\u8f6c\u63a5\u3002"
+        "需要帮助，却一直被转接",
+        "用户打电话求助，机器人与人工客服之间的循环箭头表示反复转接。"
       ],
       "alt": "A user calls for help while arrows loop between automated and human support.",
       "file": "png/pain-17-support-loop.png",
@@ -2012,8 +2026,8 @@
       "sha256": "e17c014799aac281ed48d767f67df73687feffc0bad99801456df3c29a2468e9",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u9700\u8981\u5e2e\u52a9\uff0c\u5374\u4e00\u76f4\u88ab\u8f6c\u63a5",
-      "altZh": "\u7528\u6237\u6253\u7535\u8bdd\u6c42\u52a9\uff0c\u673a\u5668\u4eba\u4e0e\u4eba\u5de5\u5ba2\u670d\u4e4b\u95f4\u7684\u5faa\u73af\u7bad\u5934\u8868\u793a\u53cd\u590d\u8f6c\u63a5\u3002"
+      "titleZh": "需要帮助，却一直被转接",
+      "altZh": "用户打电话求助，机器人与人工客服之间的循环箭头表示反复转接。"
     },
     {
       "id": "pain-18-small-target",
@@ -2021,13 +2035,13 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u8bef\u89e6",
-        "\u5c0f\u6309\u94ae",
+        "误触",
+        "小按钮",
         "mobile",
         "touch",
         "accessibility",
-        "\u64cd\u4f5c\u624b\u673a\u65f6\uff0c\u70b9\u9519\u4e86\u76ee\u6807",
-        "\u7528\u6237\u64cd\u4f5c\u624b\u673a\u65f6\u70b9\u9519\u76ee\u6807\uff0c\u9732\u51fa\u56f0\u60d1\u7684\u8868\u60c5\u3002"
+        "操作手机时，点错了目标",
+        "用户操作手机时点错目标，露出困惑的表情。"
       ],
       "alt": "A user taps the wrong target on a phone and looks confused.",
       "file": "png/pain-18-small-target.png",
@@ -2038,8 +2052,8 @@
       "sha256": "5f254e53b21f54a95ad3de1e8870d443e4d3cdb44c87eee1fb6bc9c7f59fc49c",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u64cd\u4f5c\u624b\u673a\u65f6\uff0c\u70b9\u9519\u4e86\u76ee\u6807",
-      "altZh": "\u7528\u6237\u64cd\u4f5c\u624b\u673a\u65f6\u70b9\u9519\u76ee\u6807\uff0c\u9732\u51fa\u56f0\u60d1\u7684\u8868\u60c5\u3002"
+      "titleZh": "操作手机时，点错了目标",
+      "altZh": "用户操作手机时点错目标，露出困惑的表情。"
     },
     {
       "id": "person-09-frustrated",
@@ -2047,12 +2061,12 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u75b2\u60eb",
-        "\u632b\u8d25",
+        "疲惫",
+        "挫败",
         "tired",
         "frustrated",
-        "\u75b2\u60eb\u53d7\u632b\u7684\u7528\u6237",
-        "\u7528\u6237\u5750\u5728\u51f3\u5b50\u4e0a\uff0c\u4e00\u624b\u6276\u989d\uff0c\u663e\u5f97\u75b2\u60eb\u53d7\u632b\u3002"
+        "疲惫受挫的用户",
+        "用户坐在凳子上，一手扶额，显得疲惫受挫。"
       ],
       "alt": "A tired user sits with a hand on their forehead.",
       "file": "png/person-09-frustrated.png",
@@ -2063,8 +2077,8 @@
       "sha256": "cae89fff45dd1c26c508ac2f35c9ac9c09a800c3370b17bf6d8a67ef1ebcf08d",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u75b2\u60eb\u53d7\u632b\u7684\u7528\u6237",
-      "altZh": "\u7528\u6237\u5750\u5728\u51f3\u5b50\u4e0a\uff0c\u4e00\u624b\u6276\u989d\uff0c\u663e\u5f97\u75b2\u60eb\u53d7\u632b\u3002"
+      "titleZh": "疲惫受挫的用户",
+      "altZh": "用户坐在凳子上，一手扶额，显得疲惫受挫。"
     },
     {
       "id": "person-10-seeking-help",
@@ -2072,12 +2086,12 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u4e3e\u624b",
-        "\u6c42\u52a9",
+        "举手",
+        "求助",
         "help",
         "asking",
-        "\u4e3b\u52a8\u6c42\u52a9\u7684\u7528\u6237",
-        "\u7528\u6237\u62ff\u7740\u7b14\u8bb0\u672c\u4e3e\u624b\uff0c\u4e3b\u52a8\u63d0\u51fa\u6c42\u52a9\u3002"
+        "主动求助的用户",
+        "用户拿着笔记本举手，主动提出求助。"
       ],
       "alt": "A user holds a notebook and raises a hand.",
       "file": "png/person-10-seeking-help.png",
@@ -2088,8 +2102,8 @@
       "sha256": "3e6c58b3df2c31cb57309572b7e9d7751f7c6599968750773c7b114bf8d33965",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4e3b\u52a8\u6c42\u52a9\u7684\u7528\u6237",
-      "altZh": "\u7528\u6237\u62ff\u7740\u7b14\u8bb0\u672c\u4e3e\u624b\uff0c\u4e3b\u52a8\u63d0\u51fa\u6c42\u52a9\u3002"
+      "titleZh": "主动求助的用户",
+      "altZh": "用户拿着笔记本举手，主动提出求助。"
     },
     {
       "id": "pain-19-jargon",
@@ -2097,13 +2111,13 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u672f\u8bed",
-        "\u7406\u89e3",
-        "\u8bf4\u660e",
+        "术语",
+        "理解",
+        "说明",
         "jargon",
         "comprehension",
-        "\u770b\u5230\u4e86\u8bf4\u660e\uff0c\u8fd8\u662f\u4e0d\u660e\u767d",
-        "\u7528\u6237\u5bf9\u7167\u8bf4\u660e\u4e66\uff0c\u770b\u7740\u5305\u542b\u590d\u6742\u7b26\u53f7\u7684\u8bf4\u660e\u5361\u7247\uff0c\u4ecd\u7136\u611f\u5230\u56f0\u60d1\u3002"
+        "看到了说明，还是不明白",
+        "用户对照说明书，看着包含复杂符号的说明卡片，仍然感到困惑。"
       ],
       "alt": "A user compares a manual with a card full of complex symbols.",
       "file": "png/pain-19-jargon.png",
@@ -2114,8 +2128,8 @@
       "sha256": "03c427a0beef15d97a81f115de0b4b31fa1cdd5e35e4fdcc9dc830c7db9df165",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u770b\u5230\u4e86\u8bf4\u660e\uff0c\u8fd8\u662f\u4e0d\u660e\u767d",
-      "altZh": "\u7528\u6237\u5bf9\u7167\u8bf4\u660e\u4e66\uff0c\u770b\u7740\u5305\u542b\u590d\u6742\u7b26\u53f7\u7684\u8bf4\u660e\u5361\u7247\uff0c\u4ecd\u7136\u611f\u5230\u56f0\u60d1\u3002"
+      "titleZh": "看到了说明，还是不明白",
+      "altZh": "用户对照说明书，看着包含复杂符号的说明卡片，仍然感到困惑。"
     },
     {
       "id": "pain-20-hidden-cost",
@@ -2123,14 +2137,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u8d39\u7528",
-        "\u4ef7\u683c",
-        "\u7ed3\u7b97",
+        "费用",
+        "价格",
+        "结算",
         "hidden",
         "cost",
         "pricing",
-        "\u8d70\u5230\u6700\u540e\uff0c\u624d\u53d1\u73b0\u989d\u5916\u8d39\u7528",
-        "\u7528\u6237\u51c6\u5907\u4ed8\u6b3e\u65f6\uff0c\u53d1\u73b0\u6536\u636e\u5e95\u90e8\u8fd8\u6709\u989d\u5916\u7684\u8d39\u7528\u9879\u76ee\u3002"
+        "走到最后，才发现额外费用",
+        "用户准备付款时，发现收据底部还有额外的费用项目。"
       ],
       "alt": "A user finds extra charges at the bottom of a receipt.",
       "file": "png/pain-20-hidden-cost.png",
@@ -2141,8 +2155,8 @@
       "sha256": "f934a7f5e12706e4f34a9e5d7dd4bf92473c290900284aa89cdd9eb8720ea0a2",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8d70\u5230\u6700\u540e\uff0c\u624d\u53d1\u73b0\u989d\u5916\u8d39\u7528",
-      "altZh": "\u7528\u6237\u51c6\u5907\u4ed8\u6b3e\u65f6\uff0c\u53d1\u73b0\u6536\u636e\u5e95\u90e8\u8fd8\u6709\u989d\u5916\u7684\u8d39\u7528\u9879\u76ee\u3002"
+      "titleZh": "走到最后，才发现额外费用",
+      "altZh": "用户准备付款时，发现收据底部还有额外的费用项目。"
     },
     {
       "id": "pain-21-interruption",
@@ -2150,15 +2164,15 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u5f39\u7a97",
-        "\u6253\u65ad",
+        "弹窗",
+        "打断",
         "interruption",
         "modal",
         "focus",
-        "\u6b63\u5728\u64cd\u4f5c\uff0c\u5374\u4e0d\u65ad\u88ab\u5f39\u7a97\u6253\u65ad",
-        "\u7528\u6237\u6b63\u64cd\u4f5c\u7535\u8111\uff0c\u4efb\u52a1\u5185\u5bb9\u88ab\u5c42\u53e0\u5f39\u7a97\u906e\u4f4f\u3002"
+        "正在操作，却不断被弹窗打断",
+        "用户正操作电脑，任务内容被层叠弹窗遮住。"
       ],
-      "alt": "Layered pop-ups cover a user\u2019s task on a computer.",
+      "alt": "Layered pop-ups cover a user’s task on a computer.",
       "file": "png/pain-21-interruption.png",
       "preview": "png/pain-21-interruption.png",
       "width": 1536,
@@ -2167,8 +2181,8 @@
       "sha256": "0b7d1ab01cb52475be4cc9de96fcf33703e74fd346f2bcfa896b2a60e0535217",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6b63\u5728\u64cd\u4f5c\uff0c\u5374\u4e0d\u65ad\u88ab\u5f39\u7a97\u6253\u65ad",
-      "altZh": "\u7528\u6237\u6b63\u64cd\u4f5c\u7535\u8111\uff0c\u4efb\u52a1\u5185\u5bb9\u88ab\u5c42\u53e0\u5f39\u7a97\u906e\u4f4f\u3002"
+      "titleZh": "正在操作，却不断被弹窗打断",
+      "altZh": "用户正操作电脑，任务内容被层叠弹窗遮住。"
     },
     {
       "id": "pain-22-incompatible",
@@ -2176,14 +2190,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u6587\u4ef6",
-        "\u683c\u5f0f",
-        "\u5bfc\u51fa",
+        "文件",
+        "格式",
+        "导出",
         "incompatible",
         "format",
         "export",
-        "\u6587\u4ef6\u51c6\u5907\u597d\u4e86\uff0c\u5374\u6253\u4e0d\u5f00",
-        "\u7528\u6237\u62ff\u7740\u51c6\u5907\u597d\u7684\u6587\u4ef6\uff0c\u5374\u53d1\u73b0\u6587\u4ef6\u4e0e\u76ee\u6807\u5e94\u7528\u7684\u5165\u53e3\u4e0d\u5339\u914d\u3002"
+        "文件准备好了，却打不开",
+        "用户拿着准备好的文件，却发现文件与目标应用的入口不匹配。"
       ],
       "alt": "A user holds a file that does not fit the destination app.",
       "file": "png/pain-22-incompatible.png",
@@ -2194,8 +2208,8 @@
       "sha256": "e5b26a0fa91d20a1e440e0c5405a2034cab6d4e469d3546cbdce5bdb0cb88f5f",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6587\u4ef6\u51c6\u5907\u597d\u4e86\uff0c\u5374\u6253\u4e0d\u5f00",
-      "altZh": "\u7528\u6237\u62ff\u7740\u51c6\u5907\u597d\u7684\u6587\u4ef6\uff0c\u5374\u53d1\u73b0\u6587\u4ef6\u4e0e\u76ee\u6807\u5e94\u7528\u7684\u5165\u53e3\u4e0d\u5339\u914d\u3002"
+      "titleZh": "文件准备好了，却打不开",
+      "altZh": "用户拿着准备好的文件，却发现文件与目标应用的入口不匹配。"
     },
     {
       "id": "pain-23-disabled",
@@ -2203,14 +2217,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u7981\u7528",
-        "\u6309\u94ae",
-        "\u8868\u5355",
+        "禁用",
+        "按钮",
+        "表单",
         "disabled",
         "button",
         "validation",
-        "\u6309\u94ae\u4e0d\u80fd\u7528\uff0c\u4e0d\u77e5\u9053\u8fd8\u5dee\u4ec0\u4e48",
-        "\u7528\u6237\u9762\u5bf9\u4e0d\u53ef\u7528\u7684\u64cd\u4f5c\u6309\u94ae\uff0c\u65e0\u6cd5\u5224\u65ad\u8fd8\u7f3a\u5c11\u54ea\u9879\u4fe1\u606f\u3002"
+        "按钮不能用，不知道还差什么",
+        "用户面对不可用的操作按钮，无法判断还缺少哪项信息。"
       ],
       "alt": "A user faces a disabled button without knowing what is missing.",
       "file": "png/pain-23-disabled.png",
@@ -2221,8 +2235,8 @@
       "sha256": "e7d054174f2b5767972b46e064df43b53ed1e6d41670330ac59e7600a6a283d0",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6309\u94ae\u4e0d\u80fd\u7528\uff0c\u4e0d\u77e5\u9053\u8fd8\u5dee\u4ec0\u4e48",
-      "altZh": "\u7528\u6237\u9762\u5bf9\u4e0d\u53ef\u7528\u7684\u64cd\u4f5c\u6309\u94ae\uff0c\u65e0\u6cd5\u5224\u65ad\u8fd8\u7f3a\u5c11\u54ea\u9879\u4fe1\u606f\u3002"
+      "titleZh": "按钮不能用，不知道还差什么",
+      "altZh": "用户面对不可用的操作按钮，无法判断还缺少哪项信息。"
     },
     {
       "id": "pain-24-cancel",
@@ -2230,14 +2244,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u53d6\u6d88",
-        "\u9000\u51fa",
-        "\u8ba2\u9605",
+        "取消",
+        "退出",
+        "订阅",
         "cancel",
         "subscription",
         "exit",
-        "\u60f3\u8981\u9000\u51fa\uff0c\u5374\u627e\u4e0d\u5230\u5165\u53e3",
-        "\u7528\u6237\u62ff\u7740\u4f1a\u5458\u5361\uff0c\u5728\u754c\u9762\u4e2d\u5bfb\u627e\u85cf\u5f97\u5f88\u6df1\u7684\u9000\u51fa\u5165\u53e3\u3002"
+        "想要退出，却找不到入口",
+        "用户拿着会员卡，在界面中寻找藏得很深的退出入口。"
       ],
       "alt": "A user with a membership card searches for a hidden exit.",
       "file": "png/pain-24-cancel.png",
@@ -2248,8 +2262,8 @@
       "sha256": "cf422fb10a6377c35ddb73456841897d594b50d55e861e9bc91a261e0af6722c",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u60f3\u8981\u9000\u51fa\uff0c\u5374\u627e\u4e0d\u5230\u5165\u53e3",
-      "altZh": "\u7528\u6237\u62ff\u7740\u4f1a\u5458\u5361\uff0c\u5728\u754c\u9762\u4e2d\u5bfb\u627e\u85cf\u5f97\u5f88\u6df1\u7684\u9000\u51fa\u5165\u53e3\u3002"
+      "titleZh": "想要退出，却找不到入口",
+      "altZh": "用户拿着会员卡，在界面中寻找藏得很深的退出入口。"
     },
     {
       "id": "person-11-presenting",
@@ -2257,12 +2271,12 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u6f14\u793a",
-        "\u6c47\u62a5",
+        "演示",
+        "汇报",
         "presenting",
         "explain",
-        "\u6e05\u695a\u6f14\u793a\u65b9\u6848\u7684\u540c\u4e8b",
-        "\u540c\u4e8b\u62ff\u7740\u65b9\u6848\u677f\uff0c\u6307\u5411\u5176\u4e2d\u7684\u91cd\u70b9\u5185\u5bb9\u8fdb\u884c\u8bb2\u89e3\u3002"
+        "清楚演示方案的同事",
+        "同事拿着方案板，指向其中的重点内容进行讲解。"
       ],
       "alt": "A colleague points to a key detail on a design board.",
       "file": "png/person-11-presenting.png",
@@ -2273,8 +2287,8 @@
       "sha256": "803d366a33a093d36c02fb4241ae151b92196663f4e10abd6dea328dfcfd66fb",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6e05\u695a\u6f14\u793a\u65b9\u6848\u7684\u540c\u4e8b",
-      "altZh": "\u540c\u4e8b\u62ff\u7740\u65b9\u6848\u677f\uff0c\u6307\u5411\u5176\u4e2d\u7684\u91cd\u70b9\u5185\u5bb9\u8fdb\u884c\u8bb2\u89e3\u3002"
+      "titleZh": "清楚演示方案的同事",
+      "altZh": "同事拿着方案板，指向其中的重点内容进行讲解。"
     },
     {
       "id": "person-12-careful-phone",
@@ -2282,14 +2296,14 @@
       "group": "character",
       "groupLabel": "Characters",
       "tags": [
-        "\u624b\u673a",
-        "\u8001\u5e74",
-        "\u8c28\u614e",
+        "手机",
+        "老年",
+        "谨慎",
         "older",
         "adult",
         "phone",
-        "\u8c28\u614e\u4f7f\u7528\u624b\u673a\u7684\u7528\u6237",
-        "\u4e00\u4f4d\u6234\u773c\u955c\u7684\u5e74\u957f\u7528\u6237\u624b\u6301\u624b\u673a\uff0c\u8ba4\u771f\u67e5\u770b\u5e76\u51c6\u5907\u64cd\u4f5c\u3002"
+        "谨慎使用手机的用户",
+        "一位戴眼镜的年长用户手持手机，认真查看并准备操作。"
       ],
       "alt": "An older user with glasses examines a phone before acting.",
       "file": "png/person-12-careful-phone.png",
@@ -2300,8 +2314,8 @@
       "sha256": "318b3ece5e3afc61ec5dd11300e35cdd57829be88eff69063b1a7edd0d41ff6e",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8c28\u614e\u4f7f\u7528\u624b\u673a\u7684\u7528\u6237",
-      "altZh": "\u4e00\u4f4d\u6234\u773c\u955c\u7684\u5e74\u957f\u7528\u6237\u624b\u6301\u624b\u673a\uff0c\u8ba4\u771f\u67e5\u770b\u5e76\u51c6\u5907\u64cd\u4f5c\u3002"
+      "titleZh": "谨慎使用手机的用户",
+      "altZh": "一位戴眼镜的年长用户手持手机，认真查看并准备操作。"
     },
     {
       "id": "spot-25-repeat-entry",
@@ -2309,13 +2323,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u91cd\u590d",
-        "\u5f55\u5165",
-        "\u8868\u5355",
+        "重复",
+        "录入",
+        "表单",
         "duplicate",
         "repeat entry",
-        "\u91cd\u590d\u5f55\u5165",
-        "\u4e24\u5f20\u8868\u5355\u663e\u793a\u76f8\u540c\u7684\u84dd\u8272\u5b57\u6bb5\uff0c\u5f2f\u66f2\u7bad\u5934\u8868\u793a\u53c8\u586b\u4e86\u4e00\u904d\u3002"
+        "重复录入",
+        "两张表单显示相同的蓝色字段，弯曲箭头表示又填了一遍。"
       ],
       "alt": "Two forms share blue fields linked by a curved arrow.",
       "file": "png/spot-25-repeat-entry.png",
@@ -2326,8 +2340,8 @@
       "sha256": "818c018d513a60674fcfa7fdf5270a4b970f9d80b0e44bdf6cbb49b6d767051b",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u91cd\u590d\u5f55\u5165",
-      "altZh": "\u4e24\u5f20\u8868\u5355\u663e\u793a\u76f8\u540c\u7684\u84dd\u8272\u5b57\u6bb5\uff0c\u5f2f\u66f2\u7bad\u5934\u8868\u793a\u53c8\u586b\u4e86\u4e00\u904d\u3002"
+      "titleZh": "重复录入",
+      "altZh": "两张表单显示相同的蓝色字段，弯曲箭头表示又填了一遍。"
     },
     {
       "id": "spot-26-unsaved",
@@ -2335,13 +2349,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u672a\u4fdd\u5b58",
-        "\u4e22\u5931",
-        "\u8349\u7a3f",
+        "未保存",
+        "丢失",
+        "草稿",
         "unsaved",
         "data loss",
-        "\u5185\u5bb9\u672a\u4fdd\u5b58",
-        "\u8d44\u6599\u5361\u65c1\u7684\u4fdd\u5b58\u78c1\u76d8\u5e26\u6709\u4e00\u4e2a\u5c0f\u53c9\uff0c\u8868\u793a\u5185\u5bb9\u5c1a\u672a\u4fdd\u5b58\u3002"
+        "内容未保存",
+        "资料卡旁的保存磁盘带有一个小叉，表示内容尚未保存。"
       ],
       "alt": "A save disk beside a card has a small cross.",
       "file": "png/spot-26-unsaved.png",
@@ -2352,8 +2366,8 @@
       "sha256": "f7b4d29bf2c07761321b75fc2c63ac0a5c563a3870baaa07bff5036135f9fd0e",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5185\u5bb9\u672a\u4fdd\u5b58",
-      "altZh": "\u8d44\u6599\u5361\u65c1\u7684\u4fdd\u5b58\u78c1\u76d8\u5e26\u6709\u4e00\u4e2a\u5c0f\u53c9\uff0c\u8868\u793a\u5185\u5bb9\u5c1a\u672a\u4fdd\u5b58\u3002"
+      "titleZh": "内容未保存",
+      "altZh": "资料卡旁的保存磁盘带有一个小叉，表示内容尚未保存。"
     },
     {
       "id": "spot-27-version-conflict",
@@ -2361,13 +2375,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u7248\u672c",
-        "\u51b2\u7a81",
-        "\u534f\u540c",
+        "版本",
+        "冲突",
+        "协同",
         "version",
         "conflict",
-        "\u7248\u672c\u51b2\u7a81",
-        "\u4e24\u5f20\u76f8\u4e92\u91cd\u53e0\u7684\u8d44\u6599\u5361\u663e\u793a\u4e0d\u540c\u84dd\u8272\u5185\u5bb9\uff0c\u4e2d\u95f4\u6709\u51b2\u7a81\u6298\u7ebf\u3002"
+        "版本冲突",
+        "两张相互重叠的资料卡显示不同蓝色内容，中间有冲突折线。"
       ],
       "alt": "Overlapping cards have different blue content and a conflict mark.",
       "file": "png/spot-27-version-conflict.png",
@@ -2378,8 +2392,8 @@
       "sha256": "ea0520c344a7b418863a996cf7f4e90350c6b87a36d36b00f4fa8667cded8731",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7248\u672c\u51b2\u7a81",
-      "altZh": "\u4e24\u5f20\u76f8\u4e92\u91cd\u53e0\u7684\u8d44\u6599\u5361\u663e\u793a\u4e0d\u540c\u84dd\u8272\u5185\u5bb9\uff0c\u4e2d\u95f4\u6709\u51b2\u7a81\u6298\u7ebf\u3002"
+      "titleZh": "版本冲突",
+      "altZh": "两张相互重叠的资料卡显示不同蓝色内容，中间有冲突折线。"
     },
     {
       "id": "spot-28-session-expired",
@@ -2387,13 +2401,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u767b\u5f55",
-        "\u8fc7\u671f",
-        "\u9a8c\u8bc1",
+        "登录",
+        "过期",
+        "验证",
         "session",
         "expired",
-        "\u4f1a\u8bdd\u8fc7\u671f",
-        "\u84dd\u8272\u5934\u50cf\u7684\u8eab\u4efd\u5361\u53f3\u4e0b\u65b9\u6709\u4e00\u4e2a\u5c0f\u949f\uff0c\u8868\u793a\u4f1a\u8bdd\u65f6\u6548\u3002"
+        "会话过期",
+        "蓝色头像的身份卡右下方有一个小钟，表示会话时效。"
       ],
       "alt": "An identity card has a blue avatar and a small clock.",
       "file": "png/spot-28-session-expired.png",
@@ -2404,8 +2418,8 @@
       "sha256": "937250f392bcc5bfb742ed6aa3bc44132dacb37308df77872d2061eaea92c341",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4f1a\u8bdd\u8fc7\u671f",
-      "altZh": "\u84dd\u8272\u5934\u50cf\u7684\u8eab\u4efd\u5361\u53f3\u4e0b\u65b9\u6709\u4e00\u4e2a\u5c0f\u949f\uff0c\u8868\u793a\u4f1a\u8bdd\u65f6\u6548\u3002"
+      "titleZh": "会话过期",
+      "altZh": "蓝色头像的身份卡右下方有一个小钟，表示会话时效。"
     },
     {
       "id": "spot-29-invalid-input",
@@ -2413,13 +2427,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u6821\u9a8c",
-        "\u8f93\u5165",
-        "\u5fc5\u586b",
+        "校验",
+        "输入",
+        "必填",
         "validation",
         "invalid input",
-        "\u8f93\u5165\u6821\u9a8c\u5931\u8d25",
-        "\u8868\u5355\u7684\u4e00\u4e2a\u5b57\u6bb5\u88ab\u84dd\u8272\u5f3a\u8c03\uff0c\u65c1\u8fb9\u6709\u8b66\u793a\u4e09\u89d2\u5f62\u3002"
+        "输入校验失败",
+        "表单的一个字段被蓝色强调，旁边有警示三角形。"
       ],
       "alt": "A form field is highlighted in blue beside a warning triangle.",
       "file": "png/spot-29-invalid-input.png",
@@ -2430,8 +2444,8 @@
       "sha256": "7a12926d9c825843ef3db9007506a96e7230d7540d0817fca142bf9bf4341c20",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8f93\u5165\u6821\u9a8c\u5931\u8d25",
-      "altZh": "\u8868\u5355\u7684\u4e00\u4e2a\u5b57\u6bb5\u88ab\u84dd\u8272\u5f3a\u8c03\uff0c\u65c1\u8fb9\u6709\u8b66\u793a\u4e09\u89d2\u5f62\u3002"
+      "titleZh": "输入校验失败",
+      "altZh": "表单的一个字段被蓝色强调，旁边有警示三角形。"
     },
     {
       "id": "spot-30-unsupported-file",
@@ -2439,13 +2453,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u683c\u5f0f",
-        "\u4e0d\u652f\u6301",
-        "\u517c\u5bb9",
+        "格式",
+        "不支持",
+        "兼容",
         "unsupported",
         "file format",
-        "\u6587\u4ef6\u683c\u5f0f\u4e0d\u652f\u6301",
-        "\u6298\u89d2\u6587\u4ef6\u524d\u6709\u84dd\u8272\u7981\u6b62\u6807\u8bb0\uff0c\u8868\u793a\u6587\u4ef6\u65e0\u6cd5\u4f7f\u7528\u3002"
+        "文件格式不支持",
+        "折角文件前有蓝色禁止标记，表示文件无法使用。"
       ],
       "alt": "A folded file has a blue restriction mark.",
       "file": "png/spot-30-unsupported-file.png",
@@ -2456,8 +2470,8 @@
       "sha256": "37651e9f12b5c9443295459f2c8fa7c7dc81de56c71b1c32519d9dd8e51258e9",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6587\u4ef6\u683c\u5f0f\u4e0d\u652f\u6301",
-      "altZh": "\u6298\u89d2\u6587\u4ef6\u524d\u6709\u84dd\u8272\u7981\u6b62\u6807\u8bb0\uff0c\u8868\u793a\u6587\u4ef6\u65e0\u6cd5\u4f7f\u7528\u3002"
+      "titleZh": "文件格式不支持",
+      "altZh": "折角文件前有蓝色禁止标记，表示文件无法使用。"
     },
     {
       "id": "spot-31-storage-full",
@@ -2465,13 +2479,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u5bb9\u91cf",
-        "\u5df2\u6ee1",
-        "\u5b58\u50a8",
+        "容量",
+        "已满",
+        "存储",
         "storage",
         "full",
-        "\u5b58\u50a8\u5bb9\u91cf\u5df2\u6ee1",
-        "\u4e00\u4e2a\u84dd\u8272\u76d6\u8fb9\u7684\u6536\u7eb3\u76d2\u88ab\u4e09\u5f20\u8d44\u6599\u5361\u586b\u6ee1\u3002"
+        "存储容量已满",
+        "一个蓝色盖边的收纳盒被三张资料卡填满。"
       ],
       "alt": "Three cards fill a box with a blue rim.",
       "file": "png/spot-31-storage-full.png",
@@ -2482,8 +2496,8 @@
       "sha256": "95e57abeab15e2f39a2c6fb57e0aafe09527050074b91925ac1962a7b8f523e8",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5b58\u50a8\u5bb9\u91cf\u5df2\u6ee1",
-      "altZh": "\u4e00\u4e2a\u84dd\u8272\u76d6\u8fb9\u7684\u6536\u7eb3\u76d2\u88ab\u4e09\u5f20\u8d44\u6599\u5361\u586b\u6ee1\u3002"
+      "titleZh": "存储容量已满",
+      "altZh": "一个蓝色盖边的收纳盒被三张资料卡填满。"
     },
     {
       "id": "spot-32-timeout",
@@ -2491,13 +2505,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u8d85\u65f6",
-        "\u8bf7\u6c42",
-        "\u52a0\u8f7d",
+        "超时",
+        "请求",
+        "加载",
         "timeout",
         "request",
-        "\u8bf7\u6c42\u8d85\u65f6",
-        "\u4e00\u4e2a\u84dd\u8272\u6309\u94ae\u7684\u79d2\u8868\u65c1\u6709\u5c0f\u53c9\uff0c\u8868\u793a\u65f6\u95f4\u5df2\u7528\u5c3d\u3002"
+        "请求超时",
+        "一个蓝色按钮的秒表旁有小叉，表示时间已用尽。"
       ],
       "alt": "A stopwatch with a blue button has a small cross.",
       "file": "png/spot-32-timeout.png",
@@ -2508,8 +2522,8 @@
       "sha256": "0d209178f60b4bffe847cc672ffc3d86272c71996a5a6662720a3fd151a48fdf",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8bf7\u6c42\u8d85\u65f6",
-      "altZh": "\u4e00\u4e2a\u84dd\u8272\u6309\u94ae\u7684\u79d2\u8868\u65c1\u6709\u5c0f\u53c9\uff0c\u8868\u793a\u65f6\u95f4\u5df2\u7528\u5c3d\u3002"
+      "titleZh": "请求超时",
+      "altZh": "一个蓝色按钮的秒表旁有小叉，表示时间已用尽。"
     },
     {
       "id": "spot-33-broken-link",
@@ -2517,13 +2531,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u94fe\u63a5",
-        "\u5931\u6548",
-        "\u5206\u4eab",
+        "链接",
+        "失效",
+        "分享",
         "broken link",
         "expired link",
-        "\u94fe\u63a5\u5931\u6548",
-        "\u4e24\u4e2a\u94fe\u73af\u4e4b\u95f4\u6709\u660e\u663e\u7f3a\u53e3\uff0c\u5176\u4e2d\u4e00\u4e2a\u94fe\u73af\u7528\u84dd\u8272\u5f3a\u8c03\u3002"
+        "链接失效",
+        "两个链环之间有明显缺口，其中一个链环用蓝色强调。"
       ],
       "alt": "Two chain links have a visible gap and a blue highlight.",
       "file": "png/spot-33-broken-link.png",
@@ -2534,8 +2548,8 @@
       "sha256": "58ef38e48db9513f0f314ff67534b8dd37c1ee4eabbc99d0602ab6081719192f",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u94fe\u63a5\u5931\u6548",
-      "altZh": "\u4e24\u4e2a\u94fe\u73af\u4e4b\u95f4\u6709\u660e\u663e\u7f3a\u53e3\uff0c\u5176\u4e2d\u4e00\u4e2a\u94fe\u73af\u7528\u84dd\u8272\u5f3a\u8c03\u3002"
+      "titleZh": "链接失效",
+      "altZh": "两个链环之间有明显缺口，其中一个链环用蓝色强调。"
     },
     {
       "id": "spot-34-filter-empty",
@@ -2543,13 +2557,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u7b5b\u9009",
-        "\u7a7a",
-        "\u65e0\u5339\u914d",
+        "筛选",
+        "空",
+        "无匹配",
         "filter",
         "no matches",
-        "\u7b5b\u9009\u540e\u4e3a\u7a7a",
-        "\u84dd\u8272\u6f0f\u6597\u4e0b\u65b9\u662f\u7a7a\u6258\u76d8\uff0c\u8868\u793a\u7b5b\u9009\u540e\u6ca1\u6709\u5339\u914d\u5185\u5bb9\u3002"
+        "筛选后为空",
+        "蓝色漏斗下方是空托盘，表示筛选后没有匹配内容。"
       ],
       "alt": "An empty tray sits below a blue funnel.",
       "file": "png/spot-34-filter-empty.png",
@@ -2560,8 +2574,8 @@
       "sha256": "ce80bb54d3d7eda37a9aa2bce4414e1b11666ec9e6553abd1c55719d75f6562d",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7b5b\u9009\u540e\u4e3a\u7a7a",
-      "altZh": "\u84dd\u8272\u6f0f\u6597\u4e0b\u65b9\u662f\u7a7a\u6258\u76d8\uff0c\u8868\u793a\u7b5b\u9009\u540e\u6ca1\u6709\u5339\u914d\u5185\u5bb9\u3002"
+      "titleZh": "筛选后为空",
+      "altZh": "蓝色漏斗下方是空托盘，表示筛选后没有匹配内容。"
     },
     {
       "id": "spot-35-maintenance",
@@ -2569,13 +2583,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u7ef4\u62a4",
-        "\u5347\u7ea7",
-        "\u6682\u4e0d\u53ef\u7528",
+        "维护",
+        "升级",
+        "暂不可用",
         "maintenance",
         "unavailable",
-        "\u7cfb\u7edf\u7ef4\u62a4",
-        "\u754c\u9762\u7a97\u53e3\u524d\u6709\u4e00\u628a\u6273\u624b\uff0c\u8868\u793a\u7cfb\u7edf\u6b63\u5728\u7ef4\u62a4\u3002"
+        "系统维护",
+        "界面窗口前有一把扳手，表示系统正在维护。"
       ],
       "alt": "A wrench stands in front of an interface window.",
       "file": "png/spot-35-maintenance.png",
@@ -2586,8 +2600,8 @@
       "sha256": "1bb40be431e6305ae5d33371eba402c354dca35e9a77fcf90e2834bdbb4e4077",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7cfb\u7edf\u7ef4\u62a4",
-      "altZh": "\u754c\u9762\u7a97\u53e3\u524d\u6709\u4e00\u628a\u6273\u624b\uff0c\u8868\u793a\u7cfb\u7edf\u6b63\u5728\u7ef4\u62a4\u3002"
+      "titleZh": "系统维护",
+      "altZh": "界面窗口前有一把扳手，表示系统正在维护。"
     },
     {
       "id": "spot-36-support",
@@ -2595,13 +2609,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u5e2e\u52a9",
-        "\u5ba2\u670d",
-        "\u6c42\u52a9",
+        "帮助",
+        "客服",
+        "求助",
         "support",
         "help",
-        "\u5e2e\u52a9\u4e0e\u6c42\u52a9",
-        "\u84dd\u8272\u8033\u7f69\u7684\u8033\u673a\u65c1\u6709\u4e00\u4e2a\u7b80\u6d01\u7684\u5bf9\u8bdd\u6c14\u6ce1\u3002"
+        "帮助与求助",
+        "蓝色耳罩的耳机旁有一个简洁的对话气泡。"
       ],
       "alt": "Headphones with blue earpieces sit beside a speech bubble.",
       "file": "png/spot-36-support.png",
@@ -2612,8 +2626,8 @@
       "sha256": "ba8ab0c575a3211c788037a3f8c8dcb37e07c2bfdf3fb0ac7889c042fa928f26",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5e2e\u52a9\u4e0e\u6c42\u52a9",
-      "altZh": "\u84dd\u8272\u8033\u7f69\u7684\u8033\u673a\u65c1\u6709\u4e00\u4e2a\u7b80\u6d01\u7684\u5bf9\u8bdd\u6c14\u6ce1\u3002"
+      "titleZh": "帮助与求助",
+      "altZh": "蓝色耳罩的耳机旁有一个简洁的对话气泡。"
     },
     {
       "id": "spot-37-pending-approval",
@@ -2621,13 +2635,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u5ba1\u6279",
-        "\u5ba1\u6838",
-        "\u7b49\u5f85",
+        "审批",
+        "审核",
+        "等待",
         "pending",
         "approval",
-        "\u7b49\u5f85\u5ba1\u6279",
-        "\u6e05\u5355\u53f3\u4e0b\u65b9\u7684\u84dd\u8272\u5c0f\u949f\u8868\u793a\u4ecd\u5728\u7b49\u5f85\u5ba1\u6279\u3002"
+        "等待审批",
+        "清单右下方的蓝色小钟表示仍在等待审批。"
       ],
       "alt": "A checklist has a small blue clock.",
       "file": "png/spot-37-pending-approval.png",
@@ -2638,8 +2652,8 @@
       "sha256": "4cab835516724e8033108aa8d3f1ef2a69602ea0dc26f61c42a60467d490906f",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7b49\u5f85\u5ba1\u6279",
-      "altZh": "\u6e05\u5355\u53f3\u4e0b\u65b9\u7684\u84dd\u8272\u5c0f\u949f\u8868\u793a\u4ecd\u5728\u7b49\u5f85\u5ba1\u6279\u3002"
+      "titleZh": "等待审批",
+      "altZh": "清单右下方的蓝色小钟表示仍在等待审批。"
     },
     {
       "id": "spot-38-undo",
@@ -2647,13 +2661,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u64a4\u9500",
-        "\u56de\u9000",
-        "\u8bef\u64cd\u4f5c",
+        "撤销",
+        "回退",
+        "误操作",
         "undo",
         "revert",
-        "\u64a4\u9500\u4e0e\u56de\u9000",
-        "\u4e00\u5f20\u8d44\u6599\u5361\u5de6\u4fa7\u7684\u5f2f\u66f2\u7bad\u5934\u6307\u5411\u5de6\uff0c\u8868\u793a\u64a4\u9500\u3002"
+        "撤销与回退",
+        "一张资料卡左侧的弯曲箭头指向左，表示撤销。"
       ],
       "alt": "A curved left arrow sits beside a card.",
       "file": "png/spot-38-undo.png",
@@ -2664,8 +2678,8 @@
       "sha256": "ad4579cc98d72b73deba3025e2b3692effafb9776023c63f371deb21badaa80b",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u64a4\u9500\u4e0e\u56de\u9000",
-      "altZh": "\u4e00\u5f20\u8d44\u6599\u5361\u5de6\u4fa7\u7684\u5f2f\u66f2\u7bad\u5934\u6307\u5411\u5de6\uff0c\u8868\u793a\u64a4\u9500\u3002"
+      "titleZh": "撤销与回退",
+      "altZh": "一张资料卡左侧的弯曲箭头指向左，表示撤销。"
     },
     {
       "id": "spot-39-saved",
@@ -2673,13 +2687,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u4fdd\u5b58",
-        "\u6210\u529f",
-        "\u81ea\u52a8\u4fdd\u5b58",
+        "保存",
+        "成功",
+        "自动保存",
         "saved",
         "autosave",
-        "\u4fdd\u5b58\u6210\u529f",
-        "\u84dd\u8272\u78c1\u76d8\u53f3\u4e0b\u65b9\u7684\u52fe\u8868\u793a\u5185\u5bb9\u5df2\u7ecf\u4fdd\u5b58\u3002"
+        "保存成功",
+        "蓝色磁盘右下方的勾表示内容已经保存。"
       ],
       "alt": "A blue disk has a check mark.",
       "file": "png/spot-39-saved.png",
@@ -2690,8 +2704,8 @@
       "sha256": "a78e33846d2d5bfd918d829e26d160f04cd2860021ecb33ebaf7801b214de749",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4fdd\u5b58\u6210\u529f",
-      "altZh": "\u84dd\u8272\u78c1\u76d8\u53f3\u4e0b\u65b9\u7684\u52fe\u8868\u793a\u5185\u5bb9\u5df2\u7ecf\u4fdd\u5b58\u3002"
+      "titleZh": "保存成功",
+      "altZh": "蓝色磁盘右下方的勾表示内容已经保存。"
     },
     {
       "id": "spot-40-empty-workspace",
@@ -2699,13 +2713,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u7a7a\u7a7a\u95f4",
-        "\u9996\u6b21",
-        "\u65b0\u5efa",
+        "空空间",
+        "首次",
+        "新建",
         "empty workspace",
         "create",
-        "\u7a7a\u7a7a\u95f4\u4e0e\u65b0\u5efa",
-        "\u4e00\u4e2a\u7a7a\u7684\u767d\u8272\u6587\u4ef6\u5939\u65c1\u6709\u84dd\u8272\u52a0\u53f7\uff0c\u8868\u793a\u53ef\u4ee5\u521b\u5efa\u5185\u5bb9\u3002"
+        "空空间与新建",
+        "一个空的白色文件夹旁有蓝色加号，表示可以创建内容。"
       ],
       "alt": "An empty folder sits beside a blue plus sign.",
       "file": "png/spot-40-empty-workspace.png",
@@ -2716,8 +2730,8 @@
       "sha256": "cb61061b39ee890f48bd5e9e8103ec4eb7fe2b6813b9f17269cdf4b6ae7539f2",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7a7a\u7a7a\u95f4\u4e0e\u65b0\u5efa",
-      "altZh": "\u4e00\u4e2a\u7a7a\u7684\u767d\u8272\u6587\u4ef6\u5939\u65c1\u6709\u84dd\u8272\u52a0\u53f7\uff0c\u8868\u793a\u53ef\u4ee5\u521b\u5efa\u5185\u5bb9\u3002"
+      "titleZh": "空空间与新建",
+      "altZh": "一个空的白色文件夹旁有蓝色加号，表示可以创建内容。"
     },
     {
       "id": "usecase-01-ai-cocreate",
@@ -2726,13 +2740,13 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u5171\u521b",
-        "\u8349\u7a3f",
-        "\u534f\u4f5c",
+        "共创",
+        "草稿",
+        "协作",
         "copilot",
         "draft",
         "co creation",
-        "\u4e0e AI \u4e00\u8d77\u6253\u78e8\u8349\u7a3f",
+        "与 AI 一起打磨草稿",
         "An adult revises a draft beside a laptop and a small processor tile."
       ],
       "alt": "An adult revises a draft beside a laptop and a small processor tile.",
@@ -2744,7 +2758,7 @@
       "sha256": "7b9f4f61bc21f5d8c68937766816885981b7cc18bd4afb3ca61908d527b54c0e",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4e0e AI \u4e00\u8d77\u6253\u78e8\u8349\u7a3f",
+      "titleZh": "与 AI 一起打磨草稿",
       "altZh": "An adult revises a draft beside a laptop and a small processor tile."
     },
     {
@@ -2754,13 +2768,13 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u6838\u9a8c",
-        "\u6765\u6e90",
-        "\u5e7b\u89c9",
+        "核验",
+        "来源",
+        "幻觉",
         "trust",
         "citation",
         "fact check",
-        "\u6838\u5bf9 AI \u56de\u7b54\u7684\u6765\u6e90",
+        "核对 AI 回答的来源",
         "A user checks source documents next to an AI answer panel."
       ],
       "alt": "A user checks source documents next to an AI answer panel.",
@@ -2772,7 +2786,7 @@
       "sha256": "177c75d76d380be9e7eec6434c2febb331481a5109366a9c07c242f7ad42b057",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u6838\u5bf9 AI \u56de\u7b54\u7684\u6765\u6e90",
+      "titleZh": "核对 AI 回答的来源",
       "altZh": "A user checks source documents next to an AI answer panel."
     },
     {
@@ -2781,13 +2795,13 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u8d2d\u7269",
-        "\u652f\u4ed8",
-        "\u4ed8\u6b3e\u5931\u8d25",
+        "购物",
+        "支付",
+        "付款失败",
         "checkout",
         "payment",
         "declined",
-        "\u4ed8\u6b3e\u5931\u8d25\uff0c\u6362\u4e00\u79cd\u65b9\u5f0f\u7ee7\u7eed",
+        "付款失败，换一种方式继续",
         "A shopper switches payment methods after a declined payment."
       ],
       "alt": "A shopper switches payment methods after a declined payment.",
@@ -2799,7 +2813,7 @@
       "sha256": "d59588b98e1a1abdba02b7c8f1da4bfe34a907c486bbb805f995d9a4b426d340",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4ed8\u6b3e\u5931\u8d25\uff0c\u6362\u4e00\u79cd\u65b9\u5f0f\u7ee7\u7eed",
+      "titleZh": "付款失败，换一种方式继续",
       "altZh": "A shopper switches payment methods after a declined payment."
     },
     {
@@ -2808,14 +2822,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u7269\u6d41",
-        "\u8ba2\u5355",
-        "\u5305\u88f9",
-        "\u914d\u9001",
+        "物流",
+        "订单",
+        "包裹",
+        "配送",
         "delivery",
         "tracking",
         "order status",
-        "\u770b\u6e05\u5305\u88f9\u8d70\u5230\u54ea\u4e00\u6b65",
+        "看清包裹走到哪一步",
         "A customer follows a parcel route from warehouse to home."
       ],
       "alt": "A customer follows a parcel route from warehouse to home.",
@@ -2827,7 +2841,7 @@
       "sha256": "f53fab48d7ca31ffc3c5dcd1115ad45dea3f0989adc8936c705959fc707d2477",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u770b\u6e05\u5305\u88f9\u8d70\u5230\u54ea\u4e00\u6b65",
+      "titleZh": "看清包裹走到哪一步",
       "altZh": "A customer follows a parcel route from warehouse to home."
     },
     {
@@ -2836,13 +2850,13 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u9000\u8d27",
-        "\u9000\u6b3e",
-        "\u552e\u540e",
+        "退货",
+        "退款",
+        "售后",
         "return",
         "refund",
         "exchange",
-        "\u628a\u9000\u8d27\u6d41\u7a0b\u987a\u5229\u8d70\u5b8c",
+        "把退货流程顺利走完",
         "A customer hands back a parcel under a return arrow."
       ],
       "alt": "A customer hands back a parcel under a return arrow.",
@@ -2854,7 +2868,7 @@
       "sha256": "2e27451d9ca64b4024643c611baa42fdd995292d359c0df8a00814b6331c9eff",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u9000\u8d27\u6d41\u7a0b\u987a\u5229\u8d70\u5b8c",
+      "titleZh": "把退货流程顺利走完",
       "altZh": "A customer hands back a parcel under a return arrow."
     },
     {
@@ -2863,14 +2877,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u9884\u7b97",
-        "\u8d22\u52a1",
-        "\u8bb0\u8d26",
-        "\u50a8\u84c4",
+        "预算",
+        "财务",
+        "记账",
+        "储蓄",
         "budget",
         "finance",
         "savings",
-        "\u628a\u652f\u51fa\u548c\u76ee\u6807\u4e00\u8d77\u770b\u6e05",
+        "把支出和目标一起看清",
         "A user compares expenses and a savings goal beside a coin jar."
       ],
       "alt": "A user compares expenses and a savings goal beside a coin jar.",
@@ -2882,7 +2896,7 @@
       "sha256": "650d4951926fb33778545afc69bb82dc560379d50ab8fd80d68448205a72c931",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u652f\u51fa\u548c\u76ee\u6807\u4e00\u8d77\u770b\u6e05",
+      "titleZh": "把支出和目标一起看清",
       "altZh": "A user compares expenses and a savings goal beside a coin jar."
     },
     {
@@ -2891,14 +2905,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u5065\u5eb7",
-        "\u95ee\u8bca",
-        "\u533b\u751f",
-        "\u8fdc\u7a0b",
+        "健康",
+        "问诊",
+        "医生",
+        "远程",
         "telehealth",
         "health",
         "consultation",
-        "\u5728\u5bb6\u4e5f\u80fd\u4e0e\u533b\u751f\u6c9f\u901a",
+        "在家也能与医生沟通",
         "A patient speaks with a clinician on a tablet from home."
       ],
       "alt": "A patient speaks with a clinician on a tablet from home.",
@@ -2910,7 +2924,7 @@
       "sha256": "2d1792981bb1870d01c47adf076b1847a97dea99549572602324507bbaf08972",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u5728\u5bb6\u4e5f\u80fd\u4e0e\u533b\u751f\u6c9f\u901a",
+      "titleZh": "在家也能与医生沟通",
       "altZh": "A patient speaks with a clinician on a tablet from home."
     },
     {
@@ -2919,14 +2933,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u5b66\u4e60",
-        "\u8bfe\u7a0b",
-        "\u7b14\u8bb0",
-        "\u6559\u80b2",
+        "学习",
+        "课程",
+        "笔记",
+        "教育",
         "learning",
         "course",
         "education",
-        "\u8fb9\u5b66\u8fb9\u628a\u91cd\u70b9\u8bb0\u4e0b\u6765",
+        "边学边把重点记下来",
         "A learner watches a lesson and writes in a notebook."
       ],
       "alt": "A learner watches a lesson and writes in a notebook.",
@@ -2938,7 +2952,7 @@
       "sha256": "aea3b5a36f0dfa6bea42c79c9a271691dd759769a0de8c389535042df00e163f",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u8fb9\u5b66\u8fb9\u628a\u91cd\u70b9\u8bb0\u4e0b\u6765",
+      "titleZh": "边学边把重点记下来",
       "altZh": "A learner watches a lesson and writes in a notebook."
     },
     {
@@ -2947,14 +2961,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u65c5\u884c",
-        "\u51fa\u884c",
-        "\u6539\u7b7e",
-        "\u9884\u8ba2",
+        "旅行",
+        "出行",
+        "改签",
+        "预订",
         "travel",
         "booking",
         "reschedule",
-        "\u884c\u7a0b\u53d8\u4e86\uff0c\u91cd\u65b0\u5b89\u6392\u4e0b\u4e00\u6b65",
+        "行程变了，重新安排下一步",
         "A traveler chooses a replacement ticket beside a suitcase."
       ],
       "alt": "A traveler chooses a replacement ticket beside a suitcase.",
@@ -2966,7 +2980,7 @@
       "sha256": "115244497ee35b1349722e6695a019de1d2c7101a86b9bf6fd8ce88f7f836f11",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u884c\u7a0b\u53d8\u4e86\uff0c\u91cd\u65b0\u5b89\u6392\u4e0b\u4e00\u6b65",
+      "titleZh": "行程变了，重新安排下一步",
       "altZh": "A traveler chooses a replacement ticket beside a suitcase."
     },
     {
@@ -2975,14 +2989,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u9910\u996e",
-        "\u70b9\u9910",
-        "\u53d6\u9910",
-        "\u5916\u5356",
+        "餐饮",
+        "点餐",
+        "取餐",
+        "外卖",
         "food",
         "pickup",
         "takeaway",
-        "\u4e0b\u5355\u540e\uff0c\u987a\u5229\u53d6\u5230\u9910",
+        "下单后，顺利取到餐",
         "A customer shows an order confirmation and collects a takeaway bag."
       ],
       "alt": "A customer shows an order confirmation and collects a takeaway bag.",
@@ -2994,7 +3008,7 @@
       "sha256": "8b03c5f9bb5ddf2887ab58887fe606a87c196e23a5e0d72154943966044d8b77",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u4e0b\u5355\u540e\uff0c\u987a\u5229\u53d6\u5230\u9910",
+      "titleZh": "下单后，顺利取到餐",
       "altZh": "A customer shows an order confirmation and collects a takeaway bag."
     },
     {
@@ -3003,14 +3017,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u65e0\u969c\u788d",
-        "\u8f85\u52a9",
-        "\u6717\u8bfb",
-        "\u53ef\u8bbf\u95ee\u6027",
+        "无障碍",
+        "辅助",
+        "朗读",
+        "可访问性",
         "accessibility",
         "reader",
         "text to speech",
-        "\u7528\u9002\u5408\u81ea\u5df1\u7684\u65b9\u5f0f\u9605\u8bfb",
+        "用适合自己的方式阅读",
         "A headphone-wearing reader uses spoken text on a tablet."
       ],
       "alt": "A headphone-wearing reader uses spoken text on a tablet.",
@@ -3022,7 +3036,7 @@
       "sha256": "1b6f8c0f9dc886b6fa1f111b5083181e5190e91466ace28b54ea6bd76c9c25a5",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u7528\u9002\u5408\u81ea\u5df1\u7684\u65b9\u5f0f\u9605\u8bfb",
+      "titleZh": "用适合自己的方式阅读",
       "altZh": "A headphone-wearing reader uses spoken text on a tablet."
     },
     {
@@ -3031,14 +3045,14 @@
       "group": "scene",
       "groupLabel": "Scenes",
       "tags": [
-        "\u5065\u5eb7",
-        "\u4e60\u60ef",
-        "\u6253\u5361",
-        "\u76ee\u6807",
+        "健康",
+        "习惯",
+        "打卡",
+        "目标",
         "habit",
         "wellness",
         "routine",
-        "\u628a\u5065\u5eb7\u4e60\u60ef\u6162\u6162\u575a\u6301\u4e0b\u6765",
+        "把健康习惯慢慢坚持下来",
         "A user marks completed habits beside a calendar."
       ],
       "alt": "A user marks completed habits beside a calendar.",
@@ -3050,7 +3064,7 @@
       "sha256": "d0a187a27ad2998df0bb8cc00cfdacfc027d457c97c5372de2ae5842da83b609",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u628a\u5065\u5eb7\u4e60\u60ef\u6162\u6162\u575a\u6301\u4e0b\u6765",
+      "titleZh": "把健康习惯慢慢坚持下来",
       "altZh": "A user marks completed habits beside a calendar."
     },
     {
@@ -3060,11 +3074,11 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "AI",
-        "\u6765\u6e90",
-        "\u6838\u9a8c",
+        "来源",
+        "核验",
         "citation",
         "verify",
-        "AI \u6765\u6e90\u6838\u9a8c",
+        "AI 来源核验",
         "A magnifying glass checks a source link on two cards."
       ],
       "alt": "A magnifying glass checks a source link on two cards.",
@@ -3076,7 +3090,7 @@
       "sha256": "b5e44540aa0378381caa20d147dc1677b7632320ec7934ca728527ba613b214c",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "AI \u6765\u6e90\u6838\u9a8c",
+      "titleZh": "AI 来源核验",
       "altZh": "A magnifying glass checks a source link on two cards."
     },
     {
@@ -3085,12 +3099,12 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u5305\u88f9",
-        "\u7269\u6d41",
-        "\u914d\u9001",
+        "包裹",
+        "物流",
+        "配送",
         "delivery",
         "tracking",
-        "\u914d\u9001\u5230\u54ea\u91cc\u4e86",
+        "配送到哪里了",
         "A parcel sits next to a route pin and a home."
       ],
       "alt": "A parcel sits next to a route pin and a home.",
@@ -3102,7 +3116,7 @@
       "sha256": "fcbb59fdd375d06eea65184049bc41627cffd771e7b231156106336050ef5a85",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u914d\u9001\u5230\u54ea\u91cc\u4e86",
+      "titleZh": "配送到哪里了",
       "altZh": "A parcel sits next to a route pin and a home."
     },
     {
@@ -3111,12 +3125,12 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u9000\u8d27",
-        "\u9000\u6b3e",
-        "\u552e\u540e",
+        "退货",
+        "退款",
+        "售后",
         "return",
         "refund",
-        "\u9000\u8d27\u4e0e\u9000\u6b3e",
+        "退货与退款",
         "A return arrow curves over a parcel and receipt."
       ],
       "alt": "A return arrow curves over a parcel and receipt.",
@@ -3128,7 +3142,7 @@
       "sha256": "e9de522204ba6ecded02c33c12a072eb4fea516fe01a1dada309de594076ac7b",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u9000\u8d27\u4e0e\u9000\u6b3e",
+      "titleZh": "退货与退款",
       "altZh": "A return arrow curves over a parcel and receipt."
     },
     {
@@ -3137,13 +3151,13 @@
       "group": "spot",
       "groupLabel": "Spot illustrations",
       "tags": [
-        "\u9884\u7ea6",
-        "\u9884\u8ba2",
-        "\u6539\u671f",
+        "预约",
+        "预订",
+        "改期",
         "calendar",
         "booking",
         "appointment",
-        "\u9884\u7ea6\u4e0e\u6539\u671f",
+        "预约与改期",
         "A checked calendar cell sits beside a reschedule arrow."
       ],
       "alt": "A checked calendar cell sits beside a reschedule arrow.",
@@ -3155,7 +3169,7 @@
       "sha256": "da5f925b2c6d50e708c02e400c305973b42d60c69eba0ae36050aa2b546eeb77",
       "license": "CC0-1.0",
       "generator": "built-in imagegen",
-      "titleZh": "\u9884\u7ea6\u4e0e\u6539\u671f",
+      "titleZh": "预约与改期",
       "altZh": "A checked calendar cell sits beside a reschedule arrow."
     },
     {
@@ -3165,14 +3179,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u4e0a\u4e0b\u6587",
-        "\u8d44\u6599",
-        "\u9644\u4ef6",
+        "上下文",
+        "资料",
+        "附件",
         "context",
         "attach",
         "input",
-        "\u628a\u4efb\u52a1\u8d44\u6599\u4ea4\u7ed9 AI",
-        "AI \u8f93\u5165"
+        "把任务资料交给 AI",
+        "AI 输入"
       ],
       "alt": "A user adds selected documents to an AI input panel.",
       "file": "png/ai-01-context.png",
@@ -3191,14 +3205,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u6f84\u6e05",
-        "\u9700\u6c42",
-        "\u8ffd\u95ee",
+        "澄清",
+        "需求",
+        "追问",
         "clarify",
         "intent",
         "question",
-        "\u5148\u628a\u9700\u6c42\u95ee\u6e05\u695a",
-        "AI \u8f93\u5165"
+        "先把需求问清楚",
+        "AI 输入"
       ],
       "alt": "A user answers a follow-up question before an AI task starts.",
       "file": "png/ai-02-clarify.png",
@@ -3217,14 +3231,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u77e5\u8bc6\u5e93",
-        "\u68c0\u7d22",
+        "知识库",
+        "检索",
         "RAG",
         "knowledge",
         "retrieval",
         "grounding",
-        "\u4ece\u77e5\u8bc6\u5e93\u627e\u5230\u76f8\u5173\u6750\u6599",
-        "AI \u8f93\u5165"
+        "从知识库找到相关材料",
+        "AI 输入"
       ],
       "alt": "A selected knowledge-base document feeds an AI answer.",
       "file": "png/ai-03-knowledge.png",
@@ -3243,14 +3257,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u603b\u7ed3",
-        "\u6458\u8981",
-        "\u8d44\u6599",
+        "总结",
+        "摘要",
+        "资料",
         "summary",
         "summarize",
         "documents",
-        "\u628a\u957f\u8d44\u6599\u538b\u6210\u6e05\u6670\u6458\u8981",
-        "AI \u8f93\u51fa"
+        "把长资料压成清晰摘要",
+        "AI 输出"
       ],
       "alt": "A user reviews a compact summary alongside the original documents.",
       "file": "png/ai-04-summary.png",
@@ -3269,14 +3283,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u56fe\u7247",
-        "\u8bc6\u56fe",
-        "\u591a\u6a21\u6001",
+        "图片",
+        "识图",
+        "多模态",
         "vision",
         "image",
         "multimodal",
-        "\u770b\u61c2\u56fe\u7247\u4e2d\u7684\u5173\u952e\u4fe1\u606f",
-        "AI \u8f93\u5165"
+        "看懂图片中的关键信息",
+        "AI 输入"
       ],
       "alt": "A user extracts a highlighted visual detail from an image.",
       "file": "png/ai-05-vision.png",
@@ -3295,14 +3309,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u8bed\u97f3",
-        "\u5bf9\u8bdd",
-        "\u8f6c\u5199",
+        "语音",
+        "对话",
+        "转写",
         "voice",
         "speech",
         "dictation",
-        "\u7528\u8bed\u97f3\u8868\u8fbe\u4efb\u52a1",
-        "AI \u8f93\u5165"
+        "用语音表达任务",
+        "AI 输入"
       ],
       "alt": "A user speaks into a phone as voice becomes a task request.",
       "file": "png/ai-06-voice.png",
@@ -3321,14 +3335,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u751f\u56fe",
-        "\u56fe\u7247",
-        "\u53d8\u4f53",
+        "生图",
+        "图片",
+        "变体",
         "generate image",
         "variants",
         "selection",
-        "\u6311\u9009\u66f4\u5408\u9002\u7684\u751f\u6210\u56fe",
-        "AI \u8f93\u51fa"
+        "挑选更合适的生成图",
+        "AI 输出"
       ],
       "alt": "A designer chooses between two generated image variations.",
       "file": "png/ai-07-image-variants.png",
@@ -3347,14 +3361,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u7f16\u7a0b",
-        "\u4ee3\u7801",
-        "\u6d4b\u8bd5",
+        "编程",
+        "代码",
+        "测试",
         "coding",
         "code",
         "assistant",
-        "\u68c0\u67e5 AI \u63d0\u51fa\u7684\u4ee3\u7801\u4fee\u6539",
-        "AI \u8f93\u51fa"
+        "检查 AI 提出的代码修改",
+        "AI 输出"
       ],
       "alt": "A developer reviews a suggested code change and a test result.",
       "file": "png/ai-08-coding.png",
@@ -3373,14 +3387,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u4f1a\u8bae",
-        "\u7eaa\u8981",
-        "\u884c\u52a8\u9879",
+        "会议",
+        "纪要",
+        "行动项",
         "meeting",
         "notes",
         "actions",
-        "\u628a\u8ba8\u8bba\u6574\u7406\u6210\u884c\u52a8\u9879",
-        "AI \u8f93\u51fa"
+        "把讨论整理成行动项",
+        "AI 输出"
       ],
       "alt": "Colleagues review action items extracted from a meeting.",
       "file": "png/ai-09-meeting-notes.png",
@@ -3400,13 +3414,13 @@
       "tags": [
         "AI",
         "Agent",
-        "\u4ee3\u7406",
-        "\u8ba1\u5212",
-        "\u6b65\u9aa4",
+        "代理",
+        "计划",
+        "步骤",
         "agent",
         "plan",
         "workflow",
-        "\u5148\u770b\u61c2 Agent \u7684\u6267\u884c\u8ba1\u5212",
+        "先看懂 Agent 的执行计划",
         "AI Agent"
       ],
       "alt": "A user adjusts an agent's three-step task plan.",
@@ -3427,13 +3441,13 @@
       "tags": [
         "AI",
         "Agent",
-        "\u63d0\u6848",
-        "\u5ba1\u9605",
-        "\u5e94\u7528",
+        "提案",
+        "审阅",
+        "应用",
         "review",
         "apply",
         "proposal",
-        "\u5ba1\u9605\u540e\u518d\u5e94\u7528\u4fee\u6539",
+        "审阅后再应用修改",
         "AI Agent"
       ],
       "alt": "A user compares a proposed change before applying it.",
@@ -3454,13 +3468,13 @@
       "tags": [
         "AI",
         "Agent",
-        "\u5de5\u5177",
-        "\u6388\u6743",
-        "\u6743\u9650",
+        "工具",
+        "授权",
+        "权限",
         "tool",
         "permission",
         "scope",
-        "\u53ea\u6388\u6743\u8fd9\u6b21\u9700\u8981\u7684\u5de5\u5177",
+        "只授权这次需要的工具",
         "AI Agent"
       ],
       "alt": "A user allows access to one tool while two others stay locked.",
@@ -3481,13 +3495,13 @@
       "tags": [
         "AI",
         "Agent",
-        "\u8fdb\u5ea6",
-        "\u6682\u505c",
-        "\u751f\u6210\u4e2d",
+        "进度",
+        "暂停",
+        "生成中",
         "progress",
         "pause",
         "running",
-        "\u957f\u4efb\u52a1\u4e5f\u80fd\u770b\u8fdb\u5ea6\u548c\u6682\u505c",
+        "长任务也能看进度和暂停",
         "AI Agent"
       ],
       "alt": "A user pauses an AI task with visible step progress.",
@@ -3508,14 +3522,14 @@
       "tags": [
         "AI",
         "Agent",
-        "\u6062\u590d",
-        "\u90e8\u5206\u5931\u8d25",
-        "\u91cd\u8bd5",
+        "恢复",
+        "部分失败",
+        "重试",
         "resume",
         "retry",
         "partial failure",
-        "\u4fdd\u7559\u5df2\u5b8c\u6210\u90e8\u5206\uff0c\u63a5\u7740\u5904\u7406",
-        "AI \u6062\u590d"
+        "保留已完成部分，接着处理",
+        "AI 恢复"
       ],
       "alt": "A user retries the failed step while completed steps are preserved.",
       "file": "png/ai-14-resume.png",
@@ -3534,14 +3548,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u4e0d\u786e\u5b9a",
-        "\u8fb9\u754c",
-        "\u8bc1\u636e",
+        "不确定",
+        "边界",
+        "证据",
         "uncertain",
         "limitations",
         "abstain",
-        "\u4e0d\u786e\u5b9a\u65f6\uff0c\u6e05\u695a\u8bf4\u660e\u8fb9\u754c",
-        "AI \u4fe1\u4efb"
+        "不确定时，清楚说明边界",
+        "AI 信任"
       ],
       "alt": "A user sees an incomplete answer and brings additional evidence.",
       "file": "png/ai-15-uncertain.png",
@@ -3560,14 +3574,14 @@
       "groupLabel": "Scenes",
       "tags": [
         "AI",
-        "\u7ea0\u9519",
-        "\u53cd\u9988",
-        "\u91cd\u65b0\u751f\u6210",
+        "纠错",
+        "反馈",
+        "重新生成",
         "correct",
         "feedback",
         "regenerate",
-        "\u6307\u51fa\u5177\u4f53\u95ee\u9898\uff0c\u518d\u91cd\u65b0\u751f\u6210",
-        "AI \u6062\u590d"
+        "指出具体问题，再重新生成",
+        "AI 恢复"
       ],
       "alt": "A user supplies a specific correction to an AI response.",
       "file": "png/ai-16-correct.png",
@@ -3586,12 +3600,12 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "AI",
-        "\u4e0a\u4e0b\u6587",
-        "\u9644\u4ef6",
+        "上下文",
+        "附件",
         "context",
         "attachments",
-        "\u4e0a\u4e0b\u6587\u9644\u4ef6",
-        "AI \u8f93\u5165"
+        "上下文附件",
+        "AI 输入"
       ],
       "alt": "Documents enter an AI context tray.",
       "file": "png/spot-45-ai-context.png",
@@ -3610,12 +3624,12 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "AI",
-        "\u6f84\u6e05",
-        "\u8ffd\u95ee",
+        "澄清",
+        "追问",
         "clarify",
         "question",
-        "\u6f84\u6e05\u9700\u6c42",
-        "AI \u8f93\u5165"
+        "澄清需求",
+        "AI 输入"
       ],
       "alt": "A question bubble prompts clarification.",
       "file": "png/spot-46-ai-clarify.png",
@@ -3635,10 +3649,10 @@
       "tags": [
         "AI",
         "Agent",
-        "\u8ba1\u5212",
+        "计划",
         "agent",
         "plan",
-        "Agent \u6267\u884c\u8ba1\u5212",
+        "Agent 执行计划",
         "AI Agent"
       ],
       "alt": "Three connected cards represent an agent plan.",
@@ -3658,11 +3672,11 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "AI",
-        "\u5ba1\u9605",
-        "\u63d0\u6848",
+        "审阅",
+        "提案",
         "review",
         "proposal",
-        "\u5ba1\u9605\u63d0\u6848",
+        "审阅提案",
         "AI Agent"
       ],
       "alt": "Two document versions sit beside an approval check.",
@@ -3683,11 +3697,11 @@
       "tags": [
         "AI",
         "Agent",
-        "\u6743\u9650",
-        "\u5de5\u5177",
+        "权限",
+        "工具",
         "permission",
         "scope",
-        "\u6709\u9650\u5de5\u5177\u6743\u9650",
+        "有限工具权限",
         "AI Agent"
       ],
       "alt": "A shield contains one allowed tool while a lock stays outside.",
@@ -3707,11 +3721,11 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "AI",
-        "\u6682\u505c",
-        "\u751f\u6210",
+        "暂停",
+        "生成",
         "pause",
         "generation",
-        "\u6682\u505c\u751f\u6210",
+        "暂停生成",
         "AI Agent"
       ],
       "alt": "A processor and progress bar sit beside a pause button.",
@@ -3731,13 +3745,13 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "AI",
-        "\u8131\u654f",
-        "\u9690\u79c1",
-        "\u654f\u611f\u4fe1\u606f",
+        "脱敏",
+        "隐私",
+        "敏感信息",
         "redact",
         "privacy",
-        "\u5206\u4eab\u524d\u9690\u85cf\u654f\u611f\u4fe1\u606f",
-        "AI \u4fe1\u4efb"
+        "分享前隐藏敏感信息",
+        "AI 信任"
       ],
       "alt": "A document hides one field beside a lock.",
       "file": "png/spot-51-ai-redact.png",
@@ -3756,13 +3770,13 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "AI",
-        "\u4eba\u5de5",
-        "\u8f6c\u4ea4",
-        "\u5ba2\u670d",
+        "人工",
+        "转交",
+        "客服",
         "human",
         "handoff",
-        "\u8f6c\u4ea4\u4eba\u5de5\u5904\u7406",
-        "AI \u6062\u590d"
+        "转交人工处理",
+        "AI 恢复"
       ],
       "alt": "An AI task passes to a human support conversation.",
       "file": "png/spot-52-ai-human-handoff.png",
@@ -3782,18 +3796,18 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "admin",
         "dashboard",
-        "\u540e\u53f0",
-        "\u7ba1\u7406\u540e\u53f0",
-        "\u8fd0\u8425",
-        "\u6570\u636e\u770b\u677f",
+        "后台",
+        "管理后台",
+        "运营",
+        "数据看板",
         "KPI",
         "monitoring",
-        "\u8fd0\u8425\u540e\u53f0\u603b\u89c8",
-        "\u8fd0\u8425\u540e\u53f0"
+        "运营后台总览",
+        "运营后台"
       ],
       "alt": "An analyst reviews charts, queues, and status in an operations dashboard.",
       "file": "png/internal-01-dashboard.png",
@@ -3813,19 +3827,19 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "ticket",
-        "\u5de5\u5355",
-        "\u5206\u6d41",
-        "\u6307\u6d3e",
+        "工单",
+        "分流",
+        "指派",
         "queue",
         "triage",
         "support",
         "assignment",
         "SLA",
-        "\u5de5\u5355\u5206\u6d41\u4e0e\u6307\u6d3e",
-        "\u670d\u52a1\u5de5\u5355"
+        "工单分流与指派",
+        "服务工单"
       ],
       "alt": "A coordinator routes a priority ticket to an assigned team tray.",
       "file": "png/internal-02-ticket-triage.png",
@@ -3845,18 +3859,18 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "expense",
         "approval",
-        "\u5ba1\u6279",
-        "\u5ba1\u6838",
-        "\u62a5\u9500",
-        "\u8d22\u52a1",
+        "审批",
+        "审核",
+        "报销",
+        "财务",
         "review",
         "reimbursement",
-        "\u8d39\u7528\u5ba1\u6838\u4e0e\u5ba1\u6279",
-        "\u4e1a\u52a1\u5ba1\u6279"
+        "费用审核与审批",
+        "业务审批"
       ],
       "alt": "An employee hands expense receipts to a reviewer checking an approval list.",
       "file": "png/internal-03-expense-approval.png",
@@ -3876,19 +3890,19 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "employee",
         "onboarding",
-        "\u5165\u804c",
-        "\u5458\u5de5",
-        "\u8d26\u53f7",
-        "\u5f00\u901a",
+        "入职",
+        "员工",
+        "账号",
+        "开通",
         "HR",
         "provisioning",
         "identity",
-        "\u5458\u5de5\u5165\u804c\u914d\u7f6e",
-        "\u5458\u5de5\u7ba1\u7406"
+        "员工入职配置",
+        "员工管理"
       ],
       "alt": "An administrator gives a new colleague a laptop and ID badge.",
       "file": "png/internal-04-onboarding.png",
@@ -3908,20 +3922,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "RBAC",
         "role",
         "access",
         "permission",
-        "\u6743\u9650",
-        "\u89d2\u8272",
-        "\u6388\u6743",
-        "\u6210\u5458",
+        "权限",
+        "角色",
+        "授权",
+        "成员",
         "team",
         "matrix",
-        "\u56e2\u961f\u89d2\u8272\u6743\u9650",
-        "\u89d2\u8272\u6743\u9650"
+        "团队角色权限",
+        "角色权限"
       ],
       "alt": "An administrator reviews team access in a role and folder matrix.",
       "file": "png/internal-05-role-access.png",
@@ -3941,20 +3955,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "bulk",
         "edit",
         "batch",
-        "\u6279\u91cf",
-        "\u7f16\u8f91",
-        "\u9884\u89c8",
+        "批量",
+        "编辑",
+        "预览",
         "selected",
         "rows",
         "data",
         "table",
-        "\u6279\u91cf\u7f16\u8f91\u9884\u89c8",
-        "\u6570\u636e\u64cd\u4f5c"
+        "批量编辑预览",
+        "数据操作"
       ],
       "alt": "An operator inspects selected rows and a proposed bulk field change.",
       "file": "png/internal-06-bulk-edit.png",
@@ -3974,21 +3988,21 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "import",
         "validation",
-        "\u5bfc\u5165",
-        "\u6821\u9a8c",
-        "\u9519\u8bef",
-        "\u884c",
+        "导入",
+        "校验",
+        "错误",
+        "行",
         "CSV",
-        "\u6570\u636e",
-        "\u68c0\u67e5",
+        "数据",
+        "检查",
         "row",
         "errors",
-        "\u5bfc\u5165\u6570\u636e\u6821\u9a8c",
-        "\u6570\u636e\u64cd\u4f5c"
+        "导入数据校验",
+        "数据操作"
       ],
       "alt": "A specialist compares imported data with accepted rows and an error row.",
       "file": "png/internal-07-import-validation.png",
@@ -4008,20 +4022,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "dedupe",
         "duplicate",
         "merge",
-        "\u53bb\u91cd",
-        "\u91cd\u590d",
-        "\u5408\u5e76",
-        "\u6570\u636e",
-        "\u6e05\u6d17",
+        "去重",
+        "重复",
+        "合并",
+        "数据",
+        "清洗",
         "CRM",
         "records",
-        "\u53bb\u91cd\u4e0e\u5408\u5e76\u8bb0\u5f55",
-        "\u6570\u636e\u64cd\u4f5c"
+        "去重与合并记录",
+        "数据操作"
       ],
       "alt": "A data steward compares two duplicate contact records with one merged record.",
       "file": "png/internal-08-deduplicate.png",
@@ -4041,19 +4055,19 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "audit",
         "log",
         "history",
-        "\u5ba1\u8ba1",
-        "\u64cd\u4f5c\u8bb0\u5f55",
-        "\u8ffd\u6eaf",
-        "\u65e5\u5fd7",
-        "\u53d8\u66f4",
+        "审计",
+        "操作记录",
+        "追溯",
+        "日志",
+        "变更",
         "accountability",
-        "\u64cd\u4f5c\u5ba1\u8ba1\u4e0e\u8ffd\u6eaf",
-        "\u5ba1\u8ba1\u8bb0\u5f55"
+        "操作审计与追溯",
+        "审计记录"
       ],
       "alt": "An administrator examines a selected audit event with its owner and time.",
       "file": "png/internal-09-audit-trail.png",
@@ -4073,20 +4087,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "integration",
         "API",
         "mapping",
-        "\u7cfb\u7edf",
-        "\u96c6\u6210",
-        "\u5b57\u6bb5",
-        "\u6620\u5c04",
-        "\u8fde\u63a5",
+        "系统",
+        "集成",
+        "字段",
+        "映射",
+        "连接",
         "connector",
         "data",
-        "\u7cfb\u7edf\u96c6\u6210\u5b57\u6bb5\u6620\u5c04",
-        "\u7cfb\u7edf\u96c6\u6210"
+        "系统集成字段映射",
+        "系统集成"
       ],
       "alt": "A specialist connects matching data fields between two internal systems.",
       "file": "png/internal-10-integration-map.png",
@@ -4106,20 +4120,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "configuration",
         "settings",
         "rollout",
-        "\u914d\u7f6e",
-        "\u53d1\u5e03",
-        "\u7070\u5ea6",
-        "\u5f00\u5173",
+        "配置",
+        "发布",
+        "灰度",
+        "开关",
         "feature",
         "flag",
         "environment",
-        "\u914d\u7f6e\u4e0e\u5206\u6279\u53d1\u5e03",
-        "\u914d\u7f6e\u7ba1\u7406"
+        "配置与分批发布",
+        "配置管理"
       ],
       "alt": "An administrator enables a configuration for the first of three team groups.",
       "file": "png/internal-11-config-rollout.png",
@@ -4139,20 +4153,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "incident",
         "response",
         "outage",
-        "\u6545\u969c",
-        "\u54cd\u5e94",
-        "\u8fd0\u7ef4",
-        "\u76d1\u63a7",
-        "\u544a\u8b66",
+        "故障",
+        "响应",
+        "运维",
+        "监控",
+        "告警",
         "on-call",
         "reliability",
-        "\u6545\u969c\u54cd\u5e94\u4e0e\u534f\u4f5c",
-        "\u8fd0\u884c\u7ef4\u62a4"
+        "故障响应与协作",
+        "运行维护"
       ],
       "alt": "Two colleagues inspect a service incident and follow a response checklist.",
       "file": "png/internal-12-incident.png",
@@ -4172,21 +4186,21 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "scheduled",
         "job",
         "cron",
         "retry",
-        "\u5b9a\u65f6",
-        "\u81ea\u52a8\u5316",
-        "\u4efb\u52a1",
-        "\u5931\u8d25",
-        "\u91cd\u8dd1",
+        "定时",
+        "自动化",
+        "任务",
+        "失败",
+        "重跑",
         "workflow",
         "scheduler",
-        "\u5b9a\u65f6\u4efb\u52a1\u4e0e\u5931\u8d25\u91cd\u8dd1",
-        "\u8fd0\u884c\u7ef4\u62a4"
+        "定时任务与失败重跑",
+        "运行维护"
       ],
       "alt": "An operator reviews a scheduled workflow with a failed step ready to retry.",
       "file": "png/internal-13-scheduled-jobs.png",
@@ -4206,20 +4220,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "knowledge",
         "wiki",
         "runbook",
-        "\u5185\u90e8",
-        "\u77e5\u8bc6",
-        "\u6587\u6863",
-        "\u4ea4\u63a5",
+        "内部",
+        "知识",
+        "文档",
+        "交接",
         "SOP",
         "owner",
         "documentation",
-        "\u5185\u90e8\u77e5\u8bc6\u4e0e\u4ea4\u63a5",
-        "\u56e2\u961f\u77e5\u8bc6"
+        "内部知识与交接",
+        "团队知识"
       ],
       "alt": "Colleagues hand over an owned procedure and maintain a shared document library.",
       "file": "png/internal-14-knowledge.png",
@@ -4239,20 +4253,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "report",
         "export",
         "filter",
-        "\u62a5\u8868",
-        "\u5bfc\u51fa",
-        "\u7b5b\u9009",
-        "\u6570\u636e",
-        "\u8fd0\u8425",
+        "报表",
+        "导出",
+        "筛选",
+        "数据",
+        "运营",
         "analytics",
         "download",
-        "\u7b5b\u9009\u62a5\u8868\u4e0e\u5bfc\u51fa",
-        "\u8fd0\u8425\u540e\u53f0"
+        "筛选报表与导出",
+        "运营后台"
       ],
       "alt": "An analyst exports a report from a filtered chart and table.",
       "file": "png/internal-15-report-export.png",
@@ -4272,20 +4286,20 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
         "asset",
         "inventory",
         "equipment",
-        "\u8d44\u4ea7",
-        "\u8bbe\u5907",
-        "\u9886\u7528",
-        "\u5f52\u8fd8",
-        "\u5e93\u5b58",
+        "资产",
+        "设备",
+        "领用",
+        "归还",
+        "库存",
         "IT",
         "checkout",
-        "\u8bbe\u5907\u9886\u7528\u4e0e\u5f52\u8fd8",
-        "\u8d44\u4ea7\u7ba1\u7406"
+        "设备领用与归还",
+        "资产管理"
       ],
       "alt": "An equipment coordinator assigns a tagged laptop to a colleague.",
       "file": "png/internal-16-equipment.png",
@@ -4305,16 +4319,16 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
-        "\u5de5\u5355",
-        "\u961f\u5217",
+        "工单",
+        "队列",
         "queue",
         "ticket",
         "priority",
         "support",
-        "\u5de5\u5355\u961f\u5217",
-        "\u670d\u52a1\u5de5\u5355"
+        "工单队列",
+        "服务工单"
       ],
       "alt": "Ticket cards with a priority dot and assignee sit in a queue tray.",
       "file": "png/spot-53-ticket-queue.png",
@@ -4334,16 +4348,16 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
-        "\u5ba1\u6279",
-        "\u94fe\u8def",
-        "\u5ba1\u6838",
+        "审批",
+        "链路",
+        "审核",
         "approval",
         "workflow",
         "review",
-        "\u5ba1\u6279\u94fe\u8def",
-        "\u4e1a\u52a1\u5ba1\u6279"
+        "审批链路",
+        "业务审批"
       ],
       "alt": "Three connected reviewers show two approvals and one pending step.",
       "file": "png/spot-54-approval-chain.png",
@@ -4363,17 +4377,17 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
-        "\u6743\u9650",
-        "\u89d2\u8272",
-        "\u6388\u6743",
+        "权限",
+        "角色",
+        "授权",
         "RBAC",
         "matrix",
         "access",
         "role",
-        "\u6743\u9650\u77e9\u9635",
-        "\u89d2\u8272\u6743\u9650"
+        "权限矩阵",
+        "角色权限"
       ],
       "alt": "A compact role matrix contains users, access checks, and a locked cell.",
       "file": "png/spot-55-role-matrix.png",
@@ -4393,18 +4407,18 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
-        "\u6279\u91cf",
-        "\u6570\u636e",
-        "\u8868\u683c",
-        "\u9009\u62e9",
+        "批量",
+        "数据",
+        "表格",
+        "选择",
         "batch",
         "bulk",
         "selected",
         "rows",
-        "\u6279\u91cf\u9009\u4e2d",
-        "\u6570\u636e\u64cd\u4f5c"
+        "批量选中",
+        "数据操作"
       ],
       "alt": "A table groups two selected rows while a third stays unselected.",
       "file": "png/spot-56-batch-select.png",
@@ -4424,18 +4438,18 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
-        "\u5ba1\u8ba1",
-        "\u65e5\u5fd7",
-        "\u8ffd\u6eaf",
-        "\u65f6\u95f4\u7ebf",
+        "审计",
+        "日志",
+        "追溯",
+        "时间线",
         "audit",
         "history",
         "change",
         "log",
-        "\u5ba1\u8ba1\u65f6\u95f4\u7ebf",
-        "\u5ba1\u8ba1\u8bb0\u5f55"
+        "审计时间线",
+        "审计记录"
       ],
       "alt": "A magnifier inspects one change beside an audit timeline.",
       "file": "png/spot-57-audit-history.png",
@@ -4455,18 +4469,18 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
-        "\u7cfb\u7edf",
-        "\u96c6\u6210",
-        "\u8fde\u63a5",
+        "系统",
+        "集成",
+        "连接",
         "API",
         "connector",
         "integration",
         "data",
         "mapping",
-        "\u7cfb\u7edf\u8fde\u63a5",
-        "\u7cfb\u7edf\u96c6\u6210"
+        "系统连接",
+        "系统集成"
       ],
       "alt": "One cable connects two data systems through matching sockets.",
       "file": "png/spot-58-systems-link.png",
@@ -4486,18 +4500,18 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
-        "\u544a\u8b66",
-        "\u6545\u969c",
-        "\u670d\u52a1",
-        "\u76d1\u63a7",
+        "告警",
+        "故障",
+        "服务",
+        "监控",
         "alert",
         "incident",
         "service",
         "status",
-        "\u670d\u52a1\u544a\u8b66",
-        "\u8fd0\u884c\u7ef4\u62a4"
+        "服务告警",
+        "运行维护"
       ],
       "alt": "A service monitor shows a warning and an acknowledgment check.",
       "file": "png/spot-59-incident-alert.png",
@@ -4517,18 +4531,18 @@
       "tags": [
         "internal tools",
         "enterprise",
-        "\u5185\u90e8\u5de5\u5177",
+        "内部工具",
         "B2B",
-        "\u8d44\u4ea7",
-        "\u8bbe\u5907",
-        "\u6807\u7b7e",
-        "\u9886\u7528",
+        "资产",
+        "设备",
+        "标签",
+        "领用",
         "asset",
         "inventory",
         "equipment",
         "tag",
-        "\u8bbe\u5907\u8d44\u4ea7\u6807\u7b7e",
-        "\u8d44\u4ea7\u7ba1\u7406"
+        "设备资产标签",
+        "资产管理"
       ],
       "alt": "A closed laptop carries an inventory tag with an assignee.",
       "file": "png/spot-60-equipment-tag.png",
@@ -4548,14 +4562,14 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "filter",
-        "\u7b5b\u9009",
-        "\u6570\u636e",
-        "\u6761\u4ef6",
+        "筛选",
+        "数据",
+        "条件",
         "funnel",
         "table",
-        "\u7b5b\u9009\u6570\u636e",
+        "筛选数据",
         "Data operations"
       ],
       "alt": "A funnel filters one selected row in a compact data table.",
@@ -4576,13 +4590,13 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "sort",
-        "\u6392\u5e8f",
-        "\u987a\u5e8f",
+        "排序",
+        "顺序",
         "order",
         "rows",
-        "\u6392\u5e8f\u987a\u5e8f",
+        "排序顺序",
         "Data operations"
       ],
       "alt": "A descending arrow sorts three rows by length.",
@@ -4603,15 +4617,15 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "pagination",
-        "\u5206\u9875",
-        "\u9875\u9762",
-        "\u7ffb\u9875",
+        "分页",
+        "页面",
+        "翻页",
         "navigation",
         "next",
         "previous",
-        "\u5206\u9875\u9762\u677f",
+        "分页面板",
         "Data operations"
       ],
       "alt": "Three page cards show the current page between navigation arrows.",
@@ -4632,14 +4646,14 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "bookmark",
-        "\u6536\u85cf",
-        "\u4fdd\u5b58",
-        "\u4e66\u7b7e",
+        "收藏",
+        "保存",
+        "书签",
         "favorite",
         "document",
-        "\u6536\u85cf\u4e0e\u4fdd\u5b58",
+        "收藏与保存",
         "Organization"
       ],
       "alt": "A cobalt bookmark marks a saved page in an open book.",
@@ -4660,14 +4674,14 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "tag",
-        "\u6807\u7b7e",
-        "\u5206\u7c7b",
-        "\u7c7b\u76ee",
+        "标签",
+        "分类",
+        "类目",
         "labels",
         "organization",
-        "\u6807\u7b7e\u5206\u7c7b",
+        "标签分类",
         "Organization"
       ],
       "alt": "Two linked tags indicate labels and categories.",
@@ -4688,15 +4702,15 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "reorder",
-        "\u62d6\u52a8",
-        "\u6392\u5e8f",
-        "\u987a\u5e8f",
+        "拖动",
+        "排序",
+        "顺序",
         "drag",
         "list",
         "rearrange",
-        "\u62d6\u52a8\u6392\u5e8f",
+        "拖动排序",
         "Editing"
       ],
       "alt": "A selected row moves upward in a reorderable list.",
@@ -4717,14 +4731,14 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "crop",
-        "\u88c1\u526a",
-        "\u56fe\u7247",
-        "\u622a\u53d6",
+        "裁剪",
+        "图片",
+        "截取",
         "image",
         "frame",
-        "\u88c1\u526a\u56fe\u7247",
+        "裁剪图片",
         "Editing"
       ],
       "alt": "Crop corners frame a simple landscape image.",
@@ -4745,14 +4759,14 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "layers",
-        "\u56fe\u5c42",
-        "\u53e0\u653e",
-        "\u5c42\u7ea7",
+        "图层",
+        "叠放",
+        "层级",
         "stack",
         "organization",
-        "\u56fe\u5c42\u7ec4\u7ec7",
+        "图层组织",
         "Editing"
       ],
       "alt": "Three stacked layers highlight the middle layer.",
@@ -4773,15 +4787,15 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "keyboard",
         "shortcut",
-        "\u5feb\u6377\u952e",
-        "\u952e\u76d8",
-        "\u64cd\u4f5c",
+        "快捷键",
+        "键盘",
+        "操作",
         "command",
         "return",
-        "\u952e\u76d8\u5feb\u6377\u64cd\u4f5c",
+        "键盘快捷操作",
         "Editing"
       ],
       "alt": "Two keyboard keys form a command and return shortcut.",
@@ -4802,16 +4816,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "sign-in",
         "login",
         "passkey",
-        "\u5b89\u5168",
-        "\u767b\u5f55",
-        "\u8eab\u4efd",
-        "\u5bc6\u94a5",
+        "安全",
+        "登录",
+        "身份",
+        "密钥",
         "authentication",
-        "\u5b89\u5168\u767b\u5f55",
+        "安全登录",
         "Access and privacy"
       ],
       "alt": "A key and ID card represent secure sign-in.",
@@ -4832,16 +4846,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "invite",
         "teammate",
         "member",
-        "\u9080\u8bf7",
-        "\u6210\u5458",
-        "\u56e2\u961f",
-        "\u52a0\u5165",
+        "邀请",
+        "成员",
+        "团队",
+        "加入",
         "collaborate",
-        "\u9080\u8bf7\u6210\u5458",
+        "邀请成员",
         "Team collaboration"
       ],
       "alt": "An add badge invites a teammate to a group.",
@@ -4862,16 +4876,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "comment",
         "resolve",
-        "\u8bc4\u8bba",
-        "\u89e3\u51b3",
-        "\u8ba8\u8bba",
-        "\u5df2\u5904\u7406",
+        "评论",
+        "解决",
+        "讨论",
+        "已处理",
         "thread",
         "feedback",
-        "\u8bc4\u8bba\u5df2\u89e3\u51b3",
+        "评论已解决",
         "Team collaboration"
       ],
       "alt": "A check badge marks a resolved comment.",
@@ -4892,16 +4906,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "mention",
-        "\u63d0\u53ca",
-        "\u540c\u4e8b",
-        "\u6d88\u606f",
-        "\u901a\u77e5",
+        "提及",
+        "同事",
+        "消息",
+        "通知",
         "at",
         "person",
         "message",
-        "\u63d0\u53ca\u540c\u4e8b",
+        "提及同事",
         "Team collaboration"
       ],
       "alt": "An at-sign in a speech bubble mentions a teammate.",
@@ -4922,16 +4936,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "signature",
-        "\u7b7e\u7f72",
-        "\u7b7e\u540d",
-        "\u6587\u4ef6",
-        "\u5ba1\u6279",
+        "签署",
+        "签名",
+        "文件",
+        "审批",
         "document",
         "approval",
         "sign",
-        "\u7b7e\u7f72\u6587\u4ef6",
+        "签署文件",
         "Business approvals"
       ],
       "alt": "A pen adds an abstract signature to a document.",
@@ -4952,16 +4966,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "backup",
         "snapshot",
-        "\u5907\u4efd",
-        "\u5feb\u7167",
-        "\u5b58\u50a8",
-        "\u6570\u636e",
+        "备份",
+        "快照",
+        "存储",
+        "数据",
         "database",
         "archive",
-        "\u5907\u4efd\u5feb\u7167",
+        "备份快照",
         "Files and sync"
       ],
       "alt": "A database snapshot moves into a backup tray.",
@@ -4982,16 +4996,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "restore",
         "recovery",
-        "\u6062\u590d",
-        "\u5907\u4efd",
-        "\u56de\u6eda",
-        "\u6570\u636e",
+        "恢复",
+        "备份",
+        "回滚",
+        "数据",
         "database",
         "snapshot",
-        "\u6062\u590d\u5907\u4efd",
+        "恢复备份",
         "Files and sync"
       ],
       "alt": "A saved snapshot restores data to a database.",
@@ -5012,17 +5026,17 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "scheduled",
         "automation",
-        "\u81ea\u52a8\u5316",
-        "\u6392\u7a0b",
-        "\u5b9a\u65f6",
-        "\u4efb\u52a1",
+        "自动化",
+        "排程",
+        "定时",
+        "任务",
         "cron",
         "workflow",
         "clock",
-        "\u81ea\u52a8\u5316\u6392\u7a0b",
+        "自动化排程",
         "Operations and reliability"
       ],
       "alt": "A clock and cog indicate scheduled automation.",
@@ -5043,16 +5057,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "feature",
         "toggle",
-        "\u914d\u7f6e",
-        "\u529f\u80fd",
-        "\u5f00\u5173",
-        "\u7070\u5ea6",
+        "配置",
+        "功能",
+        "开关",
+        "灰度",
         "flag",
         "setting",
-        "\u529f\u80fd\u5f00\u5173",
+        "功能开关",
         "Configuration"
       ],
       "alt": "A configuration toggle enables one feature.",
@@ -5073,16 +5087,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "export",
         "data",
-        "\u5bfc\u51fa",
-        "\u6570\u636e",
-        "\u62a5\u8868",
-        "\u8868\u683c",
+        "导出",
+        "数据",
+        "报表",
+        "表格",
         "download",
         "table",
-        "\u5bfc\u51fa\u6570\u636e",
+        "导出数据",
         "Data operations"
       ],
       "alt": "A table document exports data into a tray.",
@@ -5103,17 +5117,17 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "quota",
         "limit",
         "usage",
-        "\u7528\u91cf",
-        "\u989d\u5ea6",
-        "\u9650\u989d",
-        "\u914d\u989d",
+        "用量",
+        "额度",
+        "限额",
+        "配额",
         "capacity",
         "tokens",
-        "\u7528\u91cf\u989d\u5ea6",
+        "用量额度",
         "Data and actions"
       ],
       "alt": "A segmented gauge shows a remaining usage limit.",
@@ -5134,16 +5148,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "AI",
         "memory",
-        "\u8bb0\u5fc6",
-        "\u957f\u671f",
-        "\u4e0a\u4e0b\u6587",
+        "记忆",
+        "长期",
+        "上下文",
         "notes",
         "context",
         "recall",
-        "AI \u8bb0\u5fc6",
+        "AI 记忆",
         "AI inputs"
       ],
       "alt": "A processor retains bookmarked notes as AI memory.",
@@ -5164,16 +5178,16 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "AI",
         "model",
-        "\u6a21\u578b",
-        "\u9009\u62e9",
-        "\u5207\u6362",
+        "模型",
+        "选择",
+        "切换",
         "model",
         "selection",
         "processor",
-        "\u6a21\u578b\u9009\u62e9",
+        "模型选择",
         "AI inputs"
       ],
       "alt": "A check badge selects one of two AI processor tiles.",
@@ -5194,17 +5208,17 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "AI",
         "structured",
         "output",
-        "\u7ed3\u6784\u5316",
-        "\u8f93\u51fa",
-        "\u5b57\u6bb5",
+        "结构化",
+        "输出",
+        "字段",
         "schema",
         "JSON",
         "table",
-        "\u7ed3\u6784\u5316\u8f93\u51fa",
+        "结构化输出",
         "AI outputs"
       ],
       "alt": "A processor produces a structured grid of output fields.",
@@ -5225,17 +5239,17 @@
       "tags": [
         "compact utilities",
         "utility spots",
-        "\u5c0f\u63d2\u56fe",
+        "小插图",
         "AI",
         "evaluation",
         "eval",
-        "\u8f93\u51fa",
-        "\u8bc4\u4f30",
-        "\u8d28\u91cf",
-        "\u68c0\u67e5",
+        "输出",
+        "评估",
+        "质量",
+        "检查",
         "response",
         "checklist",
-        "AI \u8f93\u51fa\u8bc4\u4f30",
+        "AI 输出评估",
         "AI trust"
       ],
       "alt": "An evaluation checklist reviews an AI answer.",
@@ -5255,17 +5269,17 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "AI",
         "voice",
         "speech",
         "transcript",
-        "\u8bed\u97f3",
-        "\u8f6c\u5199",
-        "\u8f6c\u6587\u5b57",
-        "\u8f93\u5165",
-        "\u8bed\u97f3\u8f6c\u6587\u5b57",
+        "语音",
+        "转写",
+        "转文字",
+        "输入",
+        "语音转文字",
         "AI inputs"
       ],
       "alt": "A microphone converts speech into a short transcript.",
@@ -5285,18 +5299,18 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "AI",
         "vision",
         "image",
         "OCR",
-        "\u56fe\u7247",
-        "\u8bc6\u522b",
-        "\u63d0\u53d6",
-        "\u6587\u5b57",
-        "\u591a\u6a21\u6001",
-        "\u56fe\u7247\u8bc6\u522b\u4e0e OCR",
+        "图片",
+        "识别",
+        "提取",
+        "文字",
+        "多模态",
+        "图片识别与 OCR",
         "AI inputs"
       ],
       "alt": "A scanned image produces an extracted text card.",
@@ -5316,17 +5330,17 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "AI",
         "summary",
         "summarize",
         "document",
-        "\u6587\u6863",
-        "\u6458\u8981",
-        "\u603b\u7ed3",
-        "\u8d44\u6599",
-        "\u6587\u6863\u6458\u8981",
+        "文档",
+        "摘要",
+        "总结",
+        "资料",
+        "文档摘要",
         "AI outputs"
       ],
       "alt": "Several documents become one compact summary.",
@@ -5346,17 +5360,17 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "AI",
         "image",
         "generation",
-        "\u751f\u56fe",
-        "\u751f\u6210",
-        "\u56fe\u7247",
-        "\u521b\u4f5c",
+        "生图",
+        "生成",
+        "图片",
+        "创作",
         "illustration",
-        "AI \u751f\u56fe",
+        "AI 生图",
         "AI outputs"
       ],
       "alt": "A processor generates a simple landscape image.",
@@ -5376,18 +5390,18 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "AI",
         "coding",
         "code",
         "review",
-        "\u7f16\u7a0b",
-        "\u4ee3\u7801",
-        "\u68c0\u67e5",
-        "\u5ba1\u67e5",
+        "编程",
+        "代码",
+        "检查",
+        "审查",
         "developer",
-        "AI \u4ee3\u7801\u68c0\u67e5",
+        "AI 代码检查",
         "AI outputs"
       ],
       "alt": "A processor-marked code card passes a review check.",
@@ -5407,18 +5421,18 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "AI",
         "meeting",
         "action",
         "notes",
-        "\u4f1a\u8bae",
-        "\u884c\u52a8\u9879",
-        "\u7eaa\u8981",
-        "\u5f85\u529e",
+        "会议",
+        "行动项",
+        "纪要",
+        "待办",
         "tasks",
-        "\u4f1a\u8bae\u8f6c\u884c\u52a8\u9879",
+        "会议转行动项",
         "AI outputs"
       ],
       "alt": "Meeting conversation becomes a checklist of action items.",
@@ -5438,18 +5452,18 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "AI",
         "uncertain",
         "uncertainty",
         "confidence",
-        "\u4e0d\u786e\u5b9a",
-        "\u7b54\u6848",
-        "\u7f6e\u4fe1\u5ea6",
-        "\u8fb9\u754c",
+        "不确定",
+        "答案",
+        "置信度",
+        "边界",
         "trust",
-        "\u4e0d\u786e\u5b9a\u7b54\u6848",
+        "不确定答案",
         "AI trust"
       ],
       "alt": "A question mark signals uncertainty in an AI answer.",
@@ -5469,19 +5483,19 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "AI",
         "regenerate",
         "retry",
         "correct",
-        "\u91cd\u65b0",
-        "\u751f\u6210",
-        "\u7ea0\u9519",
-        "\u91cd\u8bd5",
-        "\u518d\u751f\u6210",
+        "重新",
+        "生成",
+        "纠错",
+        "重试",
+        "再生成",
         "recovery",
-        "\u7ea0\u9519\u4e0e\u91cd\u65b0\u751f\u6210",
+        "纠错与重新生成",
         "AI recovery"
       ],
       "alt": "A refresh arrow regenerates an AI answer.",
@@ -5501,18 +5515,18 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "API",
         "key",
         "credentials",
         "token",
-        "\u51ed\u8bc1",
-        "\u5bc6\u94a5",
-        "\u8ba4\u8bc1",
-        "\u63a5\u53e3",
+        "凭证",
+        "密钥",
+        "认证",
+        "接口",
         "developer",
-        "API \u51ed\u8bc1",
+        "API 凭证",
         "System integration"
       ],
       "alt": "A key authorizes a terminal-style system connection.",
@@ -5532,17 +5546,17 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "webhook",
         "event",
         "trigger",
-        "\u4e8b\u4ef6",
-        "\u89e6\u53d1",
-        "\u56de\u8c03",
-        "\u8fde\u63a5",
+        "事件",
+        "触发",
+        "回调",
+        "连接",
         "automation",
-        "Webhook \u4e8b\u4ef6",
+        "Webhook 事件",
         "System integration"
       ],
       "alt": "An event triggers a connected service.",
@@ -5562,18 +5576,18 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "environment",
         "dev",
         "staging",
         "production",
-        "\u73af\u5883",
-        "\u5f00\u53d1",
-        "\u6d4b\u8bd5",
-        "\u5207\u6362",
-        "\u914d\u7f6e",
-        "\u5f00\u53d1\u4e0e\u6d4b\u8bd5\u73af\u5883",
+        "环境",
+        "开发",
+        "测试",
+        "切换",
+        "配置",
+        "开发与测试环境",
         "Configuration"
       ],
       "alt": "A selector switches between two server environments.",
@@ -5593,18 +5607,18 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "release",
         "publish",
         "deploy",
         "version",
-        "\u7248\u672c",
-        "\u53d1\u5e03",
-        "\u90e8\u7f72",
-        "\u8f6f\u4ef6",
+        "版本",
+        "发布",
+        "部署",
+        "软件",
         "package",
-        "\u7248\u672c\u53d1\u5e03",
+        "版本发布",
         "Delivery"
       ],
       "alt": "An upward arrow releases a software package.",
@@ -5624,19 +5638,19 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "release",
         "rollback",
         "previous",
         "version",
-        "\u53d1\u5e03",
-        "\u56de\u6eda",
-        "\u7248\u672c",
-        "\u64a4\u56de",
-        "\u6062\u590d",
+        "发布",
+        "回滚",
+        "版本",
+        "撤回",
+        "恢复",
         "deploy",
-        "\u53d1\u5e03\u56de\u6eda",
+        "发布回滚",
         "Delivery"
       ],
       "alt": "A return arrow rolls a software package back to an earlier release.",
@@ -5656,19 +5670,19 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "SLA",
         "deadline",
         "response",
         "service",
-        "\u5de5\u5355",
-        "\u54cd\u5e94",
-        "\u65f6\u9650",
-        "\u670d\u52a1",
-        "\u671f\u9650",
+        "工单",
+        "响应",
+        "时限",
+        "服务",
+        "期限",
         "support",
-        "SLA \u54cd\u5e94\u65f6\u9650",
+        "SLA 响应时限",
         "Service desk"
       ],
       "alt": "A clock sets a response deadline on a service ticket.",
@@ -5688,18 +5702,18 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "offboarding",
         "deactivate",
         "account",
-        "\u5458\u5de5",
-        "\u79bb\u804c",
-        "\u505c\u7528",
-        "\u8d26\u53f7",
-        "\u64a4\u6743",
+        "员工",
+        "离职",
+        "停用",
+        "账号",
+        "撤权",
         "access",
-        "\u5458\u5de5\u79bb\u804c\u4e0e\u8d26\u53f7\u505c\u7528",
+        "员工离职与账号停用",
         "Employee administration"
       ],
       "alt": "A minus badge deactivates a workplace account.",
@@ -5719,19 +5733,19 @@
       "groupLabel": "Spot illustrations",
       "tags": [
         "capability spots",
-        "\u80fd\u529b\u4e0e\u4e1a\u52a1",
-        "\u5c0f\u63d2\u56fe",
+        "能力与业务",
+        "小插图",
         "approval",
         "return",
         "revise",
         "changes",
-        "\u5ba1\u6279",
-        "\u9000\u56de",
-        "\u4fee\u6539",
-        "\u8865\u5145",
-        "\u6750\u6599",
+        "审批",
+        "退回",
+        "修改",
+        "补充",
+        "材料",
         "review",
-        "\u5ba1\u6279\u9000\u56de\u4fee\u6539",
+        "审批退回修改",
         "Business approvals"
       ],
       "alt": "An approval document returns for edits.",
