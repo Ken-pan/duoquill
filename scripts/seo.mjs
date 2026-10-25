@@ -1,3 +1,4 @@
+import {renderCollections} from './collections.mjs';
 // Build the same artwork catalog into HTML so images and downloads work before JS.
 import {readFile,writeFile,mkdir} from 'node:fs/promises';
 import {join} from 'node:path';
@@ -27,5 +28,6 @@ export async function renderGallerySeo(base,out){
   await writeFile(join(out,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"><url><loc>${origin}/</loc>${images}</url></urlset>\n`);
   await writeFile(join(out,'robots.txt'),`User-agent: *\nAllow: /\n\nSitemap: ${origin}/sitemap.xml\n`);
   await writeFile(join(out,'_headers'),`/sitemap.xml\n  Content-Type: application/xml; charset=utf-8\n/*.md\n  Content-Type: text/markdown; charset=utf-8\n  X-Robots-Tag: noindex\n`);
+  await renderCollections(base,out,config,manifest);
   console.log(`SEO: ${manifest.assets.length} artwork links, images and license metadata in static HTML`);
 }
