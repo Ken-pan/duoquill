@@ -5,8 +5,8 @@ const [configBytes,manifestBytes]=await Promise.all([checkedFile('./gallery.json
 const config=JSON.parse(new TextDecoder().decode(configBytes));
 const manifest=JSON.parse(new TextDecoder().decode(manifestBytes));
 const assets=manifest.assets, byId=new Map(assets.map(asset=>[asset.id,asset]));
-document.title=config.name+' · Open artwork';document.body.classList.toggle('clay',config.kind==='clay');
-for(const [id,value] of [['brand',config.name],['title',config.name],['format',config.format],['description',config.description]])document.getElementById(id).textContent=value;
+document.title=document.querySelector('meta[property="og:title"]')?.content||config.name+' · Open artwork';document.body.classList.toggle('clay',config.kind==='clay');
+for(const [id,value] of [['brand',config.name],['title',config.name],['format',config.format],['description',config.description]]){const node=document.getElementById(id);if(node.textContent!==value)node.textContent=value;}
 document.querySelector('#source-link').href=config.repository;document.querySelector('#pack-download').href=config.repository+'/releases/download/v'+manifest.version+'/'+config.slug+'-v'+manifest.version+'.zip';
 document.querySelector('[data-header-download]').href=document.querySelector('#pack-download').href;
 document.querySelector('#hero-image').src=byId.get(config.hero).preview;document.querySelector('#hero-small').src=byId.get(config.secondary).preview;
@@ -14,9 +14,9 @@ const grid=document.querySelector('#grid'), search=document.querySelector('#sear
 const groups=new Map(assets.map(asset=>[asset.group,asset.groupLabel]));for(const [value,label] of groups){const option=document.createElement('option');option.value=value;option.textContent=label;group.append(option);}
 const cards=new Map();let packaging=false;let visible=assets,current,accent='#2f5bff',previewRevision=0,modifiedBlob,objectUrl,opener;
 for(const asset of assets){
-  const card=document.createElement('div');card.className='tile';card.role='listitem';
+  const card=grid.querySelector('[data-asset-id="'+asset.id+'"]')||document.createElement('div');const preview=card.querySelector('img')?.getAttribute('src')||asset.preview;card.replaceChildren();card.className='tile';card.role='listitem';
   const button=document.createElement('button');button.type='button';button.setAttribute('aria-label','Preview '+asset.title);
-  const art=document.createElement('span');art.className='tile-art';const image=new Image();image.src=asset.preview;image.alt='';image.loading='lazy';image.decoding='async';art.append(image);
+  const art=document.createElement('span');art.className='tile-art';const image=new Image();image.src=preview;image.alt=asset.alt;image.width=asset.width;image.height=asset.height;image.loading='lazy';image.decoding='async';art.append(image);
   const title=document.createElement('span');title.className='tile-title';title.textContent=asset.title;const type=document.createElement('span');type.className='tile-type';type.textContent=asset.groupLabel;
   button.append(art,title,type);button.addEventListener('click',()=>openPreview(asset,button));card.append(button);grid.append(card);cards.set(asset.id,card);
 }
